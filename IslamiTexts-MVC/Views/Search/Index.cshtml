@@ -38,21 +38,52 @@
         </div>
         <nav aria-label="Page navigation">
             <ul class="pagination">
-                <li>
-                    <a href="#" aria-label="Previous">
-                        <span aria-hidden="true">&laquo;</span>
-                    </a>
-                </li>
-                <li><a href="#">1</a></li>
-                <li><a href="#">2</a></li>
-                <li><a href="#">3</a></li>
-                <li><a href="#">4</a></li>
-                <li><a href="#">5</a></li>
-                <li>
-                    <a href="#" aria-label="Next">
-                        <span aria-hidden="true">&raquo;</span>
-                    </a>
-                </li>
+                @{
+                    IslamiTexts.Common.Web.Pagination pagination =
+                        new IslamiTexts.Common.Web.Pagination(Model, 10);
+
+                    if (pagination.CurrentPageNo == 1)
+                    {
+                        @*<li class="disabled">
+                            <a href="#" aria-label="Previous"><span aria-hidden="true">&laquo;</span></a>
+                        </li>*@
+                        <li class="disabled">
+                            <span aria-hidden="true">&laquo;</span>
+                        </li>
+                    }
+                    else
+                    {
+                        int previousStart = pagination.FirstItemIndex - pagination.PageSize;
+                        <li>
+                            <a href="/search?q=@ViewData[Constants.QueryKey]&start=@previousStart" aria-label="Previous">
+                                <span aria-hidden="true">&laquo;</span>
+                            </a>
+                        </li>
+                    }
+
+                    for (int pageNo = pagination.FirstPageNoToShow; pageNo < pagination.LastPageNoToShow; pageNo++)
+                    {
+                        string activeClass = pageNo == pagination.CurrentPageNo ? "active" : null;
+                        int start = (pageNo - 1) * pagination.PageSize;
+                        <li class="@activeClass"><a href="/search?q=@ViewData[Constants.QueryKey]&start=@start">@pageNo</a></li>
+                    }
+
+                    if (pagination.CurrentPageNo < pagination.LastPageNoToShow)
+                    {
+                        int nextStart = pagination.FirstItemIndex + pagination.PageSize;
+                        <li><a href="/search?q=@ViewData[Constants.QueryKey]&start=@nextStart" aria-label="Next">
+                                <span aria-hidden="true">&raquo;</span></a>
+                        </li>
+                    }
+                    else
+                    {
+                        @*<li class="disabled"><a href="#" aria-label="Next">
+                                <span aria-hidden="true">&raquo;</span></a></li>*@
+                        <li class="disabled">
+                            <span aria-hidden="true">&raquo;</span>
+                        </li>
+                    }
+                }
             </ul>
         </nav>
     </div>

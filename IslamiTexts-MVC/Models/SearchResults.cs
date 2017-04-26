@@ -13,8 +13,6 @@ namespace IslamiTexts.Models
 
         public int PageSize { get; private set; }
 
-        public int NoOfPagesToShow { get; private set; }
-
         public IList<ISearchResult> ResultItems { get; set; }
 
         public SearchResults(int firstItemIndex, int pageSize, int totalCountOfMatches)

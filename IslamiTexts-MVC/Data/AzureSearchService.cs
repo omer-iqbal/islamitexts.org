@@ -39,6 +39,7 @@ namespace IslamiTexts.Data
             SearchScope searchScope, 
             string searchString, 
             Translator preferredSnippetTranslator,
+            int start,
             int resultsToFetch)
         {
             Debug.Assert(!String.IsNullOrWhiteSpace(searchString), "searchString is null or whitespace.");
@@ -63,17 +64,14 @@ namespace IslamiTexts.Data
                 HighlightFields = searchFields,
                 IncludeTotalResultCount = true,
                 SearchMode = SearchMode.All,
-                Top = resultsToFetch
+                Top = resultsToFetch,
+                Skip = start
             };
 
             DocumentSearchResult<VerseDocument> results = 
                 searchClient.Documents.Search<VerseDocument>(searchString, parameters);
 
-            SearchResults searchResults = new SearchResults
-            {
-                Count = results.Count.Value,
-                FirstIndex = 1
-            };
+            SearchResults searchResults = new SearchResults(start, 10, (int)results.Count.Value);
 
             foreach (SearchResult<VerseDocument> result in results.Results)
             {

@@ -11,7 +11,7 @@ namespace IslamiTexts.Controllers
     public class SearchController : Controller
     {
         // GET: Search
-        public ActionResult Index(string q, int t = 9)
+        public ActionResult Index(string q, int t = 9, int start = 0)
         {
             if (String.IsNullOrWhiteSpace(q))
                 return RedirectToAction("Index", "Home");
@@ -36,6 +36,7 @@ namespace IslamiTexts.Controllers
                 SearchScope.Verse, 
                 q, 
                 (Translator)t,
+                start,
                 10);    // no of results to fetch
             return View(searchResults);
         }

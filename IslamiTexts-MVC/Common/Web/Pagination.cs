@@ -15,10 +15,10 @@ namespace IslamiTexts.Common.Web
             this.PageSize = results.PageSize;
             this.NoOfPagesToShow = noOfPagesToShow;
 
-            this.CurrentPageNo = this.FirstItemIndex / this.PageSize;
+            this.CurrentPageNo = this.FirstItemIndex / this.PageSize + 1;
 
-            this.FirstPageNoToShow = this.CurrentPageNo - this.NoOfPagesToShow / 2;
-            this.LastPageNoToShow = this.FirstPageNoToShow + this.NoOfPagesToShow / 2;
+            this.FirstPageNoToShow = this.CurrentPageNo - (this.NoOfPagesToShow - 1) / 2;
+            this.LastPageNoToShow = this.CurrentPageNo + this.NoOfPagesToShow / 2;
 
             if (this.FirstPageNoToShow < 1)
             {
