@@ -1,0 +1,39 @@
+﻿@model IEnumerable<IslamiTexts.Models.Surah>
+@{
+    ViewBag.Title = "All";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    int noOfCols = 4;
+    string surahColClass = @"col-xs-6 col-sm-3";
+}
+
+<h2>Surahs</h2>
+<div class="container">
+    @if (Model.Any())         
+    {
+        int i = 0;
+        foreach (var surah in Model)
+        {
+            if (i % noOfCols == 0)
+            {
+                @Html.Raw(@"<div class=""row"">")
+            }
+
+            string divCode = String.Format(@"<div class=""{0}"">", surahColClass);
+            @Html.Raw(divCode)
+            @Html.Raw(@"<div class=""panel panel-default""><div class=""panel-body"">")
+            @Html.Raw(@"<p class=""text-center"">")
+            @Html.Raw(@"<span class=""arabic"">")
+            @Html.Raw(surah.ArabicNames.FirstOrDefault())
+            @Html.Raw(@"</span>")
+            @Html.Raw(@"<br>")
+            @Html.Raw(surah.SurahNo + " " + surah.EnglishNames.FirstOrDefault())
+            @Html.Raw(@"</p></div></div></div>")
+
+            if (i % noOfCols == noOfCols - 1)
+            {
+                @Html.Raw(@"</div>")
+            }
+            i++;
+        }
+    }
+</div>

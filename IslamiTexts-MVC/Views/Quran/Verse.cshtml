@@ -1,0 +1,194 @@
+﻿@model IslamiTexts.ViewModels.VersePageViewModel
+
+@{
+    ViewBag.Title = "Verse";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<br/>
+<div class="container">
+    <div class="col-md-6">
+        <div class="panel panel-primary fixed-panel">
+            <!-- Default panel contents -->
+            <div class="panel-heading">Verse in Context</div>
+                @*<div class="panel-body  flex-grow">
+                    <p>test</p>
+                </div>*@
+ 
+            <div class="list-group">
+                @foreach (VerseTranslation verseSingleTranslation in Model.VerseBlock.VerseTranslations)
+                {
+                    if (verseSingleTranslation.VerseNo == Model.Verse.VerseNo)
+                    {
+                        <div class="list-group-item list-group-item-success">
+                            <p class="arabic-verse">@verseSingleTranslation.ArabicText</p>
+                            <p>@Html.Raw(verseSingleTranslation.TranslatedText) (@verseSingleTranslation.VerseNo)</p>
+                        </div>
+                    }
+                    else
+                    {
+                        <a href="/quran/@verseSingleTranslation.SurahNo/@verseSingleTranslation.VerseNo" 
+                            class="list-group-item list-group-item-action">
+                            <p class="arabic-verse">@verseSingleTranslation.ArabicText</p>
+                            <p>@Html.Raw(verseSingleTranslation.TranslatedText) (@verseSingleTranslation.VerseNo)</p>
+                        </a>
+                    }
+
+                    @*<li class="list-group-item arabic-verse">@verseSingleTranslation.ArabicText</li>
+                    <li class="list-group-item">@verseSingleTranslation.TranslatedText (@verseSingleTranslation.VerseNo)</li>*@
+                }
+            </div>
+
+        </div>
+    </div>
+    <div class="col-md-6">
+        <ul class="nav nav-pills">
+            <li role="presentation" class="active"><a href="#commentaries" data-toggle="tab">Commentaries</a></li>
+            <li role="presentation"><a href="#translations" data-toggle="tab">Translations</a></li>
+        </ul>
+
+        <div class="tab-content">
+
+            @{
+                VerseCommentary asadCommentary = Model.Verse.VerseCommentaries.Where(
+                    c => c.Commentator == Translator.Asad).SingleOrDefault();
+                VerseCommentary yusufCommentary = Model.Verse.VerseCommentaries.Where(
+                    c => c.Commentator == Translator.YusufAli).SingleOrDefault();
+
+                if (asadCommentary == null || yusufCommentary == null)
+                {
+                    <br />
+                    <div class="alert alert-danger">Oh snap! Commentaries could not be retrieved for this verse.
+                        This is an error, and we will get to it soon.</div>
+                    return;
+                }
+            }
+            <div id="commentaries" class="tab-pane active">
+                <br />
+
+                <ul class="nav nav-pills">
+                    @{
+                        string asadNavClass = @"active";
+                        if (asadCommentary.Notes == null || asadCommentary.Notes.Count == 0)
+                        { asadNavClass = "disabled"; }
+                    }
+                    <li role="presentation" class="@asadNavClass">
+                        <a href="#commentary-asad" data-toggle="tab">Asad</a>
+                    </li>
+
+                    @{
+                        string yusufNavClass = null;
+                        if (asadCommentary.Notes == null || asadCommentary.Notes.Count == 0)
+                        { yusufNavClass = "active"; }
+                        if (yusufCommentary.Notes == null || yusufCommentary.Notes.Count == 0)
+                        { yusufNavClass = "disabled"; }
+                    }
+
+                    <li role="presentation" class="@yusufNavClass">
+                        <a href="#commentary-yusufali" data-toggle="tab">Yusuf Ali</a>
+                    </li>
+                </ul>
+
+                <div class="tab-content">
+                    <br />
+
+                    <div id="commentary-asad" class="tab-pane @asadNavClass">
+                        @if (asadCommentary.Notes != null && asadCommentary.Notes.Count > 0)
+                        {
+                            <ul class="list-group">
+                                <li class="list-group-item list-group-item-success">@Html.Raw(asadCommentary.Text.Replace(@"{{", @"<sup>").Replace(@"}}", @"</sup>"))</li>
+                                @foreach (CommentaryNote note in asadCommentary.Notes)
+                                {
+                                    <li class="list-group-item"><sup>@note.Id</sup> @note.Text</li>
+                                }
+                            </ul>
+                        }
+                    </div>
+
+                    <div id="commentary-yusufali" class="tab-pane @yusufNavClass">
+                        @if (yusufCommentary.Notes != null && yusufCommentary.Notes.Count > 0)
+                        {
+                            <ul class="list-group">
+                                <li class="list-group-item list-group-item-success">@Html.Raw(yusufCommentary.Text.Replace(@"{{", @"<sup>").Replace(@"}}", @"</sup>"))</li>
+                                @foreach (CommentaryNote note in yusufCommentary.Notes)
+                                {
+                                    <li class="list-group-item"><sup>@note.Id</sup> @note.Text</li>
+                                }
+                            </ul>
+                        }
+                    </div>
+                </div>
+            </div>
+
+            @if (asadCommentary?.Notes?.Count == 0 && yusufCommentary?.Notes?.Count == 0)
+            {
+                <div class="alert alert-info">There are no commentary notes for this verse.</div>
+            }
+
+
+            @*<div id="commentaries" class="tab-pane active">
+                @{
+                    string activeClass = @"active";
+                }
+                <br />
+
+                <ul class="nav nav-pills">
+                    @foreach (VerseCommentary verseCommentary in @Model.Verse.VerseCommentaries)
+                    {
+                        if (verseCommentary.Notes.Any())
+                        {
+                            int verseCommentatorNo = (int)verseCommentary.Commentator;
+                            <li role="presentation" class="@activeClass"><a href="#commentary-@verseCommentatorNo" data-toggle="tab">@verseCommentary.Commentator</a></li>
+                            activeClass = null;
+                        }
+                    }
+                </ul>
+
+                <div class="tab-content">
+                    <br/>
+                    @{activeClass = "active"; }
+                    @foreach (VerseCommentary verseCommentary in @Model.Verse.VerseCommentaries)
+                    {
+                        int verseCommentatorNo = (int)verseCommentary.Commentator;
+                        if (verseCommentary.Notes.Any())
+                        {
+                            <div id="commentary-@verseCommentatorNo" class="tab-pane @activeClass">
+                                @{activeClass = null;}
+                                <ul class="list-group">
+                                    <li class="list-group-item list-group-item-success">@Html.Raw(verseCommentary.Text.Replace(@"{{", @"<sup>").Replace(@"}}", @"</sup>"))</li>
+
+                                    @foreach (CommentaryNote note in @verseCommentary.Notes)
+                                    {
+                                        <li class="list-group-item"><sup>@note.Id</sup> @note.Text</li>
+                                    }
+                                </ul>
+                            </div>
+                        }
+                    }
+                </div>
+            </div>*@
+            <div id="translations" class="tab-pane">
+                <br />
+                <ul class="list-group">
+                    @foreach (TranslatedText translatedText in @Model.Verse.TranslatedTexts)
+                    {
+                        <li class="list-group-item">@translatedText.Text 
+                            <nobr>&mdash; @Translators.GetName(translatedText.Translator)</nobr></li>
+                    }
+                </ul>
+
+                @*@foreach (TranslatedText translatedText in @Model.TranslatedTexts)
+                {
+                    <div class="panel panel-info">
+                        <div class="panel-heading">
+                            @Translators.GetName(translatedText.Translator)
+                        </div>
+                        <div class="panel-body">
+                            @translatedText.Text
+                        </div>
+                    </div>
+                }*@
+            </div>
+        </div>
+    </div>
+</div>

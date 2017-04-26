@@ -1,0 +1,59 @@
+﻿@model IslamiTexts.Models.SearchResults
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<br />
+<div class="container">
+    <div class="col-md-10 col-lg-8">
+        <div class="list-group">
+            @foreach (ISearchResult resultItem in Model.ResultItems)
+            {
+                switch (resultItem.ResultType)
+                {
+                    case ContentType.Verse:
+                        VerseResult verseResult = (VerseResult)resultItem;
+
+                        <a href="/quran/@verseResult.SurahNo/@verseResult.VerseNo" class="list-group-item list-group-item-action">
+                            <p class="arabic-verse">@verseResult.ArabicText</p>
+                            <p>@Html.Raw(verseResult.Translation) (@verseResult.SurahNo:@verseResult.VerseNo)</p>
+                        </a>
+                        break;
+
+                    case ContentType.VerseCommentary:
+                        VerseCommentaryResult commentaryResult = (VerseCommentaryResult)resultItem;
+
+                        <a href="http://www.bing.com" class="list-group-item list-group-item-action">
+                            <p>@Html.Raw(commentaryResult.Snippets[0])</p>
+                            <p>@commentaryResult.SurahNo:@commentaryResult.VerseNo</p>
+                        </a>
+                        break;
+
+                    default:
+                        break;
+                }
+            }
+        </div>
+        <nav aria-label="Page navigation">
+            <ul class="pagination">
+                <li>
+                    <a href="#" aria-label="Previous">
+                        <span aria-hidden="true">&laquo;</span>
+                    </a>
+                </li>
+                <li><a href="#">1</a></li>
+                <li><a href="#">2</a></li>
+                <li><a href="#">3</a></li>
+                <li><a href="#">4</a></li>
+                <li><a href="#">5</a></li>
+                <li>
+                    <a href="#" aria-label="Next">
+                        <span aria-hidden="true">&raquo;</span>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+</div>
