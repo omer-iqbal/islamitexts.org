@@ -16,20 +16,29 @@ namespace IslamiTexts.Data
         private const string SurahListPath = @"~/App_Data/Surahs.json";
         private readonly static Surah[] surahs = new Surah[114];
 
-        public DocumentRepository()
+        static DocumentRepository()
         {
             string mappedPath = HostingEnvironment.MapPath(SurahListPath);
             string surahsJson = File.ReadAllText(mappedPath);
 
             SurahDocument[] surahDocuments = JsonConvert.DeserializeObject<SurahDocument[]>(surahsJson);
 
-            foreach (SurahDocument document in surahDocuments)
+            foreach (SurahDocument surahDoc in surahDocuments)
             {
                 Surah surah = new Surah(
-                    document.SurahNo, 
-                    document.ArabicNames, 
-                    document.EnglishNames, 
-                    document.VerseCount);
+                    surahDoc.SurahNo, 
+                    surahDoc.ArabicNames, 
+                    surahDoc.EnglishNames, 
+                    surahDoc.VerseCount);
+
+                surah.Rukus = new Ruku[surahDoc.Rukus.Length];
+
+                foreach (SurahRuku surahRuku in surahDoc.Rukus)
+                {
+                    Ruku ruku = new Ruku(surahRuku.RukuNo, surahRuku.StartVerse, surahRuku.EndVerse);
+                    surah.Rukus[surahRuku.RukuNo - 1] = ruku;
+                }
+
                 surahs[surah.SurahNo - 1] = surah;
             }
         }
@@ -77,6 +86,14 @@ namespace IslamiTexts.Data
         public IList<Surah> GetSurahs()
         {
             return surahs;
+        }
+
+        public Surah GetSurah(int surahNo)
+        {
+            if (surahNo < 1 || surahNo > 114)
+                throw new ArgumentOutOfRangeException("Surah no must be beween 1 and 114.");
+
+            return surahs[surahNo - 1];
         }
 
         private IList<VerseTranslation> GetOrderedVerseTranslations(IList<VerseTranslationDocument> documents)

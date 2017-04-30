@@ -1,4 +1,5 @@
 ﻿@model IslamiTexts.Models.SearchResults
+@using IslamiTexts.Common.Web;
 
 @{
     ViewBag.Title = "Index";
@@ -28,7 +29,9 @@
                     case ContentType.Verse:
                         VerseResult verseResult = (VerseResult)resultItem;
 
-                        <a href="/quran/@verseResult.SurahNo/@verseResult.VerseNo" class="verse-result list-group-item list-group-item-action">
+                        string link = Links.GetVerseLink(verseResult.SurahNo, verseResult.VerseNo);
+
+                        <a href="@link" class="verse-result list-group-item list-group-item-action">
                             <p class="result-arabic-verse">@verseResult.ArabicText</p>
                             <p>@Html.Raw(verseResult.Translation) (@verseResult.SurahNo:@verseResult.VerseNo)</p>
                         </a>

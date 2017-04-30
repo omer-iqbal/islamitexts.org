@@ -1,14 +1,15 @@
 ﻿@model IslamiTexts.ViewModels.VersePageViewModel
-@using IslamiTexts.Common.Web;
 @Styles.Render("~/Content/VerseView.css")
 @{
     ViewBag.Title = "Verse";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<br />
-<div class="container" id="content">
-    <div id="left">
+@*<div class="container" id="content">
+    <div class="col-md-6" id="left">*@
+<div id="wrap">
+  <main>
+    <aside>
         <div class="panel panel-primary fixed-panel">
             <div class="panel-heading">Verses @Model.VerseBlock.FirstVerseNo to @Model.VerseBlock.LastVerseNo of Surah @Model.Surah.SurahNo.</div>
 
@@ -17,7 +18,6 @@
                 {
                     if (verseSingleTranslation.VerseNo == Model.Verse.VerseNo)
                     {
-                        <a name="@verseSingleTranslation.SurahNo:@verseSingleTranslation.VerseNo"></a>
                         <div class="list-group-item list-group-item-success">
                             <p class="arabic-verse">@verseSingleTranslation.ArabicText</p>
                             <p>@Html.Raw(verseSingleTranslation.TranslatedText) (@verseSingleTranslation.VerseNo)</p>
@@ -25,8 +25,7 @@
                     }
                     else
                     {
-                        string link = Links.GetVerseLink(verseSingleTranslation.SurahNo, verseSingleTranslation.VerseNo);
-                        <a href="@link"
+                        <a href="/quran/@verseSingleTranslation.SurahNo/@verseSingleTranslation.VerseNo"
                            class="list-group-item list-group-item-action">
                             <p class="arabic-verse">@verseSingleTranslation.ArabicText</p>
                             <p>@Html.Raw(verseSingleTranslation.TranslatedText) (@verseSingleTranslation.VerseNo)</p>
@@ -36,8 +35,8 @@
             </div>
 
         </div>
-    </div>
-    <div id="right">
+    </aside>
+    <article>
         <ul class="nav nav-pills">
             <li role="presentation" class="active"><a href="#commentaries" data-toggle="tab">Commentaries</a></li>
             <li role="presentation"><a href="#translations" data-toggle="tab">Translations</a></li>
@@ -136,5 +135,6 @@
                 </ul>
             </div>
         </div>
-    </div>
+    </article>
+  </main>
 </div>

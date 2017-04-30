@@ -20,9 +20,9 @@
 
         public const string RukuNo = @"ruku_no";
 
-        public const string VerseStart = @"verse_start";
+        public const string StartVerse = @"start_verse";
 
-        public const string VerseEnd = @"verse_end";
+        public const string EndVerse = @"end_verse";
 
         // Properties used in verse documents
         public const string ArText = @"ar_text";

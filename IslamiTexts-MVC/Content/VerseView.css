@@ -1,0 +1,28 @@
+﻿@media (min-width: 768px) {
+    body, html {
+        margin: 0;
+        overflow: hidden;
+        height: 100%;
+    }
+    #left {
+        position: absolute;
+        top: 50px;
+        bottom: 0;
+        left: 0;
+        width: 50%;
+        overflow-y: scroll;
+        height: calc(100% - 50px);
+        padding: 0.5em;
+    }
+
+    #right {
+        position: absolute;
+        top: 50px;
+        bottom: 0;
+        right: 0;
+        width: 50%;
+        overflow-y: scroll;
+        height: calc(100% - 50px);
+        padding: 0.5em;
+    }
+}

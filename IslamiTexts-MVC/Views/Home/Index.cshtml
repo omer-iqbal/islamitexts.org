@@ -1,4 +1,5 @@
 ﻿@model IEnumerable<IslamiTexts.Models.Surah>
+@using IslamiTexts.Common.Web;
 
 @{
     ViewBag.Title = "Home Page";
@@ -23,22 +24,15 @@
             <div class="@surahColClass">
 
                 <div class="list-group  text-center">
-                    <a href="/quran/@surah.SurahNo/1"
+                    @{
+                    string link = Links.GetVerseLink(@surah.SurahNo, 1, false);
+                    }
+                    <a href="@link"
                        class="list-group-item list-group-item-action">
                         <p class="arabic-surah">@surah.ArabicNames.FirstOrDefault()</p>
                         <p>@surah.SurahNo @surah.EnglishNames.FirstOrDefault()</p>
                     </a>
                 </div>
-
-                @*<ul class="list-group">
-                    <li class="list-group-item text-center">
-                        <span class="arabic-surah">
-                            @surah.ArabicNames.FirstOrDefault()
-                        </span>
-                        <br/>
-                        @surah.SurahNo @surah.EnglishNames.FirstOrDefault()
-                    </li>
-                </ul>*@
             </div>
 
             if (i % noOfCols == noOfCols - 1)

@@ -162,6 +162,7 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Common\Web\Links.cs" />
     <Compile Include="Common\Web\Pagination.cs" />
     <Compile Include="Constants.cs" />
     <Compile Include="Controllers\HomeController.cs" />
@@ -185,6 +186,7 @@
     <Compile Include="Models\CommentaryNote.cs" />
     <Compile Include="Models\SearchResults.cs" />
     <Compile Include="Models\SearchScope.cs" />
+    <Compile Include="Models\Ruku.cs" />
     <Compile Include="Models\Surah.cs" />
     <Compile Include="Data.Models\VerseDocument.cs" />
     <Compile Include="Models\TranslatedText.cs" />
@@ -206,6 +208,8 @@
     <Content Include="Content\bootstrap-readable.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\VerseView.css" />
+    <Content Include="Content\VerseView - Flex.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -243,9 +247,10 @@
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Quran\Index.cshtml" />
-    <Content Include="Views\Quran\Verse.cshtml" />
+    <Content Include="Views\Quran\Verse - Flex.cshtml" />
     <Content Include="Views\Search\Index.cshtml" />
     <Content Include="Views\Quran\Verse - WithPanels.cshtml" />
+    <Content Include="Views\Quran\Verse.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Texts\" />

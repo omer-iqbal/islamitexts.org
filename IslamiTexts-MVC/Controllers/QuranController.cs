@@ -26,15 +26,18 @@ namespace IslamiTexts.Controllers
             DocumentRepository repository = new DocumentRepository();
             Verse verse = await repository.GetVerseAsync(surahNo, verseNo);
 
-            int blockStartVerseNo = verseNo - NoOfVersesInContext / 2;
-            blockStartVerseNo = blockStartVerseNo < 1 ? 1 : blockStartVerseNo;
-            int blockEndVerseNo = blockStartVerseNo + NoOfVersesInContext;
+            Surah surah = repository.GetSurah(surahNo);
+            Ruku ruku = surah.GetRukuForVerse(verseNo);
+
+            int blockStartVerseNo = ruku.StartVerse;
+            int blockEndVerseNo = ruku.EndVerse;
 
             VerseBlock verseBlock = await repository.GetOrderedVersesAsync(
                 surahNo, blockStartVerseNo, blockEndVerseNo, Translator.Asad);
 
             VersePageViewModel viewModel = new VersePageViewModel
             {
+                Surah = surah,
                 VerseBlock = verseBlock,
                 Verse = verse
             };

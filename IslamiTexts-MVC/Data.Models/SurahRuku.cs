@@ -7,10 +7,10 @@ namespace IslamiTexts.Data.Models
         [JsonProperty(PropertyName = PropertyNames.RukuNo)]
         public int RukuNo { get; set; }
 
-        [JsonProperty(PropertyName = PropertyNames.VerseStart)]
-        public int VerseStart { get; set; }
+        [JsonProperty(PropertyName = PropertyNames.StartVerse)]
+        public int StartVerse { get; set; }
 
-        [JsonProperty(PropertyName = PropertyNames.VerseEnd)]
-        public int VerseEnd { get; set; }
+        [JsonProperty(PropertyName = PropertyNames.EndVerse)]
+        public int EndVerse { get; set; }
     }
 }
