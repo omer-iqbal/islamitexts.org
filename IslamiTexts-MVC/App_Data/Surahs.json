@@ -1,0 +1,3680 @@
+﻿[
+  {
+    "surah_no": 1,
+    "ar_names": [ "الفاتحة", "أم الكتاب", "أم القرآن", "السبع المثاني", "الحمد", "الشفاء", "سورة الصلاة", "الأساس" ],
+    "en_names": [ "Al-Fātihah" ],
+    "verse_count": 7,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 7
+      }
+    ]
+  },
+  {
+    "surah_no": 2,
+    "ar_names": [ "البقرة" ],
+    "en_names": [ "Al-Baqarah" ],
+    "verse_count": 286,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 7
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 8,
+        "verse_end": 20
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 21,
+        "verse_end": 29
+      },
+      {
+        "ruku_no": 4,
+        "verse_start": 30,
+        "verse_end": 39
+      },
+      {
+        "ruku_no": 5,
+        "verse_start": 40,
+        "verse_end": 46
+      },
+      {
+        "ruku_no": 6,
+        "verse_start": 47,
+        "verse_end": 59
+      },
+      {
+        "ruku_no": 7,
+        "verse_start": 60,
+        "verse_end": 61
+      },
+      {
+        "ruku_no": 8,
+        "verse_start": 62,
+        "verse_end": 71
+      },
+      {
+        "ruku_no": 9,
+        "verse_start": 72,
+        "verse_end": 82
+      },
+      {
+        "ruku_no": 10,
+        "verse_start": 83,
+        "verse_end": 86
+      },
+      {
+        "ruku_no": 11,
+        "verse_start": 87,
+        "verse_end": 96
+      },
+      {
+        "ruku_no": 12,
+        "verse_start": 97,
+        "verse_end": 103
+      },
+      {
+        "ruku_no": 13,
+        "verse_start": 104,
+        "verse_end": 112
+      },
+      {
+        "ruku_no": 14,
+        "verse_start": 113,
+        "verse_end": 121
+      },
+      {
+        "ruku_no": 15,
+        "verse_start": 122,
+        "verse_end": 129
+      },
+      {
+        "ruku_no": 16,
+        "verse_start": 130,
+        "verse_end": 141
+      },
+      {
+        "ruku_no": 17,
+        "verse_start": 142,
+        "verse_end": 147
+      },
+      {
+        "ruku_no": 18,
+        "verse_start": 148,
+        "verse_end": 152
+      },
+      {
+        "ruku_no": 19,
+        "verse_start": 153,
+        "verse_end": 163
+      },
+      {
+        "ruku_no": 20,
+        "verse_start": 164,
+        "verse_end": 167
+      },
+      {
+        "ruku_no": 21,
+        "verse_start": 168,
+        "verse_end": 176
+      },
+      {
+        "ruku_no": 22,
+        "verse_start": 177,
+        "verse_end": 182
+      },
+      {
+        "ruku_no": 23,
+        "verse_start": 183,
+        "verse_end": 188
+      },
+      {
+        "ruku_no": 24,
+        "verse_start": 189,
+        "verse_end": 196
+      },
+      {
+        "ruku_no": 25,
+        "verse_start": 197,
+        "verse_end": 210
+      },
+      {
+        "ruku_no": 26,
+        "verse_start": 211,
+        "verse_end": 216
+      },
+      {
+        "ruku_no": 27,
+        "verse_start": 217,
+        "verse_end": 221
+      },
+      {
+        "ruku_no": 28,
+        "verse_start": 222,
+        "verse_end": 228
+      },
+      {
+        "ruku_no": 29,
+        "verse_start": 229,
+        "verse_end": 231
+      },
+      {
+        "ruku_no": 30,
+        "verse_start": 232,
+        "verse_end": 235
+      },
+      {
+        "ruku_no": 31,
+        "verse_start": 236,
+        "verse_end": 242
+      },
+      {
+        "ruku_no": 32,
+        "verse_start": 243,
+        "verse_end": 248
+      },
+      {
+        "ruku_no": 33,
+        "verse_start": 249,
+        "verse_end": 253
+      },
+      {
+        "ruku_no": 34,
+        "verse_start": 254,
+        "verse_end": 257
+      },
+      {
+        "ruku_no": 35,
+        "verse_start": 258,
+        "verse_end": 260
+      },
+      {
+        "ruku_no": 36,
+        "verse_start": 261,
+        "verse_end": 266
+      },
+      {
+        "ruku_no": 37,
+        "verse_start": 267,
+        "verse_end": 273
+      },
+      {
+        "ruku_no": 38,
+        "verse_start": 274,
+        "verse_end": 281
+      },
+      {
+        "ruku_no": 39,
+        "verse_start": 282,
+        "verse_end": 283
+      },
+      {
+        "ruku_no": 40,
+        "verse_start": 284,
+        "verse_end": 286
+      }
+    ]
+  },
+  {
+    "surah_no": 3,
+    "ar_names": [ "آل عمران" ],
+    "en_names": [ "Āl-i-Imrān" ],
+    "verse_count": 200,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 9
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 10,
+        "verse_end": 20
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 21,
+        "verse_end": 30
+      },
+      {
+        "ruku_no": 4,
+        "verse_start": 31,
+        "verse_end": 41
+      },
+      {
+        "ruku_no": 5,
+        "verse_start": 42,
+        "verse_end": 54
+      },
+      {
+        "ruku_no": 6,
+        "verse_start": 55,
+        "verse_end": 63
+      },
+      {
+        "ruku_no": 7,
+        "verse_start": 64,
+        "verse_end": 71
+      },
+      {
+        "ruku_no": 8,
+        "verse_start": 72,
+        "verse_end": 80
+      },
+      {
+        "ruku_no": 9,
+        "verse_start": 81,
+        "verse_end": 91
+      },
+      {
+        "ruku_no": 10,
+        "verse_start": 92,
+        "verse_end": 101
+      },
+      {
+        "ruku_no": 11,
+        "verse_start": 102,
+        "verse_end": 109
+      },
+      {
+        "ruku_no": 12,
+        "verse_start": 110,
+        "verse_end": 120
+      },
+      {
+        "ruku_no": 13,
+        "verse_start": 121,
+        "verse_end": 129
+      },
+      {
+        "ruku_no": 14,
+        "verse_start": 130,
+        "verse_end": 143
+      },
+      {
+        "ruku_no": 15,
+        "verse_start": 144,
+        "verse_end": 148
+      },
+      {
+        "ruku_no": 16,
+        "verse_start": 149,
+        "verse_end": 155
+      },
+      {
+        "ruku_no": 17,
+        "verse_start": 156,
+        "verse_end": 171
+      },
+      {
+        "ruku_no": 18,
+        "verse_start": 172,
+        "verse_end": 180
+      },
+      {
+        "ruku_no": 19,
+        "verse_start": 181,
+        "verse_end": 189
+      },
+      {
+        "ruku_no": 20,
+        "verse_start": 190,
+        "verse_end": 200
+      }
+    ]
+  },
+  {
+    "surah_no": 4,
+    "ar_names": [ "النساء" ],
+    "en_names": [ "Al-Nisā" ],
+    "verse_count": 176,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 10
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 11,
+        "verse_end": 14
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 15,
+        "verse_end": 22
+      },
+      {
+        "ruku_no": 4,
+        "verse_start": 23,
+        "verse_end": 25
+      },
+      {
+        "ruku_no": 5,
+        "verse_start": 26,
+        "verse_end": 33
+      },
+      {
+        "ruku_no": 6,
+        "verse_start": 34,
+        "verse_end": 42
+      },
+      {
+        "ruku_no": 7,
+        "verse_start": 43,
+        "verse_end": 50
+      },
+      {
+        "ruku_no": 8,
+        "verse_start": 51,
+        "verse_end": 59
+      },
+      {
+        "ruku_no": 9,
+        "verse_start": 60,
+        "verse_end": 70
+      },
+      {
+        "ruku_no": 10,
+        "verse_start": 71,
+        "verse_end": 76
+      },
+      {
+        "ruku_no": 11,
+        "verse_start": 77,
+        "verse_end": 87
+      },
+      {
+        "ruku_no": 12,
+        "verse_start": 88,
+        "verse_end": 91
+      },
+      {
+        "ruku_no": 13,
+        "verse_start": 92,
+        "verse_end": 96
+      },
+      {
+        "ruku_no": 14,
+        "verse_start": 97,
+        "verse_end": 100
+      },
+      {
+        "ruku_no": 15,
+        "verse_start": 101,
+        "verse_end": 104
+      },
+      {
+        "ruku_no": 16,
+        "verse_start": 105,
+        "verse_end": 112
+      },
+      {
+        "ruku_no": 17,
+        "verse_start": 113,
+        "verse_end": 115
+      },
+      {
+        "ruku_no": 18,
+        "verse_start": 116,
+        "verse_end": 126
+      },
+      {
+        "ruku_no": 19,
+        "verse_start": 127,
+        "verse_end": 134
+      },
+      {
+        "ruku_no": 20,
+        "verse_start": 135,
+        "verse_end": 141
+      },
+      {
+        "ruku_no": 21,
+        "verse_start": 142,
+        "verse_end": 152
+      },
+      {
+        "ruku_no": 22,
+        "verse_start": 153,
+        "verse_end": 162
+      },
+      {
+        "ruku_no": 23,
+        "verse_start": 163,
+        "verse_end": 171
+      },
+      {
+        "ruku_no": 24,
+        "verse_start": 172,
+        "verse_end": 176
+      }
+    ]
+  },
+  {
+    "surah_no": 5,
+    "ar_names": [ "المائدة" ],
+    "en_names": [ "Al-Māidah" ],
+    "verse_count": 120,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 5
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 6,
+        "verse_end": 11
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 12,
+        "verse_end": 19
+      },
+      {
+        "ruku_no": 4,
+        "verse_start": 20,
+        "verse_end": 26
+      },
+      {
+        "ruku_no": 5,
+        "verse_start": 27,
+        "verse_end": 34
+      },
+      {
+        "ruku_no": 6,
+        "verse_start": 35,
+        "verse_end": 43
+      },
+      {
+        "ruku_no": 7,
+        "verse_start": 44,
+        "verse_end": 50
+      },
+      {
+        "ruku_no": 8,
+        "verse_start": 51,
+        "verse_end": 56
+      },
+      {
+        "ruku_no": 9,
+        "verse_start": 57,
+        "verse_end": 66
+      },
+      {
+        "ruku_no": 10,
+        "verse_start": 67,
+        "verse_end": 77
+      },
+      {
+        "ruku_no": 11,
+        "verse_start": 78,
+        "verse_end": 86
+      },
+      {
+        "ruku_no": 12,
+        "verse_start": 87,
+        "verse_end": 93
+      },
+      {
+        "ruku_no": 13,
+        "verse_start": 94,
+        "verse_end": 100
+      },
+      {
+        "ruku_no": 14,
+        "verse_start": 101,
+        "verse_end": 108
+      },
+      {
+        "ruku_no": 15,
+        "verse_start": 109,
+        "verse_end": 115
+      },
+      {
+        "ruku_no": 16,
+        "verse_start": 116,
+        "verse_end": 120
+      }
+    ]
+  },
+  {
+    "surah_no": 6,
+    "ar_names": [ "الأنعام" ],
+    "en_names": [ "Al-An'ām" ],
+    "verse_count": 165,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 10
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 11,
+        "verse_end": 20
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 21,
+        "verse_end": 30
+      },
+      {
+        "ruku_no": 4,
+        "verse_start": 31,
+        "verse_end": 41
+      },
+      {
+        "ruku_no": 5,
+        "verse_start": 42,
+        "verse_end": 50
+      },
+      {
+        "ruku_no": 6,
+        "verse_start": 51,
+        "verse_end": 55
+      },
+      {
+        "ruku_no": 7,
+        "verse_start": 56,
+        "verse_end": 60
+      },
+      {
+        "ruku_no": 8,
+        "verse_start": 61,
+        "verse_end": 70
+      },
+      {
+        "ruku_no": 9,
+        "verse_start": 71,
+        "verse_end": 82
+      },
+      {
+        "ruku_no": 10,
+        "verse_start": 83,
+        "verse_end": 90
+      },
+      {
+        "ruku_no": 11,
+        "verse_start": 91,
+        "verse_end": 94
+      },
+      {
+        "ruku_no": 12,
+        "verse_start": 95,
+        "verse_end": 100
+      },
+      {
+        "ruku_no": 13,
+        "verse_start": 101,
+        "verse_end": 110
+      },
+      {
+        "ruku_no": 14,
+        "verse_start": 111,
+        "verse_end": 121
+      },
+      {
+        "ruku_no": 15,
+        "verse_start": 122,
+        "verse_end": 129
+      },
+      {
+        "ruku_no": 16,
+        "verse_start": 130,
+        "verse_end": 140
+      },
+      {
+        "ruku_no": 17,
+        "verse_start": 141,
+        "verse_end": 144
+      },
+      {
+        "ruku_no": 18,
+        "verse_start": 145,
+        "verse_end": 150
+      },
+      {
+        "ruku_no": 19,
+        "verse_start": 151,
+        "verse_end": 154
+      },
+      {
+        "ruku_no": 20,
+        "verse_start": 155,
+        "verse_end": 165
+      }
+    ]
+  },
+  {
+    "surah_no": 7,
+    "ar_names": [ "الأعراف" ],
+    "en_names": [ "Al-A'rāf" ],
+    "verse_count": 206,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 10
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 11,
+        "verse_end": 25
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 26,
+        "verse_end": 31
+      },
+      {
+        "ruku_no": 4,
+        "verse_start": 32,
+        "verse_end": 39
+      },
+      {
+        "ruku_no": 5,
+        "verse_start": 40,
+        "verse_end": 47
+      },
+      {
+        "ruku_no": 6,
+        "verse_start": 48,
+        "verse_end": 53
+      },
+      {
+        "ruku_no": 7,
+        "verse_start": 54,
+        "verse_end": 57
+      },
+      {
+        "ruku_no": 8,
+        "verse_start": 58,
+        "verse_end": 64
+      },
+      {
+        "ruku_no": 9,
+        "verse_start": 65,
+        "verse_end": 72
+      },
+      {
+        "ruku_no": 10,
+        "verse_start": 73,
+        "verse_end": 84
+      },
+      {
+        "ruku_no": 11,
+        "verse_start": 85,
+        "verse_end": 93
+      },
+      {
+        "ruku_no": 12,
+        "verse_start": 94,
+        "verse_end": 99
+      },
+      {
+        "ruku_no": 13,
+        "verse_start": 100,
+        "verse_end": 108
+      },
+      {
+        "ruku_no": 14,
+        "verse_start": 109,
+        "verse_end": 126
+      },
+      {
+        "ruku_no": 15,
+        "verse_start": 127,
+        "verse_end": 129
+      },
+      {
+        "ruku_no": 16,
+        "verse_start": 130,
+        "verse_end": 141
+      },
+      {
+        "ruku_no": 17,
+        "verse_start": 142,
+        "verse_end": 147
+      },
+      {
+        "ruku_no": 18,
+        "verse_start": 148,
+        "verse_end": 151
+      },
+      {
+        "ruku_no": 19,
+        "verse_start": 152,
+        "verse_end": 157
+      },
+      {
+        "ruku_no": 20,
+        "verse_start": 158,
+        "verse_end": 162
+      },
+      {
+        "ruku_no": 21,
+        "verse_start": 163,
+        "verse_end": 171
+      },
+      {
+        "ruku_no": 22,
+        "verse_start": 172,
+        "verse_end": 181
+      },
+      {
+        "ruku_no": 23,
+        "verse_start": 182,
+        "verse_end": 188
+      },
+      {
+        "ruku_no": 24,
+        "verse_start": 189,
+        "verse_end": 206
+      }
+    ]
+  },
+  {
+    "surah_no": 8,
+    "ar_names": [ "الأنفال" ],
+    "en_names": [ "Al-Anfāl" ],
+    "verse_count": 75,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 10
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 11,
+        "verse_end": 19
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 20,
+        "verse_end": 28
+      },
+      {
+        "ruku_no": 4,
+        "verse_start": 29,
+        "verse_end": 37
+      },
+      {
+        "ruku_no": 5,
+        "verse_start": 38,
+        "verse_end": 44
+      },
+      {
+        "ruku_no": 6,
+        "verse_start": 45,
+        "verse_end": 48
+      },
+      {
+        "ruku_no": 7,
+        "verse_start": 49,
+        "verse_end": 58
+      },
+      {
+        "ruku_no": 8,
+        "verse_start": 57,
+        "verse_end": 64
+      },
+      {
+        "ruku_no": 9,
+        "verse_start": 65,
+        "verse_end": 69
+      },
+      {
+        "ruku_no": 10,
+        "verse_start": 70,
+        "verse_end": 75
+      }
+    ]
+  },
+  {
+    "surah_no": 9,
+    "ar_names": [ "التوبة", "البراءة" ],
+    "en_names": [ "Al-Taubah" ],
+    "verse_count": 129,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 6
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 7,
+        "verse_end": 16
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 17,
+        "verse_end": 24
+      },
+      {
+        "ruku_no": 4,
+        "verse_start": 25,
+        "verse_end": 29
+      },
+      {
+        "ruku_no": 5,
+        "verse_start": 30,
+        "verse_end": 37
+      },
+      {
+        "ruku_no": 6,
+        "verse_start": 38,
+        "verse_end": 42
+      },
+      {
+        "ruku_no": 7,
+        "verse_start": 43,
+        "verse_end": 59
+      },
+      {
+        "ruku_no": 8,
+        "verse_start": 60,
+        "verse_end": 66
+      },
+      {
+        "ruku_no": 9,
+        "verse_start": 67,
+        "verse_end": 72
+      },
+      {
+        "ruku_no": 10,
+        "verse_start": 73,
+        "verse_end": 80
+      },
+      {
+        "ruku_no": 11,
+        "verse_start": 81,
+        "verse_end": 89
+      },
+      {
+        "ruku_no": 12,
+        "verse_start": 90,
+        "verse_end": 99
+      },
+      {
+        "ruku_no": 13,
+        "verse_start": 100,
+        "verse_end": 110
+      },
+      {
+        "ruku_no": 14,
+        "verse_start": 111,
+        "verse_end": 118
+      },
+      {
+        "ruku_no": 15,
+        "verse_start": 119,
+        "verse_end": 122
+      },
+      {
+        "ruku_no": 16,
+        "verse_start": 123,
+        "verse_end": 129
+      }
+    ]
+  },
+  {
+    "surah_no": 10,
+    "ar_names": [ "يونس" ],
+    "en_names": [ "Yūnus" ],
+    "verse_count": 109,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 10
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 11,
+        "verse_end": 20
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 21,
+        "verse_end": 30
+      },
+      {
+        "ruku_no": 4,
+        "verse_start": 31,
+        "verse_end": 40
+      },
+      {
+        "ruku_no": 5,
+        "verse_start": 41,
+        "verse_end": 53
+      },
+      {
+        "ruku_no": 6,
+        "verse_start": 54,
+        "verse_end": 60
+      },
+      {
+        "ruku_no": 7,
+        "verse_start": 61,
+        "verse_end": 70
+      },
+      {
+        "ruku_no": 8,
+        "verse_start": 71,
+        "verse_end": 82
+      },
+      {
+        "ruku_no": 9,
+        "verse_start": 83,
+        "verse_end": 92
+      },
+      {
+        "ruku_no": 10,
+        "verse_start": 93,
+        "verse_end": 103
+      },
+      {
+        "ruku_no": 11,
+        "verse_start": 104,
+        "verse_end": 109
+      }
+    ]
+  },
+  {
+    "surah_no": 11,
+    "ar_names": [ "هود" ],
+    "en_names": [ "Hūd" ],
+    "verse_count": 123,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 8
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 9,
+        "verse_end": 24
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 25,
+        "verse_end": 35
+      },
+      {
+        "ruku_no": 4,
+        "verse_start": 36,
+        "verse_end": 49
+      },
+      {
+        "ruku_no": 5,
+        "verse_start": 50,
+        "verse_end": 60
+      },
+      {
+        "ruku_no": 6,
+        "verse_start": 61,
+        "verse_end": 68
+      },
+      {
+        "ruku_no": 7,
+        "verse_start": 69,
+        "verse_end": 83
+      },
+      {
+        "ruku_no": 8,
+        "verse_start": 84,
+        "verse_end": 96
+      },
+      {
+        "ruku_no": 9,
+        "verse_start": 97,
+        "verse_end": 109
+      },
+      {
+        "ruku_no": 10,
+        "verse_start": 110,
+        "verse_end": 123
+      }
+    ]
+  },
+  {
+    "surah_no": 12,
+    "ar_names": [ "يوسف" ],
+    "en_names": [ "Yūsuf" ],
+    "verse_count": 111,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 6
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 7,
+        "verse_end": 20
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 21,
+        "verse_end": 29
+      },
+      {
+        "ruku_no": 4,
+        "verse_start": 30,
+        "verse_end": 35
+      },
+      {
+        "ruku_no": 5,
+        "verse_start": 36,
+        "verse_end": 42
+      },
+      {
+        "ruku_no": 6,
+        "verse_start": 43,
+        "verse_end": 49
+      },
+      {
+        "ruku_no": 7,
+        "verse_start": 50,
+        "verse_end": 57
+      },
+      {
+        "ruku_no": 8,
+        "verse_start": 58,
+        "verse_end": 68
+      },
+      {
+        "ruku_no": 9,
+        "verse_start": 69,
+        "verse_end": 79
+      },
+      {
+        "ruku_no": 10,
+        "verse_start": 80,
+        "verse_end": 93
+      },
+      {
+        "ruku_no": 11,
+        "verse_start": 94,
+        "verse_end": 104
+      },
+      {
+        "ruku_no": 12,
+        "verse_start": 105,
+        "verse_end": 111
+      }
+    ]
+  },
+  {
+    "surah_no": 13,
+    "ar_names": [ "الرعد" ],
+    "en_names": [ "Al-Ra'd" ],
+    "verse_count": 43,
+    "rukus": [
+    { "ruku_no": 1,  "verse_start": 1, "verse_end": 7 },
+    { "ruku_no": 2,  "verse_start": 8, "verse_end": 18 },
+    { "ruku_no": 3,  "verse_start": 19, "verse_end": 26 },
+    { "ruku_no": 4,  "verse_start": 27, "verse_end": 31 },
+    { "ruku_no": 5,  "verse_start": 32, "verse_end": 37 },
+    { "ruku_no": 6,  "verse_start": 38, "verse_end": 43 }
+    ]
+  },
+  {
+    "surah_no": 14,
+    "ar_names": [ "إبراهيم" ],
+    "en_names": [ "Ibrāhīm" ],
+    "verse_count": 52,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 6
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 7,
+        "verse_end": 12
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 13,
+        "verse_end": 21
+      },
+      {
+        "ruku_no": 4,
+        "verse_start": 22,
+        "verse_end": 27
+      },
+      {
+        "ruku_no": 5,
+        "verse_start": 28,
+        "verse_end": 34
+      },
+      {
+        "ruku_no": 6,
+        "verse_start": 35,
+        "verse_end": 41
+      },
+      {
+        "ruku_no": 7,
+        "verse_start": 42,
+        "verse_end": 52
+      }
+    ]
+  },
+  {
+    "surah_no": 15,
+    "ar_names": [ "الحجر" ],
+    "en_names": [ "Al-Hijr" ],
+    "verse_count": 99,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 15
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 16,
+        "verse_end": 25
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 26,
+        "verse_end": 45
+      },
+      {
+        "ruku_no": 4,
+        "verse_start": 46,
+        "verse_end": 60
+      },
+      {
+        "ruku_no": 5,
+        "verse_start": 61,
+        "verse_end": 79
+      },
+      {
+        "ruku_no": 6,
+        "verse_start": 80,
+        "verse_end": 99
+      }
+    ]
+  },
+  {
+    "surah_no": 16,
+    "ar_names": [ "النحل", "النعم" ],
+    "en_names": [ "Al-Nahl" ],
+    "verse_count": 128,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 9
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 10,
+        "verse_end": 21
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 22,
+        "verse_end": 25
+      },
+      {
+        "ruku_no": 4,
+        "verse_start": 26,
+        "verse_end": 34
+      },
+      {
+        "ruku_no": 5,
+        "verse_start": 35,
+        "verse_end": 40
+      },
+      {
+        "ruku_no": 6,
+        "verse_start": 41,
+        "verse_end": 50
+      },
+      {
+        "ruku_no": 7,
+        "verse_start": 51,
+        "verse_end": 60
+      },
+      {
+        "ruku_no": 8,
+        "verse_start": 61,
+        "verse_end": 65
+      },
+      {
+        "ruku_no": 9,
+        "verse_start": 66,
+        "verse_end": 70
+      },
+      {
+        "ruku_no": 10,
+        "verse_start": 71,
+        "verse_end": 76
+      },
+      {
+        "ruku_no": 11,
+        "verse_start": 77,
+        "verse_end": 83
+      },
+      {
+        "ruku_no": 12,
+        "verse_start": 84,
+        "verse_end": 89
+      },
+      {
+        "ruku_no": 13,
+        "verse_start": 90,
+        "verse_end": 100
+      },
+      {
+        "ruku_no": 14,
+        "verse_start": 101,
+        "verse_end": 110
+      },
+      {
+        "ruku_no": 15,
+        "verse_start": 111,
+        "verse_end": 119
+      },
+      {
+        "ruku_no": 16,
+        "verse_start": 120,
+        "verse_end": 128
+      }
+    ]
+  },
+  {
+    "surah_no": 17,
+    "ar_names": [ "الإسراء", "بني إسراءيل", "سبحان" ],
+    "en_names": [ "Al-Isrā" ],
+    "verse_count": 111,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 10
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 11,
+        "verse_end": 22
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 23,
+        "verse_end": 30
+      },
+      {
+        "ruku_no": 4,
+        "verse_start": 31,
+        "verse_end": 40
+      },
+      {
+        "ruku_no": 5,
+        "verse_start": 41,
+        "verse_end": 52
+      },
+      {
+        "ruku_no": 6,
+        "verse_start": 53,
+        "verse_end": 60
+      },
+      {
+        "ruku_no": 7,
+        "verse_start": 61,
+        "verse_end": 70
+      },
+      {
+        "ruku_no": 8,
+        "verse_start": 71,
+        "verse_end": 77
+      },
+      {
+        "ruku_no": 9,
+        "verse_start": 78,
+        "verse_end": 84
+      },
+      {
+        "ruku_no": 10,
+        "verse_start": 85,
+        "verse_end": 93
+      },
+      {
+        "ruku_no": 11,
+        "verse_start": 94,
+        "verse_end": 100
+      },
+      {
+        "ruku_no": 12,
+        "verse_start": 101,
+        "verse_end": 111
+      }
+    ]
+  },
+  {
+    "surah_no": 18,
+    "ar_names": [ "الكهف" ],
+    "en_names": [ "Al-Kahf" ],
+    "verse_count": 110,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 12
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 13,
+        "verse_end": 17
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 18,
+        "verse_end": 22
+      },
+      {
+        "ruku_no": 4,
+        "verse_start": 23,
+        "verse_end": 31
+      },
+      {
+        "ruku_no": 5,
+        "verse_start": 32,
+        "verse_end": 44
+      },
+      {
+        "ruku_no": 6,
+        "verse_start": 45,
+        "verse_end": 49
+      },
+      {
+        "ruku_no": 7,
+        "verse_start": 50,
+        "verse_end": 53
+      },
+      {
+        "ruku_no": 8,
+        "verse_start": 54,
+        "verse_end": 59
+      },
+      {
+        "ruku_no": 9,
+        "verse_start": 60,
+        "verse_end": 70
+      },
+      {
+        "ruku_no": 10,
+        "verse_start": 71,
+        "verse_end": 82
+      },
+      {
+        "ruku_no": 11,
+        "verse_start": 83,
+        "verse_end": 101
+      },
+      {
+        "ruku_no": 12,
+        "verse_start": 102,
+        "verse_end": 110
+      }
+    ]
+  },
+  {
+    "surah_no": 19,
+    "ar_names": [ "مريم" ],
+    "en_names": [ "Maryam" ],
+    "verse_count": 98,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 15
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 16,
+        "verse_end": 40
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 41,
+        "verse_end": 50
+      },
+      {
+        "ruku_no": 4,
+        "verse_start": 51,
+        "verse_end": 65
+      },
+      {
+        "ruku_no": 5,
+        "verse_start": 66,
+        "verse_end": 82
+      },
+      {
+        "ruku_no": 6,
+        "verse_start": 83,
+        "verse_end": 98
+      }
+    ]
+  },
+  {
+    "surah_no": 20,
+    "ar_names": [ "طه" ],
+    "en_names": [ "Ta Ha" ],
+    "verse_count": 135,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 24
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 25,
+        "verse_end": 54
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 55,
+        "verse_end": 76
+      },
+      {
+        "ruku_no": 4,
+        "verse_start": 77,
+        "verse_end": 89
+      },
+      {
+        "ruku_no": 5,
+        "verse_start": 90,
+        "verse_end": 104
+      },
+      {
+        "ruku_no": 6,
+        "verse_start": 105,
+        "verse_end": 115
+      },
+      {
+        "ruku_no": 7,
+        "verse_start": 116,
+        "verse_end": 128
+      },
+      {
+        "ruku_no": 8,
+        "verse_start": 129,
+        "verse_end": 135
+      }
+    ]
+  },
+  {
+    "surah_no": 21,
+    "ar_names": [ "الأنبياء" ],
+    "en_names": [ "Al-Anbiyā" ],
+    "verse_count": 112,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 10
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 11,
+        "verse_end": 29
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 30,
+        "verse_end": 41
+      },
+      {
+        "ruku_no": 4,
+        "verse_start": 42,
+        "verse_end": 51
+      },
+      {
+        "ruku_no": 5,
+        "verse_start": 52,
+        "verse_end": 75
+      },
+      {
+        "ruku_no": 6,
+        "verse_start": 76,
+        "verse_end": 93
+      },
+      {
+        "ruku_no": 7,
+        "verse_start": 94,
+        "verse_end": 112
+      }
+    ]
+  },
+  {
+    "surah_no": 22,
+    "ar_names": [ "الحج" ],
+    "en_names": [ "Al-Hajj" ],
+    "verse_count": 78,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 10
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 11,
+        "verse_end": 22
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 23,
+        "verse_end": 25
+      },
+      {
+        "ruku_no": 4,
+        "verse_start": 26,
+        "verse_end": 33
+      },
+      {
+        "ruku_no": 5,
+        "verse_start": 34,
+        "verse_end": 38
+      },
+      {
+        "ruku_no": 6,
+        "verse_start": 39,
+        "verse_end": 48
+      },
+      {
+        "ruku_no": 7,
+        "verse_start": 49,
+        "verse_end": 57
+      },
+      {
+        "ruku_no": 8,
+        "verse_start": 58,
+        "verse_end": 64
+      },
+      {
+        "ruku_no": 9,
+        "verse_start": 65,
+        "verse_end": 72
+      },
+      {
+        "ruku_no": 10,
+        "verse_start": 73,
+        "verse_end": 78
+      }
+    ]
+  },
+  {
+    "surah_no": 23,
+    "ar_names": [ "المؤمنون" ],
+    "en_names": [ "Al-Muminūn" ],
+    "verse_count": 118,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 22
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 23,
+        "verse_end": 32
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 33,
+        "verse_end": 50
+      },
+      {
+        "ruku_no": 4,
+        "verse_start": 51,
+        "verse_end": 77
+      },
+      {
+        "ruku_no": 5,
+        "verse_start": 78,
+        "verse_end": 92
+      },
+      {
+        "ruku_no": 6,
+        "verse_start": 93,
+        "verse_end": 118
+      }
+    ]
+  },
+  {
+    "surah_no": 24,
+    "ar_names": [ "النور" ],
+    "en_names": [ "Al-Nūr" ],
+    "verse_count": 64,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 10
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 11,
+        "verse_end": 20
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 21,
+        "verse_end": 26
+      },
+      {
+        "ruku_no": 4,
+        "verse_start": 27,
+        "verse_end": 34
+      },
+      {
+        "ruku_no": 5,
+        "verse_start": 35,
+        "verse_end": 40
+      },
+      {
+        "ruku_no": 6,
+        "verse_start": 41,
+        "verse_end": 50
+      },
+      {
+        "ruku_no": 7,
+        "verse_start": 51,
+        "verse_end": 57
+      },
+      {
+        "ruku_no": 8,
+        "verse_start": 58,
+        "verse_end": 61
+      },
+      {
+        "ruku_no": 9,
+        "verse_start": 62,
+        "verse_end": 64
+      }
+    ]
+  },
+  {
+    "surah_no": 25,
+    "ar_names": [ "الفرقان" ],
+    "en_names": [ "Al-Furqān" ],
+    "verse_count": 77,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 9
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 10,
+        "verse_end": 20
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 21,
+        "verse_end": 34
+      },
+      {
+        "ruku_no": 4,
+        "verse_start": 35,
+        "verse_end": 44
+      },
+      {
+        "ruku_no": 5,
+        "verse_start": 45,
+        "verse_end": 60
+      },
+      {
+        "ruku_no": 6,
+        "verse_start": 61,
+        "verse_end": 77
+      }
+    ]
+  },
+  {
+    "surah_no": 26,
+    "ar_names": [ "الشعراء" ],
+    "en_names": [ "Al-Shu'arā" ],
+    "verse_count": 227,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 9
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 10,
+        "verse_end": 33
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 32,
+        "verse_end": 51
+      },
+      {
+        "ruku_no": 4,
+        "verse_start": 52,
+        "verse_end": 68
+      },
+      {
+        "ruku_no": 5,
+        "verse_start": 69,
+        "verse_end": 104
+      },
+      {
+        "ruku_no": 6,
+        "verse_start": 105,
+        "verse_end": 122
+      },
+      {
+        "ruku_no": 7,
+        "verse_start": 123,
+        "verse_end": 140
+      },
+      {
+        "ruku_no": 8,
+        "verse_start": 141,
+        "verse_end": 159
+      },
+      {
+        "ruku_no": 9,
+        "verse_start": 160,
+        "verse_end": 175
+      },
+      {
+        "ruku_no": 10,
+        "verse_start": 176,
+        "verse_end": 191
+      },
+      {
+        "ruku_no": 11,
+        "verse_start": 192,
+        "verse_end": 227
+      }
+    ]
+  },
+  {
+    "surah_no": 27,
+    "ar_names": [ "النمل" ],
+    "en_names": [ "Al-Naml" ],
+    "verse_count": 93,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 14
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 15,
+        "verse_end": 31
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 32,
+        "verse_end": 44
+      },
+      {
+        "ruku_no": 4,
+        "verse_start": 45,
+        "verse_end": 58
+      },
+      {
+        "ruku_no": 5,
+        "verse_start": 59,
+        "verse_end": 66
+      },
+      {
+        "ruku_no": 6,
+        "verse_start": 67,
+        "verse_end": 82
+      },
+      {
+        "ruku_no": 7,
+        "verse_start": 83,
+        "verse_end": 93
+      }
+    ]
+  },
+  {
+    "surah_no": 28,
+    "ar_names": [ "القصص" ],
+    "en_names": [ "Al-Qasas" ],
+    "verse_count": 88,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 13
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 14,
+        "verse_end": 21
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 22,
+        "verse_end": 28
+      },
+      {
+        "ruku_no": 4,
+        "verse_start": 29,
+        "verse_end": 42
+      },
+      {
+        "ruku_no": 5,
+        "verse_start": 43,
+        "verse_end": 50
+      },
+      {
+        "ruku_no": 6,
+        "verse_start": 51,
+        "verse_end": 60
+      },
+      {
+        "ruku_no": 7,
+        "verse_start": 61,
+        "verse_end": 75
+      },
+      {
+        "ruku_no": 8,
+        "verse_start": 76,
+        "verse_end": 82
+      },
+      {
+        "ruku_no": 9,
+        "verse_start": 83,
+        "verse_end": 88
+      }
+    ]
+  },
+  {
+    "surah_no": 29,
+    "ar_names": [ "العنكبوت" ],
+    "en_names": [ "Al-'Ankabūt" ],
+    "verse_count": 69,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 13
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 14,
+        "verse_end": 22
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 23,
+        "verse_end": 30
+      },
+      {
+        "ruku_no": 4,
+        "verse_start": 31,
+        "verse_end": 44
+      },
+      {
+        "ruku_no": 5,
+        "verse_start": 45,
+        "verse_end": 51
+      },
+      {
+        "ruku_no": 6,
+        "verse_start": 52,
+        "verse_end": 63
+      },
+      {
+        "ruku_no": 7,
+        "verse_start": 64,
+        "verse_end": 69
+      }
+    ]
+  },
+  {
+    "surah_no": 30,
+    "ar_names": [ "الروم" ],
+    "en_names": [ "Al-Rūm" ],
+    "verse_count": 60,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 10
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 11,
+        "verse_end": 19
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 20,
+        "verse_end": 27
+      },
+      {
+        "ruku_no": 4,
+        "verse_start": 28,
+        "verse_end": 40
+      },
+      {
+        "ruku_no": 5,
+        "verse_start": 41,
+        "verse_end": 53
+      },
+      {
+        "ruku_no": 6,
+        "verse_start": 54,
+        "verse_end": 60
+      }
+    ]
+  },
+  {
+    "surah_no": 31,
+    "ar_names": [ "لقمان" ],
+    "en_names": [ "Luqmān" ],
+    "verse_count": 34,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 11
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 12,
+        "verse_end": 19
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 20,
+        "verse_end": 30
+      },
+      {
+        "ruku_no": 4,
+        "verse_start": 31,
+        "verse_end": 34
+      }
+    ]
+  },
+  {
+    "surah_no": 32,
+    "ar_names": [ "السجدة", "المضاجع", "الم تنزيل" ],
+    "en_names": [ "Al-Sajadah" ],
+    "verse_count": 30,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 11
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 12,
+        "verse_end": 22
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 23,
+        "verse_end": 30
+      }
+    ]
+  },
+  {
+    "surah_no": 33,
+    "ar_names": [ "الأحزاب" ],
+    "en_names": [ "Al-Ahzāb" ],
+    "verse_count": 73,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 8
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 9,
+        "verse_end": 20
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 21,
+        "verse_end": 27
+      },
+      {
+        "ruku_no": 4,
+        "verse_start": 28,
+        "verse_end": 34
+      },
+      {
+        "ruku_no": 5,
+        "verse_start": 35,
+        "verse_end": 40
+      },
+      {
+        "ruku_no": 6,
+        "verse_start": 41,
+        "verse_end": 52
+      },
+      {
+        "ruku_no": 7,
+        "verse_start": 53,
+        "verse_end": 58
+      },
+      {
+        "ruku_no": 8,
+        "verse_start": 59,
+        "verse_end": 68
+      },
+      {
+        "ruku_no": 9,
+        "verse_start": 69,
+        "verse_end": 73
+      }
+    ]
+  },
+  {
+    "surah_no": 34,
+    "ar_names": [ "سبأ" ],
+    "en_names": [ "Sabā" ],
+    "verse_count": 54,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 9
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 10,
+        "verse_end": 21
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 22,
+        "verse_end": 30
+      },
+      {
+        "ruku_no": 4,
+        "verse_start": 31,
+        "verse_end": 36
+      },
+      {
+        "ruku_no": 5,
+        "verse_start": 37,
+        "verse_end": 45
+      },
+      {
+        "ruku_no": 6,
+        "verse_start": 46,
+        "verse_end": 54
+      }
+    ]
+  },
+  {
+    "surah_no": 35,
+    "ar_names": [ "فاطر", "الملائكة" ],
+    "en_names": [ "Fātir" ],
+    "verse_count": 45,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 7
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 8,
+        "verse_end": 14
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 15,
+        "verse_end": 26
+      },
+      {
+        "ruku_no": 4,
+        "verse_start": 27,
+        "verse_end": 37
+      },
+      {
+        "ruku_no": 5,
+        "verse_start": 38,
+        "verse_end": 45
+      }
+    ]
+  },
+  {
+    "surah_no": 36,
+    "ar_names": [ "يس" ],
+    "en_names": [ "Yā Sīn" ],
+    "verse_count": 83,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 12
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 13,
+        "verse_end": 32
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 33,
+        "verse_end": 50
+      },
+      {
+        "ruku_no": 4,
+        "verse_start": 51,
+        "verse_end": 67
+      },
+      {
+        "ruku_no": 5,
+        "verse_start": 68,
+        "verse_end": 83
+      }
+    ]
+  },
+  {
+    "surah_no": 37,
+    "ar_names": [ "الصافات" ],
+    "en_names": [ "Al-Sāffāt" ],
+    "verse_count": 182,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 21
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 22,
+        "verse_end": 74
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 75,
+        "verse_end": 113
+      },
+      {
+        "ruku_no": 4,
+        "verse_start": 114,
+        "verse_end": 138
+      },
+      {
+        "ruku_no": 5,
+        "verse_start": 139,
+        "verse_end": 182
+      }
+    ]
+  },
+  {
+    "surah_no": 38,
+    "ar_names": [ "ص", "داود" ],
+    "en_names": [ "Sād" ],
+    "verse_count": 88,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 14
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 15,
+        "verse_end": 26
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 27,
+        "verse_end": 40
+      },
+      {
+        "ruku_no": 4,
+        "verse_start": 41,
+        "verse_end": 64
+      },
+      {
+        "ruku_no": 5,
+        "verse_start": 65,
+        "verse_end": 88
+      }
+    ]
+  },
+  {
+    "surah_no": 39,
+    "ar_names": [ "الزمر", "الغرف" ],
+    "en_names": [ "Al-Zumar" ],
+    "verse_count": 75,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 9
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 10,
+        "verse_end": 21
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 22,
+        "verse_end": 31
+      },
+      {
+        "ruku_no": 4,
+        "verse_start": 32,
+        "verse_end": 41
+      },
+      {
+        "ruku_no": 5,
+        "verse_start": 42,
+        "verse_end": 52
+      },
+      {
+        "ruku_no": 6,
+        "verse_start": 53,
+        "verse_end": 63
+      },
+      {
+        "ruku_no": 7,
+        "verse_start": 64,
+        "verse_end": 70
+      },
+      {
+        "ruku_no": 8,
+        "verse_start": 71,
+        "verse_end": 75
+      }
+    ]
+  },
+  {
+    "surah_no": 40,
+    "ar_names": [ "غافر", "المؤمن", "الفضل" ],
+    "en_names": [ "Ghāfir" ],
+    "verse_count": 85,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 9
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 10,
+        "verse_end": 20
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 21,
+        "verse_end": 27
+      },
+      {
+        "ruku_no": 4,
+        "verse_start": 28,
+        "verse_end": 37
+      },
+      {
+        "ruku_no": 5,
+        "verse_start": 38,
+        "verse_end": 50
+      },
+      {
+        "ruku_no": 6,
+        "verse_start": 51,
+        "verse_end": 60
+      },
+      {
+        "ruku_no": 7,
+        "verse_start": 61,
+        "verse_end": 68
+      },
+      {
+        "ruku_no": 8,
+        "verse_start": 69,
+        "verse_end": 78
+      },
+      {
+        "ruku_no": 9,
+        "verse_start": 79,
+        "verse_end": 85
+      }
+    ]
+  },
+  {
+    "surah_no": 41,
+    "ar_names": [ "فصلت", "حم سجدة", "المصابيح", "الأقوات" ],
+    "en_names": [ "Fussilat" ],
+    "verse_count": 54,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 8
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 9,
+        "verse_end": 18
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 19,
+        "verse_end": 25
+      },
+      {
+        "ruku_no": 4,
+        "verse_start": 26,
+        "verse_end": 32
+      },
+      {
+        "ruku_no": 5,
+        "verse_start": 33,
+        "verse_end": 44
+      },
+      {
+        "ruku_no": 6,
+        "verse_start": 45,
+        "verse_end": 54
+      }
+    ]
+  },
+  {
+    "surah_no": 42,
+    "ar_names": [ "الشورى", "حم عسق" ],
+    "en_names": [ "Al-Shūra" ],
+    "verse_count": 53,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 9
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 10,
+        "verse_end": 19
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 20,
+        "verse_end": 29
+      },
+      {
+        "ruku_no": 4,
+        "verse_start": 30,
+        "verse_end": 43
+      },
+      {
+        "ruku_no": 5,
+        "verse_start": 44,
+        "verse_end": 53
+      }
+    ]
+  },
+  {
+    "surah_no": 43,
+    "ar_names": [ "الزخرف" ],
+    "en_names": [ "Al-Zukhruf" ],
+    "verse_count": 89,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 15
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 16,
+        "verse_end": 25
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 26,
+        "verse_end": 35
+      },
+      {
+        "ruku_no": 4,
+        "verse_start": 36,
+        "verse_end": 45
+      },
+      {
+        "ruku_no": 5,
+        "verse_start": 46,
+        "verse_end": 56
+      },
+      {
+        "ruku_no": 6,
+        "verse_start": 57,
+        "verse_end": 67
+      },
+      {
+        "ruku_no": 7,
+        "verse_start": 68,
+        "verse_end": 89
+      }
+    ]
+  },
+  {
+    "surah_no": 44,
+    "ar_names": [ "الدخان" ],
+    "en_names": [ "Al-Dukhān" ],
+    "verse_count": 59,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 29
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 30,
+        "verse_end": 42
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 43,
+        "verse_end": 59
+      }
+    ]
+  },
+  {
+    "surah_no": 45,
+    "ar_names": [ "الجاثية", "الشريعة" ],
+    "en_names": [ "Al-Jāthiah" ],
+    "verse_count": 37,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 11
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 12,
+        "verse_end": 21
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 22,
+        "verse_end": 26
+      },
+      {
+        "ruku_no": 4,
+        "verse_start": 27,
+        "verse_end": 37
+      }
+    ]
+  },
+  {
+    "surah_no": 46,
+    "ar_names": [ "الأحقاف" ],
+    "en_names": [ "Al-Ahqāf" ],
+    "verse_count": 35,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 10
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 11,
+        "verse_end": 20
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 21,
+        "verse_end": 26
+      },
+      {
+        "ruku_no": 4,
+        "verse_start": 27,
+        "verse_end": 35
+      }
+    ]
+  },
+  {
+    "surah_no": 47,
+    "ar_names": [ "محمد", "القتال" ],
+    "en_names": [ "Muhammad" ],
+    "verse_count": 38,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 11
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 12,
+        "verse_end": 19
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 20,
+        "verse_end": 28
+      },
+      {
+        "ruku_no": 4,
+        "verse_start": 29,
+        "verse_end": 38
+      }
+    ]
+  },
+  {
+    "surah_no": 48,
+    "ar_names": [ "الفتح" ],
+    "en_names": [ "Al-Fatah" ],
+    "verse_count": 29,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 10
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 11,
+        "verse_end": 17
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 18,
+        "verse_end": 26
+      },
+      {
+        "ruku_no": 4,
+        "verse_start": 27,
+        "verse_end": 29
+      }
+    ]
+  },
+  {
+    "surah_no": 49,
+    "ar_names": [ "الحجرات" ],
+    "en_names": [ "Al-Hujurāt" ],
+    "verse_count": 18,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 10
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 11,
+        "verse_end": 18
+      }
+    ]
+  },
+  {
+    "surah_no": 50,
+    "ar_names": [ "ق", "الباسقات" ],
+    "en_names": [ "Qāf" ],
+    "verse_count": 45,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 15
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 16,
+        "verse_end": 29
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 30,
+        "verse_end": 45
+      }
+    ]
+  },
+  {
+    "surah_no": 51,
+    "ar_names": [ "الذاريات" ],
+    "en_names": [ "Al-Zāriyāt" ],
+    "verse_count": 60,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 23
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 24,
+        "verse_end": 46
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 47,
+        "verse_end": 60
+      }
+    ]
+  },
+  {
+    "surah_no": 52,
+    "ar_names": [ "الطور" ],
+    "en_names": [ "Al-Tūr" ],
+    "verse_count": 49,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 28
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 29,
+        "verse_end": 49
+      }
+    ]
+  },
+  {
+    "surah_no": 53,
+    "ar_names": [ "النجم" ],
+    "en_names": [ "Al-Najm" ],
+    "verse_count": 62,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 25
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 26,
+        "verse_end": 32
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 33,
+        "verse_end": 62
+      }
+    ]
+  },
+  {
+    "surah_no": 54,
+    "ar_names": [ "القمر", "اقتربت الساعة" ],
+    "en_names": [ "Al-Qamar" ],
+    "verse_count": 55,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 22
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 23,
+        "verse_end": 40
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 41,
+        "verse_end": 55
+      }
+    ]
+  },
+  {
+    "surah_no": 55,
+    "ar_names": [ "الرحمن" ],
+    "en_names": [ "Al-Rahmān" ],
+    "verse_count": 78,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 25
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 26,
+        "verse_end": 45
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 46,
+        "verse_end": 78
+      }
+    ]
+  },
+  {
+    "surah_no": 56,
+    "ar_names": [ "الواقعة" ],
+    "en_names": [ "Al-Wāqi'ah" ],
+    "verse_count": 96,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 38
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 39,
+        "verse_end": 74
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 75,
+        "verse_end": 96
+      }
+    ]
+  },
+  {
+    "surah_no": 57,
+    "ar_names": [ "الحديد" ],
+    "en_names": [ "Al-Hadīd" ],
+    "verse_count": 29,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 10
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 11,
+        "verse_end": 19
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 20,
+        "verse_end": 25
+      },
+      {
+        "ruku_no": 4,
+        "verse_start": 26,
+        "verse_end": 29
+      }
+    ]
+  },
+  {
+    "surah_no": 58,
+    "ar_names": [ "المجادلة", "الظهار" ],
+    "en_names": [ "Al-Mujādilah" ],
+    "verse_count": 22,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 6
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 7,
+        "verse_end": 13
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 14,
+        "verse_end": 22
+      }
+    ]
+  },
+  {
+    "surah_no": 59,
+    "ar_names": [ "الحشر", "بنو نضير" ],
+    "en_names": [ "Al-Hashr" ],
+    "verse_count": 24,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 10
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 11,
+        "verse_end": 17
+      },
+      {
+        "ruku_no": 3,
+        "verse_start": 18,
+        "verse_end": 24
+      }
+    ]
+  },
+  {
+    "surah_no": 60,
+    "ar_names": [ "الممتحنة", "الامتحان", "المودة" ],
+    "en_names": [ "Al-Mumtahinah" ],
+    "verse_count": 13,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 6
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 7,
+        "verse_end": 13
+      }
+    ]
+  },
+  {
+    "surah_no": 61,
+    "ar_names": [ "الصف", "الحواريون", "عيسى" ],
+    "en_names": [ "Al-Saff" ],
+    "verse_count": 14,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 9
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 8,
+        "verse_end": 14
+      }
+    ]
+  },
+  {
+    "surah_no": 62,
+    "ar_names": [ "الجمعة" ],
+    "en_names": [ "Al-Jumu'ah" ],
+    "verse_count": 11,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 8
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 9,
+        "verse_end": 11
+      }
+    ]
+  },
+  {
+    "surah_no": 63,
+    "ar_names": [ "المنافقون" ],
+    "en_names": [ "Al-Munāfiqūn" ],
+    "verse_count": 11,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 8
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 10,
+        "verse_end": 11
+      }
+    ]
+  },
+  {
+    "surah_no": 64,
+    "ar_names": [ "التغابن" ],
+    "en_names": [ "Al-Taghābun" ],
+    "verse_count": 18,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 10
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 17,
+        "verse_end": 18
+      }
+    ]
+  },
+  {
+    "surah_no": 65,
+    "ar_names": [ "الطلاق", "سورة النساء القصرى" ],
+    "en_names": [ "Al-Talāq" ],
+    "verse_count": 12,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 7
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 8,
+        "verse_end": 12
+      }
+    ]
+  },
+  {
+    "surah_no": 66,
+    "ar_names": [ "التحريم", "لما تحرم", "المتحرم", "سورة النبي" ],
+    "en_names": [ "Al-Tahrīm" ],
+    "verse_count": 12,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 7
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 8,
+        "verse_end": 12
+      }
+    ]
+  },
+  {
+    "surah_no": 67,
+    "ar_names": [ "الملك", "تبارك", "المانع", "المنجية" ],
+    "en_names": [ "Al-Mulk" ],
+    "verse_count": 30,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 14
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 15,
+        "verse_end": 30
+      }
+    ]
+  },
+  {
+    "surah_no": 68,
+    "ar_names": [ "القلم" ],
+    "en_names": [ "Al-Qalam" ],
+    "verse_count": 52,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 33
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 34,
+        "verse_end": 52
+      }
+    ]
+  },
+  {
+    "surah_no": 69,
+    "ar_names": [ "الحاقة" ],
+    "en_names": [ "Al-Hāqah" ],
+    "verse_count": 52,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 37
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 38,
+        "verse_end": 52
+      }
+    ]
+  },
+  {
+    "surah_no": 70,
+    "ar_names": [ "المعارج", "المواقع", "سأل" ],
+    "en_names": [ "Al-Ma'ārij" ],
+    "verse_count": 44,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 35
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 36,
+        "verse_end": 44
+      }
+    ]
+  },
+  {
+    "surah_no": 71,
+    "ar_names": [ "نوح" ],
+    "en_names": [ "Nūh" ],
+    "verse_count": 28,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 20
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 21,
+        "verse_end": 28
+      }
+    ]
+  },
+  {
+    "surah_no": 72,
+    "ar_names": [ "الجن" ],
+    "en_names": [ "Al-Jinn" ],
+    "verse_count": 28,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 19
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 20,
+        "verse_end": 28
+      }
+    ]
+  },
+  {
+    "surah_no": 73,
+    "ar_names": [ "المزمل" ],
+    "en_names": [ "Al-Muzammil" ],
+    "verse_count": 20,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 19
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 20,
+        "verse_end": 20
+      }
+    ]
+  },
+  {
+    "surah_no": 74,
+    "ar_names": [ "المدثر" ],
+    "en_names": [ "Al-Mudathir" ],
+    "verse_count": 56,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 31
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 32,
+        "verse_end": 56
+      }
+    ]
+  },
+  {
+    "surah_no": 75,
+    "ar_names": [ "القيامة", "لا أقسم" ],
+    "en_names": [ "Al-Qiyāmah" ],
+    "verse_count": 40,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 30
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 31,
+        "verse_end": 40
+      }
+    ]
+  },
+  {
+    "surah_no": 76,
+    "ar_names": [ "الإنسان", "الدهر", "هل أتى", "الأبرار" ],
+    "en_names": [ "Al-Insān" ],
+    "verse_count": 31,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 22
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 23,
+        "verse_end": 31
+      }
+    ]
+  },
+  {
+    "surah_no": 77,
+    "ar_names": [ "المرسلات" ],
+    "en_names": [ "Al-Mursilāt" ],
+    "verse_count": 50,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 40
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 41,
+        "verse_end": 50
+      }
+    ]
+  },
+  {
+    "surah_no": 78,
+    "ar_names": [ "النبأ", "المعصرات", "التساءل" ],
+    "en_names": [ "Al-Nabā" ],
+    "verse_count": 40,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 30
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 31,
+        "verse_end": 40
+      }
+    ]
+  },
+  {
+    "surah_no": 79,
+    "ar_names": [ "النازعات", "الساهرة", "الطامة" ],
+    "en_names": [ "Al-Nāzi'āt" ],
+    "verse_count": 46,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 26
+      },
+      {
+        "ruku_no": 2,
+        "verse_start": 27,
+        "verse_end": 46
+      }
+    ]
+  },
+  {
+    "surah_no": 80,
+    "ar_names": [ "عبس", "الصاخة", "السفرة" ],
+    "en_names": [ "'Abasa" ],
+    "verse_count": 42,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 42
+      }
+    ]
+  },
+  {
+    "surah_no": 81,
+    "ar_names": [ "التكوير" ],
+    "en_names": [ "Al-Takvīr" ],
+    "verse_count": 29,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 29
+      }
+    ]
+  },
+  {
+    "surah_no": 82,
+    "ar_names": [ "الإنفطار" ],
+    "en_names": [ "Al-Infitār" ],
+    "verse_count": 19,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 19
+      }
+    ]
+  },
+  {
+    "surah_no": 83,
+    "ar_names": [ "المطففين" ],
+    "en_names": [ "Al-Mutaffiffīn" ],
+    "verse_count": 36,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 36
+      }
+    ]
+  },
+  {
+    "surah_no": 84,
+    "ar_names": [ "الإنشقاق" ],
+    "en_names": [ "Al-Inshiqāq" ],
+    "verse_count": 25,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 25
+      }
+    ]
+  },
+  {
+    "surah_no": 85,
+    "ar_names": [ "البروج" ],
+    "en_names": [ "Al-Burūj" ],
+    "verse_count": 22,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 22
+      }
+    ]
+  },
+  {
+    "surah_no": 86,
+    "ar_names": [ "الطارق" ],
+    "en_names": [ "Al-Tāriq" ],
+    "verse_count": 17,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 17
+      }
+    ]
+  },
+  {
+    "surah_no": 87,
+    "ar_names": [ "الأعلى" ],
+    "en_names": [ "Al-A'lā" ],
+    "verse_count": 19,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 19
+      }
+    ]
+  },
+  {
+    "surah_no": 88,
+    "ar_names": [ "الغاشية" ],
+    "en_names": [ "Al-Ghāshiyah" ],
+    "verse_count": 26,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 26
+      }
+    ]
+  },
+  {
+    "surah_no": 89,
+    "ar_names": [ "الفجر" ],
+    "en_names": [ "Al-Fajr" ],
+    "verse_count": 30,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 30
+      }
+    ]
+  },
+  {
+    "surah_no": 90,
+    "ar_names": [ "البلد" ],
+    "en_names": [ "Al-Balad" ],
+    "verse_count": 20,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 20
+      }
+    ]
+  },
+  {
+    "surah_no": 91,
+    "ar_names": [ "الشمس" ],
+    "en_names": [ "Al-Shams" ],
+    "verse_count": 15,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 15
+      }
+    ]
+  },
+  {
+    "surah_no": 92,
+    "ar_names": [ "الليل" ],
+    "en_names": [ "Al-Layl" ],
+    "verse_count": 21,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 21
+      }
+    ]
+  },
+  {
+    "surah_no": 93,
+    "ar_names": [ "الضحى" ],
+    "en_names": [ "Al-Duhā" ],
+    "verse_count": 11,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 11
+      }
+    ]
+  },
+  {
+    "surah_no": 94,
+    "ar_names": [ "الشرح", "الانشراح" ],
+    "en_names": [ "Al-Sharah" ],
+    "verse_count": 8,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 8
+      }
+    ]
+  },
+  {
+    "surah_no": 95,
+    "ar_names": [ "التين" ],
+    "en_names": [ "Al-Tīn" ],
+    "verse_count": 8,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 8
+      }
+    ]
+  },
+  {
+    "surah_no": 96,
+    "ar_names": [ "العلق", "اقرأ" ],
+    "en_names": [ "Al-'Alaq" ],
+    "verse_count": 19,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 19
+      }
+    ]
+  },
+  {
+    "surah_no": 97,
+    "ar_names": [ "القدر" ],
+    "en_names": [ "Al-Qadr" ],
+    "verse_count": 5,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 5
+      }
+    ]
+  },
+  {
+    "surah_no": 98,
+    "ar_names": [ "البينة", "لم يكن" ],
+    "en_names": [ "Al-Bayyinah" ],
+    "verse_count": 8,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 8
+      }
+    ]
+  },
+  {
+    "surah_no": 99,
+    "ar_names": [ "الزلزلة" ],
+    "en_names": [ "Al-Zulzilah" ],
+    "verse_count": 8,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 8
+      }
+    ]
+  },
+  {
+    "surah_no": 100,
+    "ar_names": [ "العاديات" ],
+    "en_names": [ "Al-'ādiyāt" ],
+    "verse_count": 11,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 11
+      }
+    ]
+  },
+  {
+    "surah_no": 101,
+    "ar_names": [ "القارعة" ],
+    "en_names": [ "Al-Qāri'ah" ],
+    "verse_count": 11,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 11
+      }
+    ]
+  },
+  {
+    "surah_no": 102,
+    "ar_names": [ "التكاثر" ],
+    "en_names": [ "Al-Takāthur" ],
+    "verse_count": 8,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 8
+      }
+    ]
+  },
+  {
+    "surah_no": 103,
+    "ar_names": [ "العصر" ],
+    "en_names": [ "Al-'Asr" ],
+    "verse_count": 3,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 3
+      }
+    ]
+  },
+  {
+    "surah_no": 104,
+    "ar_names": [ "الهمزة" ],
+    "en_names": [ "Al-Humazah" ],
+    "verse_count": 9,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 9
+      }
+    ]
+  },
+  {
+    "surah_no": 105,
+    "ar_names": [ "الفيل" ],
+    "en_names": [ "Al-Fīl" ],
+    "verse_count": 5,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 5
+      }
+    ]
+  },
+  {
+    "surah_no": 106,
+    "ar_names": [ "قريش" ],
+    "en_names": [ "Quraysh" ],
+    "verse_count": 4,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 4
+      }
+    ]
+  },
+  {
+    "surah_no": 107,
+    "ar_names": [ "الماعون" ],
+    "en_names": [ "Al-Mā'ūn" ],
+    "verse_count": 7,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 7
+      }
+    ]
+  },
+  {
+    "surah_no": 108,
+    "ar_names": [ "الكوثر" ],
+    "en_names": [ "Al-Kauthar" ],
+    "verse_count": 3,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 3
+      }
+    ]
+  },
+  {
+    "surah_no": 109,
+    "ar_names": [ "الكافرون" ],
+    "en_names": [ "Al-Kāfirūn" ],
+    "verse_count": 6,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 6
+      }
+    ]
+  },
+  {
+    "surah_no": 110,
+    "ar_names": [ "النصر" ],
+    "en_names": [ "Al-Nasr" ],
+    "verse_count": 3,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 3
+      }
+    ]
+  },
+  {
+    "surah_no": 111,
+    "ar_names": [ "المسد", "اللهب" ],
+    "en_names": [ "Al-Masad" ],
+    "verse_count": 5,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 5
+      }
+    ]
+  },
+  {
+    "surah_no": 112,
+    "ar_names": [ "الإخلاص", "المنفرة", "النجاة", "المعرفة", "المذكرة", "نور القرآن" ],
+    "en_names": [ "Al-Ikhlās" ],
+    "verse_count": 4,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 4
+      }
+    ]
+  },
+  {
+    "surah_no": 113,
+    "ar_names": [ "الفلق" ],
+    "en_names": [ "Al-Falaq" ],
+    "verse_count": 5,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 5
+      }
+    ]
+  },
+  {
+    "surah_no": 114,
+    "ar_names": [ "الناس" ],
+    "en_names": [ "Al-Nās" ],
+    "verse_count": 6,
+    "rukus": [
+      {
+        "ruku_no": 1,
+        "verse_start": 1,
+        "verse_end": 6
+      }
+    ]
+  }
+]

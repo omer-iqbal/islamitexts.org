@@ -25,7 +25,7 @@ namespace IslamiTexts.Common.Web
                 this.LastPageNoToShow += 1 - this.FirstPageNoToShow;
             }
 
-            int lastPossiblePage = this.TotalMatches / this.PageSize + 1;
+            int lastPossiblePage = (this.TotalMatches - 1) / this.PageSize + 1;
             if (this.LastPageNoToShow > lastPossiblePage)
             {
                 this.FirstPageNoToShow -= this.LastPageNoToShow - lastPossiblePage;

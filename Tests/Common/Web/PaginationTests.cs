@@ -9,6 +9,16 @@ namespace Tests
     public class PaginationTests
     {
         [TestMethod]
+        public void SinglePageMaximumResults()
+        {
+            SearchResults results = new SearchResults(0, 10, 10);
+            Pagination pagination = new Pagination(results, 10);
+            Assert.AreEqual(1, pagination.FirstPageNoToShow, "FirstPageNoToShow");
+            Assert.AreEqual(1, pagination.CurrentPageNo, "CurrentPageNo");
+            Assert.AreEqual(1, pagination.LastPageNoToShow, "LastPageNoToShow");
+        }
+
+        [TestMethod]
         public void FirstAndLastPagesCorrectForFirstCurrentPageEvenNumberLimit()
         {
             SearchResults results = new SearchResults(0, 10, 200);

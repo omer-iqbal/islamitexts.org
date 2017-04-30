@@ -15,7 +15,7 @@ namespace IslamiTexts.Data
         private static readonly string[] VerseSearchFields = new[]
         {
             PropertyNames.ArText,
-            PropertyNames.ArTextClean,
+            //PropertyNames.ArTextClean,
             PropertyNames.EnTrArberry,
             PropertyNames.EnTrAsad,
             PropertyNames.EnTrAyubKhan,
@@ -55,7 +55,7 @@ namespace IslamiTexts.Data
             List<string> fieldsToSelect = new List<string>(
                 new string[] { PropertyNames.SurahNo, PropertyNames.VerseNo, PropertyNames.ArText });
             fieldsToSelect.AddRange(VerseSearchFields);
-            fieldsToSelect.AddRange(VerseCommentarySearchFields);
+            //fieldsToSelect.AddRange(VerseCommentarySearchFields);
 
             SearchParameters parameters = new SearchParameters
             {
@@ -65,7 +65,8 @@ namespace IslamiTexts.Data
                 IncludeTotalResultCount = true,
                 SearchMode = SearchMode.All,
                 Top = resultsToFetch,
-                Skip = start
+                Skip = start,
+                QueryType = QueryType.Full
             };
 
             DocumentSearchResult<VerseDocument> results = 

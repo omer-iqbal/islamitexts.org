@@ -2,12 +2,29 @@
 {
     public class PropertyNames
     {
+        // Generic properties
         public const string Type = @"type";
 
         public const string SurahNo = @"surah_no";
 
         public const string VerseNo = @"verse_no";
 
+        // Properties used in surah documents
+        public const string ArNames = @"ar_names";
+
+        public const string EnNames = @"en_names";
+
+        public const string VerseCount = @"verse_count";
+
+        public const string Rukus = @"rukus";
+
+        public const string RukuNo = @"ruku_no";
+
+        public const string VerseStart = @"verse_start";
+
+        public const string VerseEnd = @"verse_end";
+
+        // Properties used in verse documents
         public const string ArText = @"ar_text";
 
         public const string ArTextClean = @"ar_text_clean";

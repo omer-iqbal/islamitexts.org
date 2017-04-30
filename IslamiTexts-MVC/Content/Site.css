@@ -31,6 +31,14 @@ textarea {
     line-height: 1.8em;
 }
 
+.result-arabic-verse {
+    font-size: 1.5em;
+    font-family: 'Amiri', serif;
+    direction: rtl;
+    text-align: start;
+    line-height: 2.0em;
+}
+
 .arabic-surah {
     font-size: 1.6em;
     font-family: 'Amiri', serif;
@@ -40,15 +48,24 @@ textarea {
 }
 
 .list-group-item {
-    color:black;
+    color: black;
+    /*border-color: rgb(240, 192, 192);*/
+    /*border-left:0;
+    border-right:0;*/
+    /*border-bottom-style:solid;*/
 }
 
 a.list-group-item{
     color:black;
 }
 
-.fixed-panel {
-    /*display: inline-flex;*/
-    /*height: 100%;*/
-    /*overflow-y: scroll;*/
+div.results-summary {
+    padding-top:10px;
+    padding-bottom:15px;
+    color:#aa0000;
+    font:0.9em Arial;
+    font-weight:bold;
+}
+
+.verse-result {
 }
