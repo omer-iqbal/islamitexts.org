@@ -209,7 +209,6 @@
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\VerseView.css" />
-    <Content Include="Content\VerseView - Flex.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -247,9 +246,7 @@
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Quran\Index.cshtml" />
-    <Content Include="Views\Quran\Verse - Flex.cshtml" />
     <Content Include="Views\Search\Index.cshtml" />
-    <Content Include="Views\Quran\Verse - WithPanels.cshtml" />
     <Content Include="Views\Quran\Verse.cshtml" />
   </ItemGroup>
   <ItemGroup>
