@@ -1,0 +1,35 @@
+{
+  "type": "Verse",
+  "surah_no": 27,
+  "verse_no": 65,
+  "ar_text": "قُلْ لَا يَعْلَمُ مَنْ فِي السَّمَاوَاتِ وَالْأَرْضِ الْغَيْبَ إِلَّا اللَّهُ وَمَا يَشْعُرُونَ أَيَّانَ يُبْعَثُونَ",
+  "ar_text_clean": "قل لا يعلم من في السماوات والأرض الغيب إلا الله وما يشعرون أيان يبعثون",
+  "en_tr_yusuf": "Say: None in the heavens or on earth, except Allah, knows what is hidden: nor can they perceive when they shall be raised up (for Judgment).",
+  "en_tr_pickth": "Say (O Muhammad): None in the heavens and the earth knoweth the Unseen save Allah; and they know not when they will be raised (again).",
+  "en_tr_shakir": "Say: No one in the heavens and the earth knows the unseen but Allah; and they do not know when they shall be raised.",
+  "en_tr_hilali": "Say: \"None in the heavens and the earth knows the Ghaib (unseen) except Allah, nor can they perceive when they shall be resurrected.\"",
+  "en_tr_dbadi": "Say thou: none in the heavens and the earth knoweth the Unseen save Allah; nor can they perceive when they will be raised.",
+  "en_tr_qarib": "Say: 'None in the heavens or the earth knows the Unseen except Allah, and they are not aware when they shall be resurrected. '",
+  "en_tr_ayubk": "Say, `none in the heavens and the earth knows the unseen except God; and they do not know when they will be raised'.",
+  "en_tr_sher": "Say, 'None in the heavens and the earth knows the unseen save God; and they do not know when they will be raised up.'",
+  "en_tr_asad": "Say: \"None in the heavens or on earth knows the hidden reality [of anything that exists: none knows it] save God.\"\nAnd neither can they [who are living] perceive when they shall be raised from the dead:",
+  "en_tr_arberry": "Say: None knows the Unseen in the heavens and earth except God. And they are not aware when they shall be raised;",
+  "en_tr_maududi": "Tell them, \"None but Allah has the knowledge of the unseen, in the heavens and the earth,{{83}} and they (your deities) do not even know when they will be raised back to life. \"{{84}}",
+  "en_ctr_yusuf": "Say: None in the heavens or on earth, except Allah, knows what is hidden:{{3303}} nor can they perceive when they shall be raised up (for Judgment).",
+  "en_ctr_asad": "Say: \"None in the heavens or on earth knows the hidden reality [of anything that exists: none knows it] save God.\"{{63}} And neither can they [who are living] perceive when they shall be raised from the dead:",
+  "en_notes_yusuf": [
+    {
+      "note_no": "3303",
+      "note": "The existence of Allah is certain. But nothing else can be known with certainty to our knowledge. He has told us of the Hereafter, and therefore we know it is true. But those who do not believe in Allah?what knowledge or certainty can they have? Even when it is actually coming, they will not have the sense to perceive it."
+    }
+  ],
+  "en_notes_asad": [
+    {
+      "note_no": "63",
+      "note": "In this context, the term al-ghayb - rendered by me here as \"the hidden reality\" - apparently relates to the \"how\" of God's Being, the ultimate reality underlying the observable aspects of the universe, and the meaning and purpose inherent in its creation. My repetition, within brackets, of the words \"none knows it\", i.e., save God, is necessitated by the fact that He is infinite, unlimited as to space, and cannot, therefore, be included among the beings \"in the heavens or on earth\", who have all been created by Him."
+    }
+  ],
+  "en_snotes_yusuf": "The existence of Allah is certain. But nothing else can be known with certainty to our knowledge. He has told us of the Hereafter, and therefore we know it is true. But those who do not believe in Allah?what knowledge or certainty can they have? Even when it is actually coming, they will not have the sense to perceive it.",
+  "en_snotes_asad": "In this context, the term al-ghayb - rendered by me here as \"the hidden reality\" - apparently relates to the \"how\" of God's Being, the ultimate reality underlying the observable aspects of the universe, and the meaning and purpose inherent in its creation. My repetition, within brackets, of the words \"none knows it\", i.e., save God, is necessitated by the fact that He is infinite, unlimited as to space, and cannot, therefore, be included among the beings \"in the heavens or on earth\", who have all been created by Him.",
+  "keywords": null
+}

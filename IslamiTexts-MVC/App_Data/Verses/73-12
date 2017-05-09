@@ -1,0 +1,34 @@
+{
+  "type": "Verse",
+  "surah_no": 73,
+  "verse_no": 12,
+  "ar_text": "إِنَّ لَدَيْنَا أَنْكَالًا وَجَحِيمًا",
+  "ar_text_clean": "إن لدينا أنكالا وجحيما",
+  "en_tr_yusuf": "With Us are Fetters (to bind them), and a Fire (to burn them),",
+  "en_tr_pickth": "Lo! with Us are heavy fetters and a raging fire,",
+  "en_tr_shakir": "Surely with Us are heavy fetters and a flaming fire,",
+  "en_tr_hilali": "Verily, with Us are fetters (to bind them), and a raging Fire.",
+  "en_tr_dbadi": "Verily with us are heavy fetters and Scorch.",
+  "en_tr_qarib": "We have fetters (for them) and a blazing fire,",
+  "en_tr_ayubk": "Surely with Us are fetters, and a furnace,",
+  "en_tr_sher": "Surely, with Us are heavy fetters and a raging fire,",
+  "en_tr_asad": "for, behold, heavy fetters [await them] with Us, and a blazing fire,",
+  "en_tr_arberry": "for with Us there are fetters, and a furnace,",
+  "en_tr_maududi": "We have heavy fetters{{13}} and a blazing Fire in store for them;",
+  "en_ctr_yusuf": "With Us are Fetters{{5762}} (to bind them), and a Fire{{5763}} (to burn them),",
+  "en_ctr_asad": "for, behold, heavy fetters [await them] with Us, and a blazing fire,",
+  "en_notes_yusuf": [
+    {
+      "note_no": "5762",
+      "note": "Cf. 13:5; 34:33; 40:71 and 69:30-32. [Eds.]."
+    },
+    {
+      "note_no": "5763",
+      "note": "Cf. 44:47 and 56:94. [Eds.]."
+    }
+  ],
+  "en_notes_asad": null,
+  "en_snotes_yusuf": "Cf. 13:5; 34:33; 40:71 and 69:30-32. [Eds.]. Cf. 44:47 and 56:94. [Eds.].",
+  "en_snotes_asad": null,
+  "keywords": null
+}

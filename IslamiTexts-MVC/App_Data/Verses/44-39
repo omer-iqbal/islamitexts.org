@@ -1,0 +1,30 @@
+{
+  "type": "Verse",
+  "surah_no": 44,
+  "verse_no": 39,
+  "ar_text": "مَا خَلَقْنَاهُمَا إِلَّا بِالْحَقِّ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
+  "ar_text_clean": "ما خلقناهما إلا بالحق ولكن أكثرهم لا يعلمون",
+  "en_tr_yusuf": "We created them not except for just ends: but most of them do not understand.",
+  "en_tr_pickth": "We created them not save with truth; but most of them know not.",
+  "en_tr_shakir": "We did not create them both but with the truth, but most of them do not know.",
+  "en_tr_hilali": "We created them not except with truth (i.e. to examine and test those who are obedient and those who are disobedient and then reward the obedient ones and punish the disobedient ones), but most of them know not.",
+  "en_tr_dbadi": "We created them not save with a purpose but most of them know not.",
+  "en_tr_qarib": "We created them in nothing else except the truth. But most do not know.",
+  "en_tr_ayubk": "We have not created them but with truth, but most of them do not know.",
+  "en_tr_sher": "We created them not but for an eternal purpose, but most of them understand not.",
+  "en_tr_asad": "none of this have We created without [an inner] truth: but most of them understand it not.",
+  "en_tr_arberry": "We created them not save in truth; but most of them know it not.",
+  "en_tr_maududi": "We did not create them except in Truth. But most of them do not know.{{34}}",
+  "en_ctr_yusuf": "We created them not except for just ends: but most of them do not understand.",
+  "en_ctr_asad": "none of this have We created without [an inner] truth:{{22}} but most of them understand it not.",
+  "en_notes_yusuf": null,
+  "en_notes_asad": [
+    {
+      "note_no": "22",
+      "note": "See note 11 on 10:5."
+    }
+  ],
+  "en_snotes_yusuf": null,
+  "en_snotes_asad": "See note 11 on 10:5.",
+  "keywords": null
+}

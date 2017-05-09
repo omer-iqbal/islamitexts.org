@@ -1,0 +1,35 @@
+{
+  "type": "Verse",
+  "surah_no": 37,
+  "verse_no": 153,
+  "ar_text": "أَصْطَفَى الْبَنَاتِ عَلَى الْبَنِينَ",
+  "ar_text_clean": "أصطفى البنات على البنين",
+  "en_tr_yusuf": "Did He (then) choose daughters rather than sons?",
+  "en_tr_pickth": "(And again of their falsehood): He hath preferred daughters to sons.",
+  "en_tr_shakir": "Has He chosen daughters in preference to sons?",
+  "en_tr_hilali": "Has He (then) chosen daughters rather than sons?",
+  "en_tr_dbadi": "Hath He chosen daughters above sons?",
+  "en_tr_qarib": "Has He chosen daughters above sons?",
+  "en_tr_ayubk": "Has He chosen daughters above sons?",
+  "en_tr_sher": "Has He chosen daughters in preference to sons?",
+  "en_tr_asad": "\"He has chosen daughters in preference to sons\"!",
+  "en_tr_arberry": "Has He chosen daughters above sons?",
+  "en_tr_maududi": "Did He choose daughters rather than sons?",
+  "en_ctr_yusuf": "Did He (then) choose{{4131}} daughters rather than sons?",
+  "en_ctr_asad": "\"He has chosen daughters in preference to sons\"!{{64}}",
+  "en_notes_yusuf": [
+    {
+      "note_no": "4131",
+      "note": "There is the strongest irony in this passage."
+    }
+  ],
+  "en_notes_asad": [
+    {
+      "note_no": "64",
+      "note": "Cf. 6:100 (\"they have invented for Him sons and daughters\") and the corresponding notes 87 and 88. See also note 49 on 17:40, as well as 53:19-22 and the corresponding notes."
+    }
+  ],
+  "en_snotes_yusuf": "There is the strongest irony in this passage.",
+  "en_snotes_asad": "Cf. 6:100 (\"they have invented for Him sons and daughters\") and the corresponding notes 87 and 88. See also note 49 on 17:40, as well as 53:19-22 and the corresponding notes.",
+  "keywords": null
+}

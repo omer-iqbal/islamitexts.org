@@ -1,0 +1,30 @@
+{
+  "type": "Verse",
+  "surah_no": 44,
+  "verse_no": 21,
+  "ar_text": "وَإِنْ لَمْ تُؤْمِنُوا لِي فَاعْتَزِلُونِ",
+  "ar_text_clean": "وإن لم تؤمنوا لي فاعتزلون",
+  "en_tr_yusuf": "\"If ye believe me not, at least keep yourselves away from me.\"",
+  "en_tr_pickth": "And if ye put no faith in me, then let me go.",
+  "en_tr_shakir": "And if you do not believe in me, then leave me alone.",
+  "en_tr_hilali": "\"But if you believe me not, then keep away from me and leave me alone.\"",
+  "en_tr_dbadi": "And if ye will not believe in me, then let me alone.",
+  "en_tr_qarib": "And if you do not believe me, then leave me! '",
+  "en_tr_ayubk": "and if you do not believe me, go apart from me.",
+  "en_tr_sher": "And if you believe me not, then leave me alone.'",
+  "en_tr_asad": "And if you do not believe me, [at least] stand away from me!\"",
+  "en_tr_arberry": "But if so be that you believe me not, go you apart from me!",
+  "en_tr_maududi": "But if you do not believe what I say, leave me alone{{19}} (and desist from laying hands on me).\"",
+  "en_ctr_yusuf": "\"If ye believe me not,{{4706}} at least keep yourselves away from me.\"",
+  "en_ctr_asad": "And if you do not believe me, [at least] stand away from me!\"",
+  "en_notes_yusuf": [
+    {
+      "note_no": "4706",
+      "note": "If you do not believe me, at least go your ways; do not add to your sins by trying to suppress me and the Message of Truth which I bring: keep out of my way."
+    }
+  ],
+  "en_notes_asad": null,
+  "en_snotes_yusuf": "If you do not believe me, at least go your ways; do not add to your sins by trying to suppress me and the Message of Truth which I bring: keep out of my way.",
+  "en_snotes_asad": null,
+  "keywords": null
+}

@@ -1,0 +1,43 @@
+{
+  "type": "Verse",
+  "surah_no": 10,
+  "verse_no": 49,
+  "ar_text": "قُلْ لَا أَمْلِكُ لِنَفْسِي ضَرًّا وَلَا نَفْعًا إِلَّا مَا شَاءَ اللَّهُ لِكُلِّ أُمَّةٍ أَجَلٌ إِذَا جَاءَ أَجَلُهُمْ فَلَا يَسْتَأْخِرُونَ سَاعَةً وَلَا يَسْتَقْدِمُونَ",
+  "ar_text_clean": "قل لا أملك لنفسي ضرا ولا نفعا إلا ما شاء الله لكل أمة أجل إذا جاء أجلهم فلا يستأخرون ساعة ولا يستقدمون",
+  "en_tr_yusuf": "Say: \"I have no power over any harm or profit to myself except as Allah willeth. To every people is a term appointed: when their term is reached, not an hour can they cause delay, nor (an hour) can they advance (it in anticipation).\"",
+  "en_tr_pickth": "Say: I have no power to hurt or benefit myself, save that which Allah willeth. For every nation there is an appointed time. When their time cometh, then they cannot put it off an hour, nor hasten (it).",
+  "en_tr_shakir": "Say: I do not control for myself any harm, or any benefit except what Allah pleases; every nation has a term; when their term comes, they shall not then remain behind for an hour, nor can they go before (their time).",
+  "en_tr_hilali": "Say (O Muhammad SAW): \"I have no power over any harm or profit to myself except what Allah may will. For every Ummah (a community or a nation), there is a term appointed; when their term is reached, neither can they delay it nor can they advance it an hour (or a moment).\"",
+  "en_tr_dbadi": "Say thou: I own not any power of hurt or benefit unto myself, save that which Allah may will. For each community is a term; when their term hath arrived, not an hour can they stay behind nor can they advance.",
+  "en_tr_qarib": "Say: 'I have no power to benefit or harm myself except as Allah wills. To every nation is a fixed term and when their term comes they cannot delay it for an hour, nor can they bring it forward.",
+  "en_tr_ayubk": "Say, `I hold no power of hurt or profit even for myself, but as God will. For every community is a term; when their term comes they will not put it back nor put it forward by a moment'.",
+  "en_tr_sher": "Say, 'I have no power over any harm or benefit for myself save that which God wills. For every people there is an appointed term. When their term is come, they cannot remain behind a single moment, nor can they get ahead of it.'",
+  "en_tr_asad": "Say [O Prophet]: \"It is not within my power to avert harm from, or bring benefit to, myself, except as God may please. For all people a term has been set: when the end of their term approaches, they can neither delay it by a single moment, nor hasten it.\"",
+  "en_tr_arberry": "Say: I have no power to profit for myself, or hurt, but as God will. To every nation a term; when their term comes they shall not put it back by a single hour nor put it forward.",
+  "en_tr_maududi": "Tell them: 'I have no power to harm or benefit even myself, except what Allah may will.{{57}} There is an appointed term for every people; and when the end of their term comes, neither can they put it off for an hour, nor can they bring it an hour before.{{58}}",
+  "en_ctr_yusuf": "Say: \"I have no power{{1440}} over any harm or profit to myself except as Allah willeth. To every People{{1441}} is a term appointed: when their term is reached, not an hour can they cause delay, nor (an hour) can they advance (it in anticipation).\"",
+  "en_ctr_asad": "Say [O Prophet]: \"It is not within my power to avert harm from, or bring benefit to, myself, except as God may please.{{69}} For all people a term has been set: when the end of their term approaches, they can neither delay it by a single moment, nor hasten it.\"{{70}}",
+  "en_notes_yusuf": [
+    {
+      "note_no": "1440",
+      "note": "Cf. 7:188."
+    },
+    {
+      "note_no": "1441",
+      "note": "This repeats 7:34, but the significance is different in the two contexts. Here the reply is to the Unbelievers' mocking incredulity (seen n. 1439) as to whether there is such a thing as a Hereafter: they suggest to the Prophet of Allah that if his claim to inspiration from Allah is true, he should get them punished at once for rejecting him. In 7:34 the reference is to the punishment of iniquity as described in 7:33 : sin is not necessarily punished at once: every People or generation gets a chance; when their term is fulfilled, the final adjustment is made."
+    }
+  ],
+  "en_notes_asad": [
+    {
+      "note_no": "69",
+      "note": "Sc., \"and since I do not possess any supernatural powers, I cannot predict that which is beyond the reach of human perception (al-ghayb)\"."
+    },
+    {
+      "note_no": "70",
+      "note": "See 7:34 and the corresponding notes 25 and 26. In the above context, the \"end of the term\" refers, in particular, to the coming of the Last Hour and the Day of Judgment."
+    }
+  ],
+  "en_snotes_yusuf": "Cf. 7:188. This repeats 7:34, but the significance is different in the two contexts. Here the reply is to the Unbelievers' mocking incredulity (seen n. 1439) as to whether there is such a thing as a Hereafter: they suggest to the Prophet of Allah that if his claim to inspiration from Allah is true, he should get them punished at once for rejecting him. In 7:34 the reference is to the punishment of iniquity as described in 7:33 : sin is not necessarily punished at once: every People or generation gets a chance; when their term is fulfilled, the final adjustment is made.",
+  "en_snotes_asad": "Sc., \"and since I do not possess any supernatural powers, I cannot predict that which is beyond the reach of human perception (al-ghayb)\". See 7:34 and the corresponding notes 25 and 26. In the above context, the \"end of the term\" refers, in particular, to the coming of the Last Hour and the Day of Judgment.",
+  "keywords": null
+}

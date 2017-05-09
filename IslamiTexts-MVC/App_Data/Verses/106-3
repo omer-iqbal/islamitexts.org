@@ -1,0 +1,35 @@
+{
+  "type": "Verse",
+  "surah_no": 106,
+  "verse_no": 3,
+  "ar_text": "فَلْيَعْبُدُوا رَبَّ هَٰذَا الْبَيْتِ",
+  "ar_text_clean": "فليعبدوا رب هذا البيت",
+  "en_tr_yusuf": "Let them adore the Lord of this House,",
+  "en_tr_pickth": "So let them worship the Lord of this House,",
+  "en_tr_shakir": "So let them serve the Lord of this House",
+  "en_tr_hilali": "So let them worship (Allah) the Lord of this House (the Ka'bah in Makkah).",
+  "en_tr_dbadi": "Let them worship the Lord of this House,",
+  "en_tr_qarib": "Therefore let them worship the Lord of this House",
+  "en_tr_ayubk": "let them serve the Lord of this House,",
+  "en_tr_sher": "So they should worship the Lord of this House,",
+  "en_tr_asad": "Let them, therefore, worship the Sustainer of this Temple,",
+  "en_tr_arberry": "So let them serve the Lord of this House",
+  "en_tr_maududi": "therefore, let them worship the Lord of this House;{{3}}",
+  "en_ctr_yusuf": "Let them adore the Lord of this House,{{6278}}",
+  "en_ctr_asad": "Let them, therefore, worship the Sustainer of this Temple;{{3}}",
+  "en_notes_yusuf": [
+    {
+      "note_no": "6278",
+      "note": "The Ka'bah."
+    }
+  ],
+  "en_notes_asad": [
+    {
+      "note_no": "3",
+      "note": "I.e., the Kabah (see note 102 on 2:125)."
+    }
+  ],
+  "en_snotes_yusuf": "The Ka'bah.",
+  "en_snotes_asad": "I.e., the Kabah (see note 102 on 2:125).",
+  "keywords": null
+}

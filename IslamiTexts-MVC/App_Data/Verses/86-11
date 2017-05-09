@@ -1,0 +1,35 @@
+{
+  "type": "Verse",
+  "surah_no": 86,
+  "verse_no": 11,
+  "ar_text": "وَالسَّمَاءِ ذَاتِ الرَّجْعِ",
+  "ar_text_clean": "والسماء ذات الرجع",
+  "en_tr_yusuf": "By the Firmament which returns (in its round),",
+  "en_tr_pickth": "By the heaven which giveth the returning rain,",
+  "en_tr_shakir": "I swear by the raingiving heavens,",
+  "en_tr_hilali": "By the sky (having rain clouds) which gives rain, again and again.",
+  "en_tr_dbadi": "By the heaven which returneth,",
+  "en_tr_qarib": "By the sky with its returning rain,",
+  "en_tr_ayubk": "By the heaven that returns,",
+  "en_tr_sher": "By the cloud which gives rain repeatedly,",
+  "en_tr_asad": "Consider the heavens, ever-revolving,",
+  "en_tr_arberry": "By heaven of the returning rain,",
+  "en_tr_maududi": "By the heaven with its recurring cycle of rain,{{6}}",
+  "en_ctr_yusuf": "By the Firmament{{6074}} which returns (in its round),",
+  "en_ctr_asad": "Consider{{4}} the heavens, ever-revolving,",
+  "en_notes_yusuf": [
+    {
+      "note_no": "6074",
+      "note": "The Firmament above is always the same, and yet it performs its diurnal round, smoothly and punctually. So does Allah's Revelation show forth the Truth, which like a circle is ever true to its centre-which is ever the same, though it revolves through the changing circumstances of our present life."
+    }
+  ],
+  "en_notes_asad": [
+    {
+      "note_no": "4",
+      "note": "Sc., \"And, finally, in order to grasp more fully God's power of creation and re-creation, consider ...\", etc."
+    }
+  ],
+  "en_snotes_yusuf": "The Firmament above is always the same, and yet it performs its diurnal round, smoothly and punctually. So does Allah's Revelation show forth the Truth, which like a circle is ever true to its centre-which is ever the same, though it revolves through the changing circumstances of our present life.",
+  "en_snotes_asad": "Sc., \"And, finally, in order to grasp more fully God's power of creation and re-creation, consider ...\", etc.",
+  "keywords": null
+}

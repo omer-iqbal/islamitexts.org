@@ -1,0 +1,42 @@
+{
+  "type": "Verse",
+  "surah_no": 33,
+  "verse_no": 19,
+  "ar_text": "أَشِحَّةً عَلَيْكُمْ فَإِذَا جَاءَ الْخَوْفُ رَأَيْتَهُمْ يَنْظُرُونَ إِلَيْكَ تَدُورُ أَعْيُنُهُمْ كَالَّذِي يُغْشَىٰ عَلَيْهِ مِنَ الْمَوْتِ فَإِذَا ذَهَبَ الْخَوْفُ سَلَقُوكُمْ بِأَلْسِنَةٍ حِدَادٍ أَشِحَّةً عَلَى الْخَيْرِ أُولَٰئِكَ لَمْ يُؤْمِنُوا فَأَحْبَطَ اللَّهُ أَعْمَالَهُمْ وَكَانَ ذَٰلِكَ عَلَى اللَّهِ يَسِيرًا",
+  "ar_text_clean": "أشحة عليكم فإذا جاء الخوف رأيتهم ينظرون إليك تدور أعينهم كالذي يغشى عليه من الموت فإذا ذهب الخوف سلقوكم بألسنة حداد أشحة على الخير أولئك لم يؤمنوا فأحبط الله أعمالهم وكان ذلك على الله يسيرا",
+  "en_tr_yusuf": "Covetous over you. Then when fear comes, thou wilt see them looking to thee, their eyes revolving, like (those of) one over whom hovers death: but when the fear is past, they will smite you with sharp tongues, covetous of goods. Such men have no faith, and so Allah has made their deeds of none effect: and that is easy for Allah.",
+  "en_tr_pickth": "Being sparing of their help to you (believers). But when the fear cometh, then thou (Muhammad) seest them regarding thee with rolling eyes like one who fainteth unto death. Then, when the fear departeth, they scald you with sharp tongues in their greed for wealth (from the spoil). Such have not believed. Therefor Allah maketh their deeds fruitless. And that is easy for Allah.",
+  "en_tr_shakir": "Being niggardly with respect to you; but when fear comes, you will see them looking to you, their eyes rolling like one swooning because of death; but when the fear is gone they smite you with sharp tongues, being niggardly of the good things. These have not believed, therefore Allah has made their doing naught; and this is easy to Allah.",
+  "en_tr_hilali": "Being miserly towards you (as regards help and aid in Allah's Cause). Then when fear comes, you will see them looking to you, their eyes revolving like (those of) one over whom hovers death, but when the fear departs, they will smite you with sharp tongues, miserly towards (spending anything in any) good (and only covetous of booty and wealth). Such have not believed. Therefore Allah makes their deeds fruitless, and that is ever easy for Allah.",
+  "en_tr_dbadi": "Being niggardly toward you. Then when the fightin cometh, thou beholdest them look unto thee, their eyes rolling about, like the eyes of him who fainteth unto death. Then when the fighting is over they inveigh against you with sharp tongues, being niggardly of the good things. These have not believed; wherefore Allah hath made their works of none effect, and that is with Allah ever easy.",
+  "en_tr_qarib": "being mean towards you. When fear comes to them, you see them looking at you, their eyes rolling as though they were on the point of death. But once the fear departs they assail you with their sharp tongues, being greedy to possess good things. Those have never believed; Allah has annulled their deeds. That is easy for Allah.",
+  "en_tr_ayubk": "being reluctant to assist you; and when fear comes upon them, thou seest them looking at thee with their eyes rolling like one who faints because of death; then when the fear is gone, they attack you with sharp tongues, being covetous for the riches. Those have never believed, so God has made their works null and void; and that is easy for God.",
+  "en_tr_sher": "Being niggardly of their help to you. But when danger comes, thou seest them looking towards thee, their eyes rolling like one who is fainting at the approach of death. But when the fear has passed away, they assail you with sharp tongues, being niggardly of any good coming to your way. These have never believed; so God has rendered their works null and void. And that is easy for God.",
+  "en_tr_asad": "begrudging you all help. But then, when danger threatens, thou canst see them looking to thee [for help, O Prophet], their eyes rolling [in terror] like [the eyes of] one who is overshadowed by death: yet as soon as the danger has passed, they will assail you [believers] with sharp tongues, begrudging you all that is good! \n[People like] these have never known faith &ndash; and therefore God will cause all their works to come to nought: for this is indeed easy for God.",
+  "en_tr_arberry": "being niggardly towards you. When fear comes upon them, thou seest them looking at thee, their eyes rolling like one who swoons of death; but when the fear departs, they flay you with sharp tongues, being niggardly to possess the good things. Those have never believed; God has made their works to fail; and that is easy for God.",
+  "en_tr_maududi": "They are utterly niggardly{{30}} (in coming to your aid). Whenever there is danger, you will see them looking at you, their eyes rolling as though they were on the verge of fainting at the approach of death. But when the danger passes away, their greed for wealth prompts them to greet you with their sharp, scissor-like tongues.{{31}} These are the ones who never truly believed, and so Allah has caused their deeds to be reduced to naught.{{32}} That is easy enough for Allah.{{33}}",
+  "en_ctr_yusuf": "Covetous over you.{{3689}} Then when fear comes, thou wilt see them looking to thee, their eyes revolving, like (those of) one over whom hovers death: but when the fear is past, they will smite you with sharp tongues, covetous{{3690}} of goods. Such men have no faith, and so Allah has made their deeds{{3691}} of none effect: and that is easy for Allah.{{3692}}",
+  "en_ctr_asad": "begrudging you all help. But then, when danger threatens, thou canst see them looking to thee [for help, O Prophet], their eyes rolling [in terror] like [the eyes of] one who is overshadowed by death: yet as soon as the danger has passed, they will assail you [believers] with sharp tongues, begrudging you all that is good! [People like] these have never known faith - and therefore God will cause all their works to come to nought: for this is indeed easy for God.",
+  "en_notes_yusuf": [
+    {
+      "note_no": "3689",
+      "note": "Ashihhah: covetous, grasping, miserly. Here the meaning is twofold: (1) they spare themselves in the fight as compared with you; they are miserly with themselves as against you; they contribute little either in personal effort or with their money and resources; and (2) they covet any gains made or booty won, on the part of the real fighters."
+    },
+    {
+      "note_no": "3690",
+      "note": "In time of danger; they would look to the Prophet for protection, and keep themselves snugly from the fight. When the danger is past, they will come and brag and wrangle and show their covetousness or greed for gain though they gave of themselves but sparingly."
+    },
+    {
+      "note_no": "3691",
+      "note": "Even any good they may have done becomes vain because of their motives of envy, greed, and covetousness and their cowardice."
+    },
+    {
+      "note_no": "3692",
+      "note": "It is not surprising that men's deeds fall as it were dead because there is no pure motive behind them. For men it may be difficult to probe motives, but it is easy for Allah, Whom hypocrisy or false show can never deceive."
+    }
+  ],
+  "en_notes_asad": null,
+  "en_snotes_yusuf": "Ashihhah: covetous, grasping, miserly. Here the meaning is twofold: (1) they spare themselves in the fight as compared with you; they are miserly with themselves as against you; they contribute little either in personal effort or with their money and resources; and (2) they covet any gains made or booty won, on the part of the real fighters. In time of danger; they would look to the Prophet for protection, and keep themselves snugly from the fight. When the danger is past, they will come and brag and wrangle and show their covetousness or greed for gain though they gave of themselves but sparingly. Even any good they may have done becomes vain because of their motives of envy, greed, and covetousness and their cowardice. It is not surprising that men's deeds fall as it were dead because there is no pure motive behind them. For men it may be difficult to probe motives, but it is easy for Allah, Whom hypocrisy or false show can never deceive.",
+  "en_snotes_asad": null,
+  "keywords": null
+}

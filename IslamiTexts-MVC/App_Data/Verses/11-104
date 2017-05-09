@@ -1,0 +1,30 @@
+{
+  "type": "Verse",
+  "surah_no": 11,
+  "verse_no": 104,
+  "ar_text": "وَمَا نُؤَخِّرُهُ إِلَّا لِأَجَلٍ مَعْدُودٍ",
+  "ar_text_clean": "وما نؤخره إلا لأجل معدود",
+  "en_tr_yusuf": "Nor shall We delay it but for a term appointed.",
+  "en_tr_pickth": "And We defer it only to a term already reckoned.",
+  "en_tr_shakir": "And We do not delay it but to an appointed term.",
+  "en_tr_hilali": "And We delay it only for a term (already) fixed.",
+  "en_tr_dbadi": "And We defer it not but to a term determined.",
+  "en_tr_qarib": "We shall not postpone it except until a counted term.",
+  "en_tr_ayubk": "And We do not defer it but for a reckoned term.",
+  "en_tr_sher": "And We delay it not save for a computed term.",
+  "en_tr_asad": "and which We shall not delay beyond a term set [by Us].",
+  "en_tr_arberry": "and We shall not postpone it, save to a term reckoned;",
+  "en_tr_maududi": "Nor shall We withhold it except till an appointed term.",
+  "en_ctr_yusuf": "Nor shall We delay it but for a term appointed.",
+  "en_ctr_asad": "and which We shall not delay beyond a term set [by Us].{{133}}",
+  "en_notes_yusuf": null,
+  "en_notes_asad": [
+    {
+      "note_no": "133",
+      "note": "Lit., \"except till a term computed [by Us]\"."
+    }
+  ],
+  "en_snotes_yusuf": null,
+  "en_snotes_asad": "Lit., \"except till a term computed [by Us]\".",
+  "keywords": null
+}

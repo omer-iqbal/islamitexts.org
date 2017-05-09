@@ -1,0 +1,35 @@
+{
+  "type": "Verse",
+  "surah_no": 100,
+  "verse_no": 6,
+  "ar_text": "إِنَّ الْإِنْسَانَ لِرَبِّهِ لَكَنُودٌ",
+  "ar_text_clean": "إن الإنسان لربه لكنود",
+  "en_tr_yusuf": "Truly man is, to his Lord, ungrateful;",
+  "en_tr_pickth": "Lo! man is an ingrate unto his Lord",
+  "en_tr_shakir": "Most surely man is ungrateful to his Lord.",
+  "en_tr_hilali": "Verily! Man (disbeliever) is ungrateful to his Lord;",
+  "en_tr_dbadi": "Verily man is Unto his Lord ungrateful.",
+  "en_tr_qarib": "Indeed, the human is ungrateful to his Lord.",
+  "en_tr_ayubk": "surely Man is ungrateful to his Lord,",
+  "en_tr_sher": "Surely, man is ungrateful to his Lord.",
+  "en_tr_asad": "VERILY, towards his Sustainer man is most ungrateful",
+  "en_tr_arberry": "Surely Man is ungrateful to his Lord,",
+  "en_tr_maududi": "Verily man is most ungrateful to his Lord;{{4}}",
+  "en_ctr_yusuf": "Truly man is, to his Lord,{{6246}} ungrateful;",
+  "en_ctr_asad": "VERILY, towards his Sustainer man is most ungrateful{{3}}",
+  "en_notes_yusuf": [
+    {
+      "note_no": "6246",
+      "note": "Man, i.e., unregenerate man, in contrast to those who receive guidance and wage unceasing war with Evil, is ungrateful to his Lord and Cherisher, Him Who created him and sustains him, and sends His blessings and favours at all times. The ingratitude may be shown by thoughts, words, and deeds-by forgetting or denying Allah and His goodness, by misusing His gifts, or by injustice to His creatures. He is in this respect worse than the war horse that risks his life in the service of his master."
+    }
+  ],
+  "en_notes_asad": [
+    {
+      "note_no": "3",
+      "note": "I.e., whenever he surrenders to his appetites, symbolized by the madly storming chargers, he forgets God and his own responsibility to Him."
+    }
+  ],
+  "en_snotes_yusuf": "Man, i.e., unregenerate man, in contrast to those who receive guidance and wage unceasing war with Evil, is ungrateful to his Lord and Cherisher, Him Who created him and sustains him, and sends His blessings and favours at all times. The ingratitude may be shown by thoughts, words, and deeds-by forgetting or denying Allah and His goodness, by misusing His gifts, or by injustice to His creatures. He is in this respect worse than the war horse that risks his life in the service of his master.",
+  "en_snotes_asad": "I.e., whenever he surrenders to his appetites, symbolized by the madly storming chargers, he forgets God and his own responsibility to Him.",
+  "keywords": null
+}

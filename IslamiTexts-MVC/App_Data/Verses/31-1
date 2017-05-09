@@ -1,0 +1,35 @@
+{
+  "type": "Verse",
+  "surah_no": 31,
+  "verse_no": 1,
+  "ar_text": "الم",
+  "ar_text_clean": "الم",
+  "en_tr_yusuf": "A. L. M.",
+  "en_tr_pickth": "Alif. Lam. Mim.",
+  "en_tr_shakir": "Alif Lam Mim.",
+  "en_tr_hilali": "Alif-Lam-Mim. [These letters are one of the miracles of the Qur'an, and none but Allah (Alone) knows their meanings.]",
+  "en_tr_dbadi": "Alif; Lam. Mim.",
+  "en_tr_qarib": "AlifLaamMeem.",
+  "en_tr_ayubk": "Alif Lam Mim (A.L.M.).",
+  "en_tr_sher": "Alif, L?m, M?m.",
+  "en_tr_asad": "Alif. L&#257;m. M&#299;m.",
+  "en_tr_arberry": "Alif Lam Mim",
+  "en_tr_maududi": "Alif. Lam. Mim.",
+  "en_ctr_yusuf": "A. L. M.{{3579}}",
+  "en_ctr_asad": "Alif. Lam. Mim.{{1}}",
+  "en_notes_yusuf": [
+    {
+      "note_no": "3579",
+      "note": "See n. 25 to 2:1 and Introduction to S. 30."
+    }
+  ],
+  "en_notes_asad": [
+    {
+      "note_no": "1",
+      "note": "See Appendix II."
+    }
+  ],
+  "en_snotes_yusuf": "See n. 25 to 2:1 and Introduction to S. 30.",
+  "en_snotes_asad": "See Appendix II.",
+  "keywords": null
+}

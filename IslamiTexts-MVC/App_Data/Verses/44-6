@@ -1,0 +1,30 @@
+{
+  "type": "Verse",
+  "surah_no": 44,
+  "verse_no": 6,
+  "ar_text": "رَحْمَةً مِنْ رَبِّكَ إِنَّهُ هُوَ السَّمِيعُ الْعَلِيمُ",
+  "ar_text_clean": "رحمة من ربك إنه هو السميع العليم",
+  "en_tr_yusuf": "As Mercy from thy Lord: for He hears and knows (all things);",
+  "en_tr_pickth": "A mercy from thy Lord. Lo! He, even He is the Hearer, the Knower,",
+  "en_tr_shakir": "A mercy from your Lord, surely He is the Hearing, the Knowing,",
+  "en_tr_hilali": "(As) a Mercy from your Lord. Verily! He is the All-Hearer, the All-Knower.",
+  "en_tr_dbadi": "A mercy from thy Lord. Verily He! He is the Hearer, the Knower.",
+  "en_tr_qarib": "A Mercy from your Lord, He is the Hearer, the Knower.",
+  "en_tr_ayubk": "as a mercy from thy Lord; He is the Hearing, the Knowing,",
+  "en_tr_sher": "As a mercy from thy Lord. Verily, He is the All-Hearing, the All-Knowing,",
+  "en_tr_asad": "in pursuance of thy Sustainer's grace [unto man]. Verily, He alone is all-hearing, all-knowing,",
+  "en_tr_arberry": "as a mercy from thy Lord (surely He is the All-hearing, the All-knowing)",
+  "en_tr_maududi": "as a Mercy from your Lord.{{4}} Surely He is All-Hearing, All-Seeing,{{5}}",
+  "en_ctr_yusuf": "As Mercy from thy Lord: for He hears and knows{{4692}} (All things);",
+  "en_ctr_asad": "in pursuance of thy Sustainer's grace [unto man]. Verily, He alone is all-hearing, all-knowing,",
+  "en_notes_yusuf": [
+    {
+      "note_no": "4692",
+      "note": "It is because Allah is the friend of the friendless and the help of the helpless that He hears all sincere prayers, and as His knowledge embraces all things, He grants to us whatever is best for us, not as we see it, but as He knows it in His perfect knowledge."
+    }
+  ],
+  "en_notes_asad": null,
+  "en_snotes_yusuf": "It is because Allah is the friend of the friendless and the help of the helpless that He hears all sincere prayers, and as His knowledge embraces all things, He grants to us whatever is best for us, not as we see it, but as He knows it in His perfect knowledge.",
+  "en_snotes_asad": null,
+  "keywords": null
+}

@@ -1,0 +1,35 @@
+{
+  "type": "Verse",
+  "surah_no": 71,
+  "verse_no": 15,
+  "ar_text": "أَلَمْ تَرَوْا كَيْفَ خَلَقَ اللَّهُ سَبْعَ سَمَاوَاتٍ طِبَاقًا",
+  "ar_text_clean": "ألم تروا كيف خلق الله سبع سماوات طباقا",
+  "en_tr_yusuf": "\"'See ye not how Allah has created the seven heavens one above another,",
+  "en_tr_pickth": "See ye not how Allah hath created seven heavens in harmony,",
+  "en_tr_shakir": "Do you not see how Allah has created the seven heavens ,~ one above another,",
+  "en_tr_hilali": "See you not how Allah has created the seven heavens one above another,",
+  "en_tr_dbadi": "Behold ye not in what wise Allah hath created seven heavens in storeys.",
+  "en_tr_qarib": "Have you not seen how Allah created the seven heavens one above the other,",
+  "en_tr_ayubk": "Have you not seen how God created seven heavens in regions,",
+  "en_tr_sher": "See you not how God has created seven heavens in perfect harmony,",
+  "en_tr_asad": "\"Do you not see how God has created seven heavens in full harmony with one another,",
+  "en_tr_arberry": "Have you not regarded how God created seven heavens one upon another,",
+  "en_tr_maududi": "Do you not see how Allah has created seven heavens, one upon the other,",
+  "en_ctr_yusuf": "\"?See ye not how Allah has created the seven heavens one above another,{{5715}}",
+  "en_ctr_asad": "\"'Do you not see how God has created seven heavens in full harmony with one another,{{8}}",
+  "en_notes_yusuf": [
+    {
+      "note_no": "5715",
+      "note": "See n. 5559 to 67:3."
+    }
+  ],
+  "en_notes_asad": [
+    {
+      "note_no": "8",
+      "note": "Cf. 67:3 and the corresponding note 2."
+    }
+  ],
+  "en_snotes_yusuf": "See n. 5559 to 67:3.",
+  "en_snotes_asad": "Cf. 67:3 and the corresponding note 2.",
+  "keywords": null
+}

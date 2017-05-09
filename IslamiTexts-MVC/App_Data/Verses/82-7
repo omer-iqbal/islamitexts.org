@@ -1,0 +1,43 @@
+{
+  "type": "Verse",
+  "surah_no": 82,
+  "verse_no": 7,
+  "ar_text": "الَّذِي خَلَقَكَ فَسَوَّاكَ فَعَدَلَكَ",
+  "ar_text_clean": "الذي خلقك فسواك فعدلك",
+  "en_tr_yusuf": "Him Who created thee. Fashioned thee in due proportion, and gave thee a just bias;",
+  "en_tr_pickth": "Who created thee, then fashioned, then proportioned thee?",
+  "en_tr_shakir": "Who created you, then made you complete, then made you symmetrical?",
+  "en_tr_hilali": "Who created you, fashioned you perfectly, and gave you due proportion;",
+  "en_tr_dbadi": "Who created thee, then moulded thee, then proportioned thee?",
+  "en_tr_qarib": "who created you, formed you and proportioned you?",
+  "en_tr_ayubk": "who created thee, then shaped thee, then balanced thee;",
+  "en_tr_sher": "Who created thee, then perfected thee, then proportioned thee aright?",
+  "en_tr_asad": "who has created thee, and formed thee in accordance with what thou art meant to be, and shaped thy nature in just proportions,",
+  "en_tr_arberry": "who created thee and shaped thee and wrought thee in symmetry",
+  "en_tr_maududi": "Who created you, shaped you, and made you well-proportioned,",
+  "en_ctr_yusuf": "Him Who created thee. Fashioned thee in due proportion,{{6003}} and gave thee a just bias;{{6004}}",
+  "en_ctr_asad": "who has created thee, and formed thee in accordance with what thou art meant to be,{{4}} and shaped thy nature in just proportions,{{5}}",
+  "en_notes_yusuf": [
+    {
+      "note_no": "6003",
+      "note": "Cf. 15:29. Allah not only created man. but fashioned him in due proportions, giving him extraordinary capacities, and the means wherewith he can fulfil his high destiny."
+    },
+    {
+      "note_no": "6004",
+      "note": "See n. 834 to 6:1. Having given a limited free will, He gave us a just bias through our reason and our spiritual faculties. If we err, it is our will that is at fault."
+    }
+  ],
+  "en_notes_asad": [
+    {
+      "note_no": "4",
+      "note": "I.e., \"endowed thee with all the qualities and abilities relevant to the exigencies of thy individual life and thy environment\"."
+    },
+    {
+      "note_no": "5",
+      "note": "Lit., \"made thee proportionate\", i.e., a being subject to physical needs and emotional urges, and at the same time endowed with intellectual and spiritual perceptions: in other words, a being in whom there is no inherent conflict between the demands of \"the spirit and the flesh\", since both these aspects of the human condition are - as stressed in the next verse - God-willed and, therefore, morally justified."
+    }
+  ],
+  "en_snotes_yusuf": "Cf. 15:29. Allah not only created man. but fashioned him in due proportions, giving him extraordinary capacities, and the means wherewith he can fulfil his high destiny. See n. 834 to 6:1. Having given a limited free will, He gave us a just bias through our reason and our spiritual faculties. If we err, it is our will that is at fault.",
+  "en_snotes_asad": "I.e., \"endowed thee with all the qualities and abilities relevant to the exigencies of thy individual life and thy environment\". Lit., \"made thee proportionate\", i.e., a being subject to physical needs and emotional urges, and at the same time endowed with intellectual and spiritual perceptions: in other words, a being in whom there is no inherent conflict between the demands of \"the spirit and the flesh\", since both these aspects of the human condition are - as stressed in the next verse - God-willed and, therefore, morally justified.",
+  "keywords": null
+}

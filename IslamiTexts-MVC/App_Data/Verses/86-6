@@ -1,0 +1,30 @@
+{
+  "type": "Verse",
+  "surah_no": 86,
+  "verse_no": 6,
+  "ar_text": "خُلِقَ مِنْ مَاءٍ دَافِقٍ",
+  "ar_text_clean": "خلق من ماء دافق",
+  "en_tr_yusuf": "He is created from a drop emitted-",
+  "en_tr_pickth": "He is created from a gushing fluid",
+  "en_tr_shakir": "He is created of water pouring forth,",
+  "en_tr_hilali": "He is created from a water gushing forth",
+  "en_tr_dbadi": "He is created from a water drip-ping,",
+  "en_tr_qarib": "He was created from ejaculated water",
+  "en_tr_ayubk": "He is created of a gushing water,",
+  "en_tr_sher": "He is created of a gushing fluid,",
+  "en_tr_asad": "he has been created out of a seminal fluid",
+  "en_tr_arberry": "he was created of gushing water",
+  "en_tr_maududi": "He was created of a gushing fluid,",
+  "en_ctr_yusuf": "He is created from a drop emitted-{{6070}}",
+  "en_ctr_asad": "he has been created out of a seminal fluid",
+  "en_notes_yusuf": [
+    {
+      "note_no": "6070",
+      "note": "See n. 5832 to 76:2. See also last note."
+    }
+  ],
+  "en_notes_asad": null,
+  "en_snotes_yusuf": "See n. 5832 to 76:2. See also last note.",
+  "en_snotes_asad": null,
+  "keywords": null
+}

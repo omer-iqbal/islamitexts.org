@@ -1,0 +1,35 @@
+{
+  "type": "Verse",
+  "surah_no": 88,
+  "verse_no": 22,
+  "ar_text": "لَسْتَ عَلَيْهِمْ بِمُصَيْطِرٍ",
+  "ar_text_clean": "لست عليهم بمصيطر",
+  "en_tr_yusuf": "Thou art not one to manage (men's) affairs.",
+  "en_tr_pickth": "Thou art not at all a warder over them.",
+  "en_tr_shakir": "You are not a watcher over them;",
+  "en_tr_hilali": "You are not a dictator over them.",
+  "en_tr_dbadi": "Thou art not over them a warden.",
+  "en_tr_qarib": "You are not charged to oversee them.",
+  "en_tr_ayubk": "Thou art not an overseer over them.",
+  "en_tr_sher": "Thou art not appointed a keeper over them.",
+  "en_tr_asad": "thou canst not compel them [to believe].",
+  "en_tr_arberry": "thou art not charged to oversee them.",
+  "en_tr_maududi": "and are not invested with the authority to compel them.{{8}}",
+  "en_ctr_yusuf": "Thou art not one to manage (men?s) affairs.{{6107}}",
+  "en_ctr_asad": "thou canst not compel them [to believe].{{6}}",
+  "en_notes_yusuf": [
+    {
+      "note_no": "6107",
+      "note": "The Prophet of Allah is sent to teach and direct people on the way. He is not sent to force their will, or to punish them, except insofar as he may receive authority to do so. Punishment belongs to Allah alone. And Punishment is certain in the Hereafter, when true values will be restored."
+    }
+  ],
+  "en_notes_asad": [
+    {
+      "note_no": "6",
+      "note": "Lit., \"thou hast no power over them\"."
+    }
+  ],
+  "en_snotes_yusuf": "The Prophet of Allah is sent to teach and direct people on the way. He is not sent to force their will, or to punish them, except insofar as he may receive authority to do so. Punishment belongs to Allah alone. And Punishment is certain in the Hereafter, when true values will be restored.",
+  "en_snotes_asad": "Lit., \"thou hast no power over them\".",
+  "keywords": null
+}

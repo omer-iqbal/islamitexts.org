@@ -1,0 +1,30 @@
+{
+  "type": "Verse",
+  "surah_no": 23,
+  "verse_no": 84,
+  "ar_text": "قُلْ لِمَنِ الْأَرْضُ وَمَنْ فِيهَا إِنْ كُنْتُمْ تَعْلَمُونَ",
+  "ar_text_clean": "قل لمن الأرض ومن فيها إن كنتم تعلمون",
+  "en_tr_yusuf": "Say: \"To whom belong the earth and all beings therein? (say) if ye know!\"",
+  "en_tr_pickth": "Say: Unto Whom (belongeth) the earth and whosoever is therein, if ye have knowledge?",
+  "en_tr_shakir": "Say: Whose is the earth, and whoever is therein, if you know?",
+  "en_tr_hilali": "Say: \"Whose is the earth and whosoever is therein? If you know!\"",
+  "en_tr_dbadi": "Say thou: whose is the earth and whosoever is therein, if you know?",
+  "en_tr_qarib": "Say: \"If you have knowledge, 'to whom belongs the earth? ' and, 'whoever is in it? '\"",
+  "en_tr_ayubk": "Say `whose is the earth, and whosoever is on it, if you know?'",
+  "en_tr_sher": "Say, 'To whom belongs the earth and whosoever is therein, if you know?'",
+  "en_tr_asad": "Say: \"Unto whom belongs the earth and all that lives thereon? [Tell me this] if you happen to know [the answer]!\"",
+  "en_tr_arberry": "Say: Whose is the earth, and whoso is in it, if you have knowledge?",
+  "en_tr_maududi": "Say to them, \"Tell me, if you know, whose is the earth and all who dwell in it?\"",
+  "en_ctr_yusuf": "Say: \"To whom belong the earth and all beings therein? (say) if ye know!\"",
+  "en_ctr_asad": "Say: \"Unto whom belongs the earth and all that lives thereon?{{48}} [Tell me this] if you happen to know [the answer]!\"",
+  "en_notes_yusuf": null,
+  "en_notes_asad": [
+    {
+      "note_no": "48",
+      "note": "Lit., \"and all who are on it\"."
+    }
+  ],
+  "en_snotes_yusuf": null,
+  "en_snotes_asad": "Lit., \"and all who are on it\".",
+  "keywords": null
+}

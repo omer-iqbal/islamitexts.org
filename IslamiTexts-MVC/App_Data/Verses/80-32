@@ -1,0 +1,35 @@
+{
+  "type": "Verse",
+  "surah_no": 80,
+  "verse_no": 32,
+  "ar_text": "مَتَاعًا لَكُمْ وَلِأَنْعَامِكُمْ",
+  "ar_text_clean": "متاعا لكم ولأنعامكم",
+  "en_tr_yusuf": "For use and convenience to you and your cattle.",
+  "en_tr_pickth": "Provision for you and your cattle.",
+  "en_tr_shakir": "A provision for you and for your cattle.",
+  "en_tr_hilali": "(To be) a provision and benefit for you and your cattle.",
+  "en_tr_dbadi": "A provision for you and for your cattle.",
+  "en_tr_qarib": "for you and for your herds to delight in.",
+  "en_tr_ayubk": "a provision for you and the cattle.",
+  "en_tr_sher": "A provision for you and your cattle.",
+  "en_tr_asad": "for you and for your animals to enjoy.",
+  "en_tr_arberry": "an enjoyment for you and your flocks.",
+  "en_tr_maududi": "all this as a provision for you and your cattle.{{20}}",
+  "en_ctr_yusuf": "For use and convenience to you and your cattle.{{5964}}",
+  "en_ctr_asad": "for you and for your animals to enjoy.{{9}}",
+  "en_notes_yusuf": [
+    {
+      "note_no": "5964",
+      "note": "The same verse occurs at 79:33, where n. 5940 explains the wider meaning in that context."
+    }
+  ],
+  "en_notes_asad": [
+    {
+      "note_no": "9",
+      "note": "The implication is that man ought to be grateful for all this God-given bounty, but as a rule is not: and this connects with the subsequent evocation of the Day of Resurrection, already hinted at in the reference to the recurring phenomenon of life-renewal."
+    }
+  ],
+  "en_snotes_yusuf": "The same verse occurs at 79:33, where n. 5940 explains the wider meaning in that context.",
+  "en_snotes_asad": "The implication is that man ought to be grateful for all this God-given bounty, but as a rule is not: and this connects with the subsequent evocation of the Day of Resurrection, already hinted at in the reference to the recurring phenomenon of life-renewal.",
+  "keywords": null
+}

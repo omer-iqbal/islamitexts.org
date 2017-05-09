@@ -1,0 +1,30 @@
+{
+  "type": "Verse",
+  "surah_no": 79,
+  "verse_no": 26,
+  "ar_text": "إِنَّ فِي ذَٰلِكَ لَعِبْرَةً لِمَنْ يَخْشَىٰ",
+  "ar_text_clean": "إن في ذلك لعبرة لمن يخشى",
+  "en_tr_yusuf": "Verily in this is an instructive warning for whosoever feareth (Allah).",
+  "en_tr_pickth": "Lo! herein is indeed a lesson for him who feareth.",
+  "en_tr_shakir": "Most surely there is in this a lesson to him who fears.",
+  "en_tr_hilali": "Verily, in this is an instructive admonition for whosoever fears Allah.",
+  "en_tr_dbadi": "Verily herein is lesson for him who feareth.",
+  "en_tr_qarib": "Surely, in this there is a lesson for he that fears!",
+  "en_tr_ayubk": "and the First. Surely in that is a lesson for him who fears.",
+  "en_tr_sher": "Therein, surely, is a lesson for him who fears his Lord.",
+  "en_tr_asad": "In this, behold, there is a lesson indeed for all who stand in awe [of God].",
+  "en_tr_arberry": "Surely in that is a lesson for him who fears!",
+  "en_tr_maududi": "Surely there is a great lesson in it for whoever would fear (Allah).{{12}}",
+  "en_ctr_yusuf": "Verily in this is an instructive warning{{5933}} for whosoever feareth (Allah).",
+  "en_ctr_asad": "In this, behold, there is a lesson indeed for all who stand in awe [of God].",
+  "en_notes_yusuf": [
+    {
+      "note_no": "5933",
+      "note": "Cf. 24:44."
+    }
+  ],
+  "en_notes_asad": null,
+  "en_snotes_yusuf": "Cf. 24:44.",
+  "en_snotes_asad": null,
+  "keywords": null
+}

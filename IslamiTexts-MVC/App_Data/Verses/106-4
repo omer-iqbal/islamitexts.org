@@ -1,0 +1,39 @@
+{
+  "type": "Verse",
+  "surah_no": 106,
+  "verse_no": 4,
+  "ar_text": "الَّذِي أَطْعَمَهُمْ مِنْ جُوعٍ وَآمَنَهُمْ مِنْ خَوْفٍ",
+  "ar_text_clean": "الذي أطعمهم من جوع وآمنهم من خوف",
+  "en_tr_yusuf": "Who provides them with food against hunger, and with security against fear (of danger).",
+  "en_tr_pickth": "Who hath fed them against hunger and hath made them safe from fear.",
+  "en_tr_shakir": "Who feeds them against hunger and gives them security against fear.",
+  "en_tr_hilali": "(He) Who has fed them against hunger, and has made them safe from fear.",
+  "en_tr_dbadi": "Who hath fed them against hunger; and hath rendered them secure from fear.",
+  "en_tr_qarib": "who fed them from hunger and secured them from fear.",
+  "en_tr_ayubk": "who has fed them against hunger and secured them against fear.",
+  "en_tr_sher": "Who has fed them against hunger, and has given them security against fear.",
+  "en_tr_asad": "who has given them food against hunger, and made them safe from danger.",
+  "en_tr_arberry": "who has fed them against hunger and secured them from fear.",
+  "en_tr_maududi": "Who fed them against hunger,{{4}} and secured them against fear.{{5}}",
+  "en_ctr_yusuf": "Who provides them with food against hunger,{{6279}} and with security against fear (of danger).{{6280}}",
+  "en_ctr_asad": "who has given them food against hunger, and made them safe from danger.{{4}}",
+  "en_notes_yusuf": [
+    {
+      "note_no": "6279",
+      "note": "Their trade caravans enriched them, and drew people from distant parts to visit Makkah and bring their merchandise and gifts thither."
+    },
+    {
+      "note_no": "6280",
+      "note": "Their territory being inviolable, they did not suffer from the dangers of constant warfare nor from private feuds of vengeance or breaches of the peace in their secure homes"
+    }
+  ],
+  "en_notes_asad": [
+    {
+      "note_no": "4",
+      "note": "Cf. Abraham's prayer, \"O my Sustainer! Make this a land secure, and grant its people fruitful sustenance\" (2:126)."
+    }
+  ],
+  "en_snotes_yusuf": "Their trade caravans enriched them, and drew people from distant parts to visit Makkah and bring their merchandise and gifts thither. Their territory being inviolable, they did not suffer from the dangers of constant warfare nor from private feuds of vengeance or breaches of the peace in their secure homes",
+  "en_snotes_asad": "Cf. Abraham's prayer, \"O my Sustainer! Make this a land secure, and grant its people fruitful sustenance\" (2:126).",
+  "keywords": null
+}

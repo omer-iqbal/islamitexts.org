@@ -1,0 +1,30 @@
+{
+  "type": "Verse",
+  "surah_no": 26,
+  "verse_no": 154,
+  "ar_text": "مَا أَنْتَ إِلَّا بَشَرٌ مِثْلُنَا فَأْتِ بِآيَةٍ إِنْ كُنْتَ مِنَ الصَّادِقِينَ",
+  "ar_text_clean": "ما أنت إلا بشر مثلنا فأت بآية إن كنت من الصادقين",
+  "en_tr_yusuf": "\"Thou art no more than a mortal like us: then bring us a Sign, if thou tellest the truth!\"",
+  "en_tr_pickth": "Thou art but a mortal like us. So bring some token if thou art of the truthful.",
+  "en_tr_shakir": "You are naught but a mortal like ourselves; so bring a sign if you are one of the truthful.",
+  "en_tr_hilali": "\"You are but a human being like us. Then bring us a sign if you are of the truthful.\"",
+  "en_tr_dbadi": "Thou art but a human being like unto us. So bring thou a sign if thou art of the truth-tellers.",
+  "en_tr_qarib": "You are but a human like ourselves. Produce for us a sign, if you are of the truthful. '",
+  "en_tr_ayubk": "thou art not but a mortal like us; now bring a Sign if thou art of the truthful.'",
+  "en_tr_sher": "Thou art only a mortal like us. So bring a Sign, if thou art of the truthful.'",
+  "en_tr_asad": "Thou art nothing but a mortal like ourselves! Come, then, forward with a token [of thy mission] if thou art a man of truth!\"",
+  "en_tr_arberry": "thou art naught but a mortal, like us; then produce a sign, if thou art one of the truthful.",
+  "en_tr_maududi": "\"you are no more than a man like us: bring forth a sign if you are truthful.\"{{102}}",
+  "en_ctr_yusuf": "\"Thou art no more than a mortal like us: then bring us a Sign, if thou tellest the truth!\"",
+  "en_ctr_asad": "Thou art nothing but a mortal like ourselves! Come, then, forward with a token [of thy mission]{{65}} if thou art a man of truth!\"",
+  "en_notes_yusuf": null,
+  "en_notes_asad": [
+    {
+      "note_no": "65",
+      "note": "Tabari: \"... that is to say, 'with an indication (dalalah) and a proof that thou art to be trusted as regards thy claim that thou hast been sent to us by God'.\""
+    }
+  ],
+  "en_snotes_yusuf": null,
+  "en_snotes_asad": "Tabari: \"... that is to say, 'with an indication (dalalah) and a proof that thou art to be trusted as regards thy claim that thou hast been sent to us by God'.\"",
+  "keywords": null
+}

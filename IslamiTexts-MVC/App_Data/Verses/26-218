@@ -1,0 +1,30 @@
+{
+  "type": "Verse",
+  "surah_no": 26,
+  "verse_no": 218,
+  "ar_text": "الَّذِي يَرَاكَ حِينَ تَقُومُ",
+  "ar_text_clean": "الذي يراك حين تقوم",
+  "en_tr_yusuf": "Who seeth thee standing forth (in prayer),",
+  "en_tr_pickth": "Who seeth thee when thou standest up (to pray)",
+  "en_tr_shakir": "Who sees you when you stand up.",
+  "en_tr_hilali": "Who sees you (O Muhammad SAW) when you stand up (alone at night for Tahajjud prayers).",
+  "en_tr_dbadi": "Who seeth thee when thou standest up",
+  "en_tr_qarib": "who sees you when you stand",
+  "en_tr_ayubk": "who sees thee when thou standest",
+  "en_tr_sher": "Who sees thee when thou standest in Prayer,",
+  "en_tr_asad": "who sees thee when thou standest [alone],",
+  "en_tr_arberry": "who sees thee when thou standest",
+  "en_tr_maududi": "Who watches you when you get up,{{138}}",
+  "en_ctr_yusuf": "Who seeth thee standing forth (in prayer),",
+  "en_ctr_asad": "who sees thee when thou standest [alone],{{95}}",
+  "en_notes_yusuf": null,
+  "en_notes_asad": [
+    {
+      "note_no": "95",
+      "note": "According to Mujahid (as quoted by Tabari), this means \"wherever thou mayest be\". Other commentators take it to mean \"when thou standest up for prayer\", but this seems to be too narrow an interpretation."
+    }
+  ],
+  "en_snotes_yusuf": null,
+  "en_snotes_asad": "According to Mujahid (as quoted by Tabari), this means \"wherever thou mayest be\". Other commentators take it to mean \"when thou standest up for prayer\", but this seems to be too narrow an interpretation.",
+  "keywords": null
+}

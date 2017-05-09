@@ -1,0 +1,35 @@
+{
+  "type": "Verse",
+  "surah_no": 42,
+  "verse_no": 3,
+  "ar_text": "كَذَٰلِكَ يُوحِي إِلَيْكَ وَإِلَى الَّذِينَ مِنْ قَبْلِكَ اللَّهُ الْعَزِيزُ الْحَكِيمُ",
+  "ar_text_clean": "كذلك يوحي إليك وإلى الذين من قبلك الله العزيز الحكيم",
+  "en_tr_yusuf": "Thus doth (He) send inspiration to thee as (He did) to those before thee,- Allah, Exalted in Power, Full of Wisdom.",
+  "en_tr_pickth": "Thus Allah the Mighty, the Knower inspireth thee (Muhammad) as (He inspired) those before thee.",
+  "en_tr_shakir": "Thus does Allah, the Mighty, the Wise, reveal to you, and (thus He revealed) to those before you.",
+  "en_tr_hilali": "Likewise Allah, the All-Mighty, the All-Wise inspires you (O Muhammad SAW) as (He inspired) those before you.",
+  "en_tr_dbadi": "In this wise revealeth Unto thee and Unto those before thee, Allah the Mighty, the Wise.",
+  "en_tr_qarib": "As such Allah, the Almighty, the Wise reveals to you (Prophet Muhammad) and to those before you.",
+  "en_tr_ayubk": "So reveals to thee, and to those before thee,",
+  "en_tr_sher": "Thus does God, the Mighty, the Wise, send revelation to thee as He revealed to those before thee.",
+  "en_tr_asad": "THUS has God, the Almighty, the Wise, revealed [the truth] unto thee, [O Muhammad,] and unto those who preceded thee:",
+  "en_tr_arberry": "So reveals to thee, and to those before thee, God, the All-mighty, the All-wise.",
+  "en_tr_maududi": "Thus does Allah, the Most Mighty, the Most Wise reveal to you even as (He revealed) to those (Messengers) who preceded you.{{1}}",
+  "en_ctr_yusuf": "Thus doth (He) send inspiration to thee as (He did) to those before thee,-{{4528}} Allah, Exalted in Power, Full of Wisdom.",
+  "en_ctr_asad": "THUS has God, the Almighty, the Wise, revealed [the truth] unto thee, [O Muhammad,] and unto those who preceded thee:{{2}}",
+  "en_notes_yusuf": [
+    {
+      "note_no": "4528",
+      "note": "Inspiration is full of Power and Wisdom, and both these qualities are derived from the Power and Wisdom of Allah. Unlike human power, this Power is necessarily good and merciful; unlike human wisdom, this Wisdom is necessarily complete and indisputable."
+    }
+  ],
+  "en_notes_asad": [
+    {
+      "note_no": "2",
+      "note": "I.e., the basic truths propounded in the Qur'anic revelation - some of which are summarized in the sequence - are the same as those revealed to all the earlier prophets."
+    }
+  ],
+  "en_snotes_yusuf": "Inspiration is full of Power and Wisdom, and both these qualities are derived from the Power and Wisdom of Allah. Unlike human power, this Power is necessarily good and merciful; unlike human wisdom, this Wisdom is necessarily complete and indisputable.",
+  "en_snotes_asad": "I.e., the basic truths propounded in the Qur'anic revelation - some of which are summarized in the sequence - are the same as those revealed to all the earlier prophets.",
+  "keywords": null
+}

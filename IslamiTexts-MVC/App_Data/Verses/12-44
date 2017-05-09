@@ -1,0 +1,35 @@
+{
+  "type": "Verse",
+  "surah_no": 12,
+  "verse_no": 44,
+  "ar_text": "قَالُوا أَضْغَاثُ أَحْلَامٍ وَمَا نَحْنُ بِتَأْوِيلِ الْأَحْلَامِ بِعَالِمِينَ",
+  "ar_text_clean": "قالوا أضغاث أحلام وما نحن بتأويل الأحلام بعالمين",
+  "en_tr_yusuf": "They said: \"A confused medley of dreams: and we are not skilled in the interpretation of dreams.\"",
+  "en_tr_pickth": "They answered: Jumbled dreams! And we are not knowing in the interpretation of dreams.",
+  "en_tr_shakir": "They said: Confused dreams, and we do not know the interpretation of dreams.",
+  "en_tr_hilali": "They said: \"Mixed up false dreams and we are not skilled in the interpretation of dreams.\"",
+  "en_tr_dbadi": "They said: medleys of dreams! and in the interpretation of dreams we are not skilled.",
+  "en_tr_qarib": "They said: 'They are confused nightmares, nor do we know anything of the interpretation of visions. '",
+  "en_tr_ayubk": "They said, `hotchpotch of nightmares and we are not the ones to know the interpretation of nightmares'.",
+  "en_tr_sher": "They replied, 'These are confused dreams and we do not know the interpretation of confused dreams.'",
+  "en_tr_asad": "They answered: \"[This is one of] the most involved and confusing of dreams, and we have no deep knowledge of the real meaning of dreams.\"",
+  "en_tr_arberry": "A hotchpotch of nightmares! they said. We know nothing of the interpretation of nightmares.",
+  "en_tr_maududi": "They said: \"These are confused dreams, and we do not know the interpretation of such dreams.\"",
+  "en_ctr_yusuf": "They said: \"A confused medley of dreams: and we are not skilled in the interpretation of dreams.\"{{1701}}",
+  "en_ctr_asad": "They answered: \"[This is one of] the most involved and confusing of dreams,{{45}} and we have no deep knowledge of the real meaning of dreams.\"",
+  "en_notes_yusuf": [
+    {
+      "note_no": "1701",
+      "note": "No one in the Council apparently wanted to take the responsibility either of interpreting the dream, or of carrying out any measures consequent on the interpretation."
+    }
+  ],
+  "en_notes_asad": [
+    {
+      "note_no": "45",
+      "note": "Lit., \"confusing medleys (adghath) of dreams\"."
+    }
+  ],
+  "en_snotes_yusuf": "No one in the Council apparently wanted to take the responsibility either of interpreting the dream, or of carrying out any measures consequent on the interpretation.",
+  "en_snotes_asad": "Lit., \"confusing medleys (adghath) of dreams\".",
+  "keywords": null
+}

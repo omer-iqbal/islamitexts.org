@@ -260,3 +260,4 @@ paket-files/
 __pycache__/
 *.pyc
 /IslamiTexts-MVC/Web.config
+/IslamiTexts-MVC/App_Data/LuceneIndex

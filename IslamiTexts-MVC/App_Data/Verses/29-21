@@ -1,0 +1,30 @@
+{
+  "type": "Verse",
+  "surah_no": 29,
+  "verse_no": 21,
+  "ar_text": "يُعَذِّبُ مَنْ يَشَاءُ وَيَرْحَمُ مَنْ يَشَاءُ وَإِلَيْهِ تُقْلَبُونَ",
+  "ar_text_clean": "يعذب من يشاء ويرحم من يشاء وإليه تقلبون",
+  "en_tr_yusuf": "\"He punishes whom He pleases, and He grants Mercy to whom He pleases, and towards Him are ye turned.",
+  "en_tr_pickth": "He punisheth whom He will and showeth mercy unto whom He will, and unto Him ye will be turned.",
+  "en_tr_shakir": "He punishes whom He pleases and has mercy on whom He pleases, and to Him you shall be turned back.",
+  "en_tr_hilali": "He punishes whom He will, and shows mercy to whom He will, and to Him you will be returned.",
+  "en_tr_dbadi": "He shall torment whomsoever He Will, and shall show mercy unto whomsoever He Will, and unto Him ye shall be returned.",
+  "en_tr_qarib": "He punishes whom He will and has mercy to whom He will. To Him you shall be turned.",
+  "en_tr_ayubk": "He punishes whom He will, and has mercy on whom He will, and to Him you shall be turned back.",
+  "en_tr_sher": "He punishes whom He pleases and shows mercy unto whom He pleases; and to Him will you be turned back;",
+  "en_tr_asad": "\"He causes to suffer whomever He wills, and bestows His mercy on whomever He wills; and unto Him you shall be made to return:",
+  "en_tr_arberry": "chastising whom He will, and having mercy on whomsoever He will, and unto Him you shall be turned.",
+  "en_tr_maududi": "He chastises whom He will and forgives whom He will. To Him all of you will be sent back.",
+  "en_ctr_yusuf": "\"He punishes whom He pleases, and He grants Mercy to whom He pleases, and towards Him are ye turned.{{3442}}",
+  "en_ctr_asad": "\"He causes to suffer whomever He wills, and bestows His mercy on whomever He wills; and unto Him you shall be made to return:",
+  "en_notes_yusuf": [
+    {
+      "note_no": "3442",
+      "note": "I think ilayhi tuqlabun is better translated \"towards Him are ye turned\" than \"towards Him will be your return\", as it implies not only the return of man to Allah in the Hereafter (turja'un in verse 17 above) but also the fact explained in verse 22 that man's needs are always to be obtained from Allah: man cannot frustrate Allah's designs, and can have no help or protection except from Allah: man has always to face Allah, whether man obeys Allah or tries to ignore Allah. Man will never be able to defeat Allah's Plan. According to His wise Will and Plan, He will grant His grace or withhold it from man."
+    }
+  ],
+  "en_notes_asad": null,
+  "en_snotes_yusuf": "I think ilayhi tuqlabun is better translated \"towards Him are ye turned\" than \"towards Him will be your return\", as it implies not only the return of man to Allah in the Hereafter (turja'un in verse 17 above) but also the fact explained in verse 22 that man's needs are always to be obtained from Allah: man cannot frustrate Allah's designs, and can have no help or protection except from Allah: man has always to face Allah, whether man obeys Allah or tries to ignore Allah. Man will never be able to defeat Allah's Plan. According to His wise Will and Plan, He will grant His grace or withhold it from man.",
+  "en_snotes_asad": null,
+  "keywords": null
+}

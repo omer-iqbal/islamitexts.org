@@ -1,0 +1,30 @@
+{
+  "type": "Verse",
+  "surah_no": 81,
+  "verse_no": 2,
+  "ar_text": "وَإِذَا النُّجُومُ انْكَدَرَتْ",
+  "ar_text_clean": "وإذا النجوم انكدرت",
+  "en_tr_yusuf": "When the stars fall, losing their lustre;",
+  "en_tr_pickth": "And when the stars fall,",
+  "en_tr_shakir": "And when the stars darken,",
+  "en_tr_hilali": "And when the stars shall fall;",
+  "en_tr_dbadi": "And when the stars shall dart down,",
+  "en_tr_qarib": "when the stars are thrown down,",
+  "en_tr_ayubk": "when the stars are dimmed,",
+  "en_tr_sher": "And when the stars are obscured,",
+  "en_tr_asad": "and when the stars lose their light,",
+  "en_tr_arberry": "when the stars shall be thrown down,",
+  "en_tr_maududi": "when the stars shall scatter away,{{2}}",
+  "en_ctr_yusuf": "When the stars{{5971}} fall, losing their lustre;",
+  "en_ctr_asad": "and when the stars lose their light,",
+  "en_notes_yusuf": [
+    {
+      "note_no": "5971",
+      "note": "(2) Next after the sun, we can derive faint lights from the innumerable stars in the firmament. For all the ages of which we have any record, these stars have remained fixed. Nothing can be more fixed: yet they can and will fail."
+    }
+  ],
+  "en_notes_asad": null,
+  "en_snotes_yusuf": "(2) Next after the sun, we can derive faint lights from the innumerable stars in the firmament. For all the ages of which we have any record, these stars have remained fixed. Nothing can be more fixed: yet they can and will fail.",
+  "en_snotes_asad": null,
+  "keywords": null
+}

@@ -1,0 +1,35 @@
+{
+  "type": "Verse",
+  "surah_no": 81,
+  "verse_no": 3,
+  "ar_text": "وَإِذَا الْجِبَالُ سُيِّرَتْ",
+  "ar_text_clean": "وإذا الجبال سيرت",
+  "en_tr_yusuf": "When the mountains vanish (like a mirage);",
+  "en_tr_pickth": "And when the hills are moved,",
+  "en_tr_shakir": "And when the mountains are made to pass away,",
+  "en_tr_hilali": "And when the mountains shall made to pass away;",
+  "en_tr_dbadi": "And when the mountains shall be made to pass away,",
+  "en_tr_qarib": "and the mountains have been taken,",
+  "en_tr_ayubk": "when the mountains are set in motion,",
+  "en_tr_sher": "And when the mountains are made to move,",
+  "en_tr_asad": "and when the mountains are made to vanish,",
+  "en_tr_arberry": "when the mountains shall be set moving,",
+  "en_tr_maududi": "when the mountains shall be set in motion,{{3}}",
+  "en_ctr_yusuf": "When the mountains vanish (like a mirage);{{5972}}",
+  "en_ctr_asad": "and when the mountains are made to vanish,{{1}}",
+  "en_notes_yusuf": [
+    {
+      "note_no": "5972",
+      "note": "Cf. 78:20. (3) On our own earth the mountains-the \"eternal hills'-seem the most striking examples of stability; yet they will be swept away like a mirage, as if they had never existed."
+    }
+  ],
+  "en_notes_asad": [
+    {
+      "note_no": "1",
+      "note": "See 20:105-107 and the corresponding note 90; also note 63 on 14:48."
+    }
+  ],
+  "en_snotes_yusuf": "Cf. 78:20. (3) On our own earth the mountains-the \"eternal hills'-seem the most striking examples of stability; yet they will be swept away like a mirage, as if they had never existed.",
+  "en_snotes_asad": "See 20:105-107 and the corresponding note 90; also note 63 on 14:48.",
+  "keywords": null
+}

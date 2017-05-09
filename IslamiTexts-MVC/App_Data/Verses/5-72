@@ -1,0 +1,35 @@
+{
+  "type": "Verse",
+  "surah_no": 5,
+  "verse_no": 72,
+  "ar_text": "لَقَدْ كَفَرَ الَّذِينَ قَالُوا إِنَّ اللَّهَ هُوَ الْمَسِيحُ ابْنُ مَرْيَمَ وَقَالَ الْمَسِيحُ يَا بَنِي إِسْرَائِيلَ اعْبُدُوا اللَّهَ رَبِّي وَرَبَّكُمْ إِنَّهُ مَنْ يُشْرِكْ بِاللَّهِ فَقَدْ حَرَّمَ اللَّهُ عَلَيْهِ الْجَنَّةَ وَمَأْوَاهُ النَّارُ وَمَا لِلظَّالِمِينَ مِنْ أَنْصَارٍ",
+  "ar_text_clean": "لقد كفر الذين قالوا إن الله هو المسيح ابن مريم وقال المسيح يا بني إسرائيل اعبدوا الله ربي وربكم إنه من يشرك بالله فقد حرم الله عليه الجنة ومأواه النار وما للظالمين من أنصار",
+  "en_tr_yusuf": "They do blaspheme who say: \"Allah is Christ the son of Mary.\" But said Christ: \"O Children of Israel! worship Allah, my Lord and your Lord.\" Whoever joins other gods with Allah,- Allah will forbid him the garden, and the Fire will be his abode. There will for the wrong-doers be no one to help.",
+  "en_tr_pickth": "They surely disbelieve who say: Lo! Allah is the Messiah, son of Mary. The Messiah (himself) said: O Children of Israel, worship Allah, my Lord and your Lord. Lo! whoso ascribeth partners unto Allah, for him Allah hath forbidden paradise. His abode is the Fire. For evil-doers there will be no helpers.",
+  "en_tr_shakir": "Certainly they disbelieve who say: Surely Allah, He is the Messiah, son of Marium; and the Messiah said: O Children of Israel! serve Allah, my Lord and your Lord. Surely whoever associates (others) with Allah, then Allah has forbidden to him the garden, and his abode is the fire; and there shall be no helpers for the unjust.",
+  "en_tr_hilali": "Surely, they have disbelieved who say: \"Allah is the Messiah ['Iesa (Jesus)], son of Maryam (Mary).\" But the Messiah ['Iesa (Jesus)] said: \"O Children of Israel! Worship Allah, my Lord and your Lord.\" Verily, whosoever sets up partners in worship with Allah, then Allah has forbidden Paradise for him, and the Fire will be his abode. And for the Zalimun (polytheists and wrong-doers) there are no helpers.",
+  "en_tr_dbadi": "Assuredly they have disbelieved who say: verily God: He is the Masih, son of Maryam, whereas the Masih had said: Children of Isra'il! worship Allah, mine Lord and your Lord; verily whosoever associateth aught with Allah, Allah shall surely forbid the Garden unto him, and his resort is the Fire; and for the wrong-doers there shall be no helpers.",
+  "en_tr_qarib": "The unbelievers are those who say: 'Allah is the Messiah, the son of Mary. ' But the Messiah said: 'Children of Israel, worship Allah, my Lord and your Lord. 'He who associates anything with Allah, Allah has indeed forbidden Paradise to him, and his abode shall be in the Fire. The harmdoers shall have no helpers.",
+  "en_tr_ayubk": "They have disbelieved who say, `God is the Messiah, son of Mary;' whereas the Messiah said, `O Children of Israel, serve God, my Lord and your Lord; surely whoso associates any with God, God has forbidden Paradise to him, and his abode will be the Fire; and the wrong-doers shall have no helpers.'",
+  "en_tr_sher": "Indeed, they are disbelievers who say, 'God, He is the Messiah, son of Mary,' whereas the Messiah himself said, 'O Children of Israel, worship God Who is my Lord and your Lord.' Surely, whoso associates partners with God, him has God forbidden Heaven, and the Fire will be his resort. And the wrongdoers shall have no helpers.",
+  "en_tr_asad": "Indeed, the truth deny they who say, \"Behold, God is the Christ, son of Mary\" &ndash; seeing that the Christ [himself] said, \"O children of Israel! Worship God [alone], who is my Sustainer as well as your Sustainer.\" Behold, whoever ascribes divinity to any being beside God, unto him will God deny paradise, and his goal shall be the fire; and such evildoers will have none to succour them!",
+  "en_tr_arberry": "They are unbelievers who say, God is the Messiah, Marys son. For the Messiah said, Children of Israel, serve God, my Lord and your Lord. Verily whoso associates with God anything, God shall prohibit him entrance to Paradise, and his refuge shall be the Fire; and wrongdoers shall have no helpers.",
+  "en_tr_maududi": "And surely they disbelieved when they said: 'Christ, the son of Mary, is indeed God'; whereas Christ had said: 'Children of Israel! Serve Allah, Who is your Lord and my Lord.' Allah has forbidden Paradise to those who associate anything with Him in His divinity and their refuge shall be the Fire. No one will be able to help such wrong-doers.",
+  "en_ctr_yusuf": "They do blaspheme who say: \"Allah is Christ the son of Mary.\" But said Christ:{{782}} \"O Children of Israel! worship Allah, my Lord and your Lord.\" Whoever joins other gods with Allah,- Allah will forbid him the garden, and the Fire will be his abode. There will for the wrong-doers be no one to help.",
+  "en_ctr_asad": "Indeed, the truth deny they who say, \"Behold, God is the Christ, son of Mary\" - seeing that the Christ [himself] said, \"O children of Israel! Worship God [alone], who is my Sustainer as well as your Sustainer.\"{{88}} Behold, whoever ascribes divinity to any being beside God, unto him will God deny paradise, and his goal shall be the fire: and such evildoers will have none to succour them!",
+  "en_notes_yusuf": [
+    {
+      "note_no": "782",
+      "note": "Cf. Matt. 4:10, where Christ rebukes Satan for desiring the worship of other than Allah; John 20:17, where Christ says to Mary Magdalene, \"Go unto my brethren, and say unto them, I ascend unto my Father and your Father; and to my God and your God.\" Cf. also Luke 18:19, where Christ rebukes a certain ruler for calling him Good Master: \"Why callest thou me good? None is good, save One, that is, God.\" In Mark 12:29Jesus says: \"The first of all the commandments is, Hear O Israel: the Lord our God is One Lord\", (Cf. 5:116-117)."
+    }
+  ],
+  "en_notes_asad": [
+    {
+      "note_no": "88",
+      "note": "Cf. Matthew iv; 10; Luke iv, 8; John xx, 17."
+    }
+  ],
+  "en_snotes_yusuf": "Cf. Matt. 4:10, where Christ rebukes Satan for desiring the worship of other than Allah; John 20:17, where Christ says to Mary Magdalene, \"Go unto my brethren, and say unto them, I ascend unto my Father and your Father; and to my God and your God.\" Cf. also Luke 18:19, where Christ rebukes a certain ruler for calling him Good Master: \"Why callest thou me good? None is good, save One, that is, God.\" In Mark 12:29Jesus says: \"The first of all the commandments is, Hear O Israel: the Lord our God is One Lord\", (Cf. 5:116-117).",
+  "en_snotes_asad": "Cf. Matthew iv; 10; Luke iv, 8; John xx, 17.",
+  "keywords": null
+}

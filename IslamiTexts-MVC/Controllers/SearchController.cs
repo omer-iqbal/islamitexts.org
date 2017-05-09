@@ -31,7 +31,7 @@ namespace IslamiTexts.Controllers
 
             this.ViewData[Constants.QueryKey] = q;
 
-            AzureSearchService searchService = new AzureSearchService();
+            ISearcher searchService = new LuceneSearch();
             SearchResults searchResults = searchService.GetSearchResults(
                 SearchScope.Verse, 
                 q, 

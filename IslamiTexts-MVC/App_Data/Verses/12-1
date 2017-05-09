@@ -1,0 +1,47 @@
+{
+  "type": "Verse",
+  "surah_no": 12,
+  "verse_no": 1,
+  "ar_text": "الر تِلْكَ آيَاتُ الْكِتَابِ الْمُبِينِ",
+  "ar_text_clean": "الر تلك آيات الكتاب المبين",
+  "en_tr_yusuf": "A.L.R. These are the symbols (or Verses) of the perspicuous Book.",
+  "en_tr_pickth": "Alif. Lam. Ra. These are verse of the Scripture that maketh plain.",
+  "en_tr_shakir": "Alif Lam Ra. These are the verses of the Book that makes (things) manifest.",
+  "en_tr_hilali": "Alif-Lam-Ra. [These letters are one of the miracles of the Qur'an, and none but Allah (Alone) knows their meanings]. These are the Verses of the Clear Book (the Qur'an that makes clear the legal and illegal things, legal laws, a guidance and a blessing).",
+  "en_tr_dbadi": "Alif. Lam. Ra. These are the verses of a Book luminous.",
+  "en_tr_qarib": "AlifLaamRa. Those are the verses of the Clear Book.",
+  "en_tr_ayubk": "Alif Lam Ra (A.L.R.); these are the Signs of the Manifest Book.",
+  "en_tr_sher": "Alif Lam Ra. These are verses of the clear Book.",
+  "en_tr_asad": "lif. L&#257;m. R&#257;.\nTHESE ARE MESSAGES of a revelation clear in itself and clearly showing the truth:",
+  "en_tr_arberry": "Alif Lam Ra. Those are the signs of the Manifest Book.",
+  "en_tr_maududi": "Alif. Lam. Ra'. These are the verses of a Book that clearly expounds the truth.",
+  "en_ctr_yusuf": "A.L.R.{{1627}} These are the Symbols{{1628}} (or Verses) of the perspicuous Book.{{1629}}",
+  "en_ctr_asad": "Alif. Lam. Ra.{{1}} THESE ARE MESSAGES of a revelation clear in itself and clearly showing the truth:{{2}}",
+  "en_notes_yusuf": [
+    {
+      "note_no": "1627",
+      "note": "For the meaning of these mystic letters, see Introduction to S. 10."
+    },
+    {
+      "note_no": "1628",
+      "note": "Ayat Signs, Symbols, verses of the Qur'an. The Symbolic meaning is particularly appropriate here, as the whole of Joseph's story is a Sign or a Miracle? a working exposition of the Plan and Purpose of Allah."
+    },
+    {
+      "note_no": "1629",
+      "note": "Cf. 5:15, n. 716. The predominant meaning of Mubin here is: one that explains or makes things clear."
+    }
+  ],
+  "en_notes_asad": [
+    {
+      "note_no": "1",
+      "note": "See Appendix II."
+    },
+    {
+      "note_no": "2",
+      "note": "The participial adjective mubin may denote an attribute of the noun which it qualifies (\"clear\", \"manifest\", \"obvious\", etc.) as well as its function (\"making clear\" or \"manifesting\", i.e., the truth), either of which meanings is dictated by its context. In the consensus of authoritative opinion, both these meanings are comprised in the above instance; consequently, a compound phrase is necessary in order to render the term appropriately."
+    }
+  ],
+  "en_snotes_yusuf": "For the meaning of these mystic letters, see Introduction to S. 10. Ayat Signs, Symbols, verses of the Qur'an. The Symbolic meaning is particularly appropriate here, as the whole of Joseph's story is a Sign or a Miracle? a working exposition of the Plan and Purpose of Allah. Cf. 5:15, n. 716. The predominant meaning of Mubin here is: one that explains or makes things clear.",
+  "en_snotes_asad": "See Appendix II. The participial adjective mubin may denote an attribute of the noun which it qualifies (\"clear\", \"manifest\", \"obvious\", etc.) as well as its function (\"making clear\" or \"manifesting\", i.e., the truth), either of which meanings is dictated by its context. In the consensus of authoritative opinion, both these meanings are comprised in the above instance; consequently, a compound phrase is necessary in order to render the term appropriately.",
+  "keywords": null
+}

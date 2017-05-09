@@ -1,0 +1,30 @@
+{
+  "type": "Verse",
+  "surah_no": 23,
+  "verse_no": 42,
+  "ar_text": "ثُمَّ أَنْشَأْنَا مِنْ بَعْدِهِمْ قُرُونًا آخَرِينَ",
+  "ar_text_clean": "ثم أنشأنا من بعدهم قرونا آخرين",
+  "en_tr_yusuf": "Then We raised after them other generations.",
+  "en_tr_pickth": "Then after them We brought forth other generations.",
+  "en_tr_shakir": "Then We raised after them other generations.",
+  "en_tr_hilali": "Then, after them, We created other generations.",
+  "en_tr_dbadi": "Then after them We brought forth other generations.",
+  "en_tr_qarib": "After them We produced other generations",
+  "en_tr_ayubk": "Then, We produced other generations after them.",
+  "en_tr_sher": "Then We raised after them other generations.",
+  "en_tr_asad": "AND AFTER them We gave rise to new generations:",
+  "en_tr_arberry": "Thereafter, after them, We produced other generations;",
+  "en_tr_maududi": "After them We raised other peoples.",
+  "en_ctr_yusuf": "Then We raised after them other generations.",
+  "en_ctr_asad": "AND AFTER them We gave rise to new generations:{{21}}",
+  "en_notes_yusuf": null,
+  "en_notes_asad": [
+    {
+      "note_no": "21",
+      "note": "Lit., \"generations of others\", i.e., new civilizations."
+    }
+  ],
+  "en_snotes_yusuf": null,
+  "en_snotes_asad": "Lit., \"generations of others\", i.e., new civilizations.",
+  "keywords": null
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Verse",
+  "surah_no": 90,
+  "verse_no": 1,
+  "ar_text": "لَا أُقْسِمُ بِهَٰذَا الْبَلَدِ",
+  "ar_text_clean": "لا أقسم بهذا البلد",
+  "en_tr_yusuf": "I do call to witness this City;-",
+  "en_tr_pickth": "Nay, I swear by this city -",
+  "en_tr_shakir": "Nay! I swear by this city.",
+  "en_tr_hilali": "I swear by this city (Makkah);",
+  "en_tr_dbadi": "I swear by yonder city",
+  "en_tr_qarib": "No, I swear by this country (Mecca),",
+  "en_tr_ayubk": "No! I swear by this city __",
+  "en_tr_sher": "Nay, I cite as witness this City -",
+  "en_tr_asad": "NAY! I call to witness this land &ndash;",
+  "en_tr_arberry": "No! I swear by this land,",
+  "en_tr_maududi": "Nay!{{1}} I swear by this city{{2}}",
+  "en_ctr_yusuf": "I do call to witness{{6130}} this City;-",
+  "en_ctr_asad": "NAY! I call to witness this land",
+  "en_notes_yusuf": [
+    {
+      "note_no": "6130",
+      "note": "The appeal to the mystic ties between the Prophet and his parent city of Makkah has been explained in the Introduction to this Surah. It is a symbol of man's own history. Man is born for toil and struggle, and this is the substantive proposition in verse 4 below, which this appeal leads up to."
+    }
+  ],
+  "en_notes_asad": null,
+  "en_snotes_yusuf": "The appeal to the mystic ties between the Prophet and his parent city of Makkah has been explained in the Introduction to this Surah. It is a symbol of man's own history. Man is born for toil and struggle, and this is the substantive proposition in verse 4 below, which this appeal leads up to.",
+  "en_snotes_asad": null,
+  "keywords": null
+}

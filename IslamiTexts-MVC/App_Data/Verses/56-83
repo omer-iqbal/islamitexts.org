@@ -1,0 +1,35 @@
+{
+  "type": "Verse",
+  "surah_no": 56,
+  "verse_no": 83,
+  "ar_text": "فَلَوْلَا إِذَا بَلَغَتِ الْحُلْقُومَ",
+  "ar_text_clean": "فلولا إذا بلغت الحلقوم",
+  "en_tr_yusuf": "Then why do ye not (intervene) when (the soul of the dying man) reaches the throat,-",
+  "en_tr_pickth": "Why, then, when (the soul) cometh up to the throat (of the dying)",
+  "en_tr_shakir": "Why is it not then that when it (soul) comes up to the throat,",
+  "en_tr_hilali": "Then why do you not (intervene) when (the soul of a dying person) reaches the throat?",
+  "en_tr_dbadi": "Wherefore then - when the soul cometh up to the wind-pipe -",
+  "en_tr_qarib": "Why, then, when the soul leaps up to the throat of the dying",
+  "en_tr_ayubk": "But why, when the soul reaches the throat,",
+  "en_tr_sher": "Why, then, when the soul of the dying man reaches the throat,",
+  "en_tr_asad": "Why, then, when [the last breath] comes up to the throat [of a dying man],",
+  "en_tr_arberry": "Why, but when the soul leaps to the throat of the dying",
+  "en_tr_maududi": "Why, then, when the soul leaps up to the throat,",
+  "en_ctr_yusuf": "Then why do ye not{{5263}} (intervene) when (the soul of the dying man) reaches the throat,-",
+  "en_ctr_asad": "Why, then,{{29}} when [the last breath] comes up to the throat [of a dying man],",
+  "en_notes_yusuf": [
+    {
+      "note_no": "5263",
+      "note": "There is a hiatus after why do ye not??and two parenthetical clauses-after which the clause why do ye not? is resumed again in verse 86 below, with its complement in verse 87. It is permissible to the translator to add some such word as intervene here, to make the translation run smoothly."
+    }
+  ],
+  "en_notes_asad": [
+    {
+      "note_no": "29",
+      "note": "The elliptic implication is: \"If, then, as you claim, you are really independent of any Supreme Power, why do you not etc., thus connecting with verses 57-74."
+    }
+  ],
+  "en_snotes_yusuf": "There is a hiatus after why do ye not??and two parenthetical clauses-after which the clause why do ye not? is resumed again in verse 86 below, with its complement in verse 87. It is permissible to the translator to add some such word as intervene here, to make the translation run smoothly.",
+  "en_snotes_asad": "The elliptic implication is: \"If, then, as you claim, you are really independent of any Supreme Power, why do you not etc., thus connecting with verses 57-74.",
+  "keywords": null
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Verse",
+  "surah_no": 31,
+  "verse_no": 3,
+  "ar_text": "هُدًى وَرَحْمَةً لِلْمُحْسِنِينَ",
+  "ar_text_clean": "هدى ورحمة للمحسنين",
+  "en_tr_yusuf": "A Guide and a Mercy to the Doers of Good,-",
+  "en_tr_pickth": "A guidance and a mercy for the good,",
+  "en_tr_shakir": "A guidance and a mercy for the doers of goodness,",
+  "en_tr_hilali": "A guide and a mercy for the Muhsinun (good-doers)",
+  "en_tr_dbadi": "A guidance and a mercy for the well-doers:",
+  "en_tr_qarib": "a guidance and a mercy to those who do good,",
+  "en_tr_ayubk": "for a guidance and a mercy to the good-doers,",
+  "en_tr_sher": "A guidance and a mercy for those who do good,",
+  "en_tr_asad": "providing guidance and grace unto the doers of good",
+  "en_tr_arberry": "for a guidance and a mercy to the good-doers",
+  "en_tr_maududi": "a guidance and mercy for the doers of good,{{2}}",
+  "en_ctr_yusuf": "A Guide and a Mercy to the Doers of Good,-{{3581}}",
+  "en_ctr_asad": "providing guidance and grace unto the doers of good",
+  "en_notes_yusuf": [
+    {
+      "note_no": "3581",
+      "note": "A guide to all, and, to those who accept its guidance, a source of mercy leading them to Salvation."
+    }
+  ],
+  "en_notes_asad": null,
+  "en_snotes_yusuf": "A guide to all, and, to those who accept its guidance, a source of mercy leading them to Salvation.",
+  "en_snotes_asad": null,
+  "keywords": null
+}

@@ -1,0 +1,39 @@
+{
+  "type": "Verse",
+  "surah_no": 44,
+  "verse_no": 20,
+  "ar_text": "وَإِنِّي عُذْتُ بِرَبِّي وَرَبِّكُمْ أَنْ تَرْجُمُونِ",
+  "ar_text_clean": "وإني عذت بربي وربكم أن ترجمون",
+  "en_tr_yusuf": "\"For me, I have sought safety with my Lord and your Lord, against your injuring me.",
+  "en_tr_pickth": "And lo! I have sought refuge in my Lord and your Lord lest ye stone me to death.",
+  "en_tr_shakir": "And surely I take refuge with my Lord and your Lord that you should stone me to death:",
+  "en_tr_hilali": "\"And truly, I seek refuge in my Lord and your Lord, lest you stone me (or call me a sorcerer or kill me).",
+  "en_tr_dbadi": "And verily I have sought refuge in my Lord and your Lord lest ye stone me.",
+  "en_tr_qarib": "I take refuge with my Lord and your Lord lest you stone me.",
+  "en_tr_ayubk": "and I take refuge in my Lord and your Lord, lest you should stone me;",
+  "en_tr_sher": "And I seek refuge in my Lord and your Lord, lest you stone me to death,",
+  "en_tr_asad": "and, behold, it is with my Sustainer &ndash; and your Sustainer &ndash; that I seek refuge against all your endeavours to revile me.",
+  "en_tr_arberry": "and I take refuge in my Lord and your Lord, lest you should stone me.",
+  "en_tr_maududi": "I have taken refuge with my Lord and your Lord lest you should attack me with stones.",
+  "en_ctr_yusuf": "\"For me, I have sought{{4704}} safety with my Lord and your Lord, against your injuring me.{{4705}}",
+  "en_ctr_asad": "and, behold, it is with my Sustainer - and your Sustainer - that I seek refuge against all your endeavours to revile me.{{11}}",
+  "en_notes_yusuf": [
+    {
+      "note_no": "4704",
+      "note": "It is no use their plotting his death or his vilification; for his safety is in Allah. As he truly says, \"Allah is not only my Lord, but your Lord also; your responsibility arises apart from my preaching, but I preach in order to remind you of it.\""
+    },
+    {
+      "note_no": "4705",
+      "note": "\"Injuring me\": literally \"stoning me\". \"Stoning may be here symbolical of any injury or vilification."
+    }
+  ],
+  "en_notes_asad": [
+    {
+      "note_no": "11",
+      "note": "Lit., \"lest you throw stones at me\". It is to be noted that the verb rajama is used in the physical sense of \"throwing stones\" as well as, metaphorically, in the sense of \"throwing aspersions or reviling\"."
+    }
+  ],
+  "en_snotes_yusuf": "It is no use their plotting his death or his vilification; for his safety is in Allah. As he truly says, \"Allah is not only my Lord, but your Lord also; your responsibility arises apart from my preaching, but I preach in order to remind you of it.\" \"Injuring me\": literally \"stoning me\". \"Stoning may be here symbolical of any injury or vilification.",
+  "en_snotes_asad": "Lit., \"lest you throw stones at me\". It is to be noted that the verb rajama is used in the physical sense of \"throwing stones\" as well as, metaphorically, in the sense of \"throwing aspersions or reviling\".",
+  "keywords": null
+}

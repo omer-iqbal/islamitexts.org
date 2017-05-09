@@ -1,0 +1,35 @@
+{
+  "type": "Verse",
+  "surah_no": 29,
+  "verse_no": 1,
+  "ar_text": "الم",
+  "ar_text_clean": "الم",
+  "en_tr_yusuf": "A.L.M.",
+  "en_tr_pickth": "Alif. Lam. Mim.",
+  "en_tr_shakir": "Alif Lam Mim.",
+  "en_tr_hilali": "Alif-Lam-Mim. [These letters are one of the miracles of the Qur'an, and none but Allah (Alone) knows their meanings.]",
+  "en_tr_dbadi": "Alif. Lam. Mim.",
+  "en_tr_qarib": "AlifLaamMeem.",
+  "en_tr_ayubk": "Alif Lam Mim (A.L.M.).",
+  "en_tr_sher": "Alif, L?m, M?m.",
+  "en_tr_asad": "Alif. L&#257;m. M&#299;m.",
+  "en_tr_arberry": "Alif Lam Mim",
+  "en_tr_maududi": "Alif. Lam. Mim.",
+  "en_ctr_yusuf": "A.L.M.{{3422}}",
+  "en_ctr_asad": "Alif. Lam. Mim.{{1}}",
+  "en_notes_yusuf": [
+    {
+      "note_no": "3422",
+      "note": "For these Abbreviated Letters see n. 25 to 2:1. We are asked to contrast, in our present life the real inner life against the outer life, and learn from the past about the struggles of the soul which uphold Allah's Truth, against the environment of evil which resists it, and to turn our thoughts to the Ma'ad, or man's future destiny in the Hereafter."
+    }
+  ],
+  "en_notes_asad": [
+    {
+      "note_no": "1",
+      "note": "See Appendix II."
+    }
+  ],
+  "en_snotes_yusuf": "For these Abbreviated Letters see n. 25 to 2:1. We are asked to contrast, in our present life the real inner life against the outer life, and learn from the past about the struggles of the soul which uphold Allah's Truth, against the environment of evil which resists it, and to turn our thoughts to the Ma'ad, or man's future destiny in the Hereafter.",
+  "en_snotes_asad": "See Appendix II.",
+  "keywords": null
+}

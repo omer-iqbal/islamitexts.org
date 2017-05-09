@@ -1,0 +1,35 @@
+{
+  "type": "Verse",
+  "surah_no": 7,
+  "verse_no": 200,
+  "ar_text": "وَإِمَّا يَنْزَغَنَّكَ مِنَ الشَّيْطَانِ نَزْغٌ فَاسْتَعِذْ بِاللَّهِ إِنَّهُ سَمِيعٌ عَلِيمٌ",
+  "ar_text_clean": "وإما ينزغنك من الشيطان نزغ فاستعذ بالله إنه سميع عليم",
+  "en_tr_yusuf": "If a suggestion from Satan assail thy (mind), seek refuge with Allah; for He heareth and knoweth (all things).",
+  "en_tr_pickth": "And if a slander from the devil wound thee, then seek refuge in Allah. Lo! He is Hearer, Knower.",
+  "en_tr_shakir": "And if a false imputation from the Shaitan afflict you, seek refuge in Allah; surely He is Hearing, Knowing.",
+  "en_tr_hilali": "And if an evil whisper comes to you from Shaitan (Satan) then seek refuge with Allah. Verily, He is All-Hearer, All-Knower.",
+  "en_tr_dbadi": "And if there prompt thee a prompting from the Satan, see refugee with Allah; verily He is Hearing, Knowing.",
+  "en_tr_qarib": "When satan provokes you seek refuge in Allah; He is the Hearing, the Knowing.",
+  "en_tr_ayubk": "And if a provocation from the devil provokes thee, seek refuge in God; He is Hearing, Knowing. ",
+  "en_tr_sher": "And if an evil suggestion of Satan assail thee, then seek refuge in God; surely, He is All-Hearing, All-Knowing.",
+  "en_tr_asad": "And if it should happen that a prompting from Satan stirs thee up [to blind anger], seek refuge with God: behold, He is all-hearing, all-knowing.",
+  "en_tr_arberry": "If a provocation from Satan should provoke thee, seek refuge in God; He is All-hearing, All-seeing.",
+  "en_tr_maududi": "And if it happens that a prompting from Satan should stir you up, seek refuge with Allah. He is All-Hearing, All-Knowing.",
+  "en_ctr_yusuf": "If a suggestion from Satan assail thy (mind),{{1171}} seek refuge with Allah. for He heareth and knoweth (all things).",
+  "en_ctr_asad": "And if it should happen that a prompting from Satan stirs thee up [to blind anger],{{164}} seek refuge with God: behold, He is all-hearing, all-knowing.",
+  "en_notes_yusuf": [
+    {
+      "note_no": "1171",
+      "note": "Even a Prophet of Allah is but human. He might think that revenge or retaliation, or a little tactful silence when evil stalks abroad, or some compromise with ignorance, might be best for the cause. He is to reject such suggestions."
+    }
+  ],
+  "en_notes_asad": [
+    {
+      "note_no": "164",
+      "note": "I.e., anger at the rejection of the truth by \"those who choose to remain ignorant\". The words \"to blind anger\" interpolated between brackets are based on a Tradition according to which the Prophet, after the revelation of the preceding verse calling for forbearance, exclaimed, \"And what about [justified] anger, O my Sustainer?\" - whereupon the above verse was revealed to him (Tabari, Zamakhshari, Razi, Ibn Kathir)."
+    }
+  ],
+  "en_snotes_yusuf": "Even a Prophet of Allah is but human. He might think that revenge or retaliation, or a little tactful silence when evil stalks abroad, or some compromise with ignorance, might be best for the cause. He is to reject such suggestions.",
+  "en_snotes_asad": "I.e., anger at the rejection of the truth by \"those who choose to remain ignorant\". The words \"to blind anger\" interpolated between brackets are based on a Tradition according to which the Prophet, after the revelation of the preceding verse calling for forbearance, exclaimed, \"And what about [justified] anger, O my Sustainer?\" - whereupon the above verse was revealed to him (Tabari, Zamakhshari, Razi, Ibn Kathir).",
+  "keywords": null
+}

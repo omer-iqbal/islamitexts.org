@@ -1,0 +1,30 @@
+{
+  "type": "Verse",
+  "surah_no": 18,
+  "verse_no": 89,
+  "ar_text": "ثُمَّ أَتْبَعَ سَبَبًا",
+  "ar_text_clean": "ثم أتبع سببا",
+  "en_tr_yusuf": "Then followed he (another) way,",
+  "en_tr_pickth": "Then he followed a road",
+  "en_tr_shakir": "Then he followed (another) course.",
+  "en_tr_hilali": "Then he followed another way,",
+  "en_tr_dbadi": "Thereafter he followed a way.",
+  "en_tr_qarib": "Then he followed the road,",
+  "en_tr_ayubk": "Then he followed a way.",
+  "en_tr_sher": "Then indeed he followed another way.",
+  "en_tr_asad": "And once again he chose the right means [to achieve a right end].",
+  "en_tr_arberry": "Then he followed a way",
+  "en_tr_maududi": "Then he set out on another expedition",
+  "en_ctr_yusuf": "Then followed he (another) way,",
+  "en_ctr_asad": "And once again{{90}} he chose the right means [to achieve a right end].",
+  "en_notes_yusuf": null,
+  "en_notes_asad": [
+    {
+      "note_no": "90",
+      "note": "For this rendering of the particle thumma, see surah 6, note 31."
+    }
+  ],
+  "en_snotes_yusuf": null,
+  "en_snotes_asad": "For this rendering of the particle thumma, see surah 6, note 31.",
+  "keywords": null
+}

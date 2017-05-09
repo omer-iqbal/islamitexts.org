@@ -1,0 +1,35 @@
+{
+  "type": "Verse",
+  "surah_no": 21,
+  "verse_no": 108,
+  "ar_text": "قُلْ إِنَّمَا يُوحَىٰ إِلَيَّ أَنَّمَا إِلَٰهُكُمْ إِلَٰهٌ وَاحِدٌ فَهَلْ أَنْتُمْ مُسْلِمُونَ",
+  "ar_text_clean": "قل إنما يوحى إلي أنما إلهكم إله واحد فهل أنتم مسلمون",
+  "en_tr_yusuf": "Say: \"What has come to me by inspiration is that your Allah is One Allah: will ye therefore bow to His Will (in Islam)?\"",
+  "en_tr_pickth": "Say: It is only inspired in me that your Allah is One Allah. Will ye then surrender (unto Him)?",
+  "en_tr_shakir": "Say: It is only revealed to me that your Allah is one Allah; will you then submit?",
+  "en_tr_hilali": "Say (O Muhammad SAW): \"It is revealed to me that your Ilah (God) is only one Ilah (God - Allah). Will you then submit to His Will (become Muslims and stop worshipping others besides Allah)?\"",
+  "en_tr_dbadi": "Say thou: this only hath been revealed unto me, that your god is only One God. submit ye then?!",
+  "en_tr_qarib": "Say: 'It is revealed to me that your God is One God, do you then surrender? '",
+  "en_tr_ayubk": "Say, `it is revealed to me only that your god is only One God; will you then surrender?'",
+  "en_tr_sher": "Say, 'Surely it has been revealed to me that your god is but One God. Will you then submit?'",
+  "en_tr_asad": "Say: \"It has but been revealed unto me that your God is the One and Only God: will you, then, surrender yourselves unto Him?\"",
+  "en_tr_arberry": "Say: It is revealed unto me only that your God is One God; do you then surrender?",
+  "en_tr_maududi": "Say to them, \"That which is revealed to me is this: Your Deity is One Deity only. Will you, then, surrender to Him?\"",
+  "en_ctr_yusuf": "Say: \"What has come to me by inspiration is that your Allah is One Allah. will ye therefore bow to His Will (in Islam)?\"{{2763}}",
+  "en_ctr_asad": "Say: \"It has but been revealed unto me{{103}} that your God is the One and Only God: will you, then, surrender yourselves unto Him?\"",
+  "en_notes_yusuf": [
+    {
+      "note_no": "2763",
+      "note": "'Not my God only, but also your God: for there is but One God, the Universal Lord, Who made and loves and cherishes all.'"
+    }
+  ],
+  "en_notes_asad": [
+    {
+      "note_no": "103",
+      "note": "Cf. the first sentence of verse 45 of this surah. This stress on divine revelation as the only source of the Prophet's knowledge referred to in the sequence is expressed, in Arabic, by means of the restrictive particle innama."
+    }
+  ],
+  "en_snotes_yusuf": "'Not my God only, but also your God: for there is but One God, the Universal Lord, Who made and loves and cherishes all.'",
+  "en_snotes_asad": "Cf. the first sentence of verse 45 of this surah. This stress on divine revelation as the only source of the Prophet's knowledge referred to in the sequence is expressed, in Arabic, by means of the restrictive particle innama.",
+  "keywords": null
+}

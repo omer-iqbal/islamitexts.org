@@ -1,0 +1,35 @@
+{
+  "type": "Verse",
+  "surah_no": 78,
+  "verse_no": 12,
+  "ar_text": "وَبَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًا",
+  "ar_text_clean": "وبنينا فوقكم سبعا شدادا",
+  "en_tr_yusuf": "And (have We not) built over you the seven firmaments,",
+  "en_tr_pickth": "And We have built above you seven strong (heavens),",
+  "en_tr_shakir": "And We made above you seven strong ones,",
+  "en_tr_hilali": "And We have built above you seven strong (heavens),",
+  "en_tr_dbadi": "And We have builded over you seven strong heavens.",
+  "en_tr_qarib": "And We built above you seven strong ones,",
+  "en_tr_ayubk": "and built above you seven strong ones,",
+  "en_tr_sher": "And We have built above you seven strong ones;",
+  "en_tr_asad": "And We have built above you seven firmaments,",
+  "en_tr_arberry": "And We have built above you seven strong ones,",
+  "en_tr_maududi": "and built above you seven strong firmaments,{{9}}",
+  "en_ctr_yusuf": "And (have We not) built over you the seven firmaments,{{5893}}",
+  "en_ctr_asad": "And We have built above you seven firmaments,{{7}}",
+  "en_notes_yusuf": [
+    {
+      "note_no": "5893",
+      "note": "See n. 5526 to 65:12 and n. 2876 to 23:17, also 37:6 and notes there."
+    }
+  ],
+  "en_notes_asad": [
+    {
+      "note_no": "7",
+      "note": "Lit., \"seven firm ones\", indicating the multiplicity of cosmic systems (see surah 2, note 20)."
+    }
+  ],
+  "en_snotes_yusuf": "See n. 5526 to 65:12 and n. 2876 to 23:17, also 37:6 and notes there.",
+  "en_snotes_asad": "Lit., \"seven firm ones\", indicating the multiplicity of cosmic systems (see surah 2, note 20).",
+  "keywords": null
+}

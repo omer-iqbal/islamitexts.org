@@ -1,0 +1,43 @@
+{
+  "type": "Verse",
+  "surah_no": 6,
+  "verse_no": 50,
+  "ar_text": "قُلْ لَا أَقُولُ لَكُمْ عِنْدِي خَزَائِنُ اللَّهِ وَلَا أَعْلَمُ الْغَيْبَ وَلَا أَقُولُ لَكُمْ إِنِّي مَلَكٌ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰ إِلَيَّ قُلْ هَلْ يَسْتَوِي الْأَعْمَىٰ وَالْبَصِيرُ أَفَلَا تَتَفَكَّرُونَ",
+  "ar_text_clean": "قل لا أقول لكم عندي خزائن الله ولا أعلم الغيب ولا أقول لكم إني ملك إن أتبع إلا ما يوحى إلي قل هل يستوي الأعمى والبصير أفلا تتفكرون",
+  "en_tr_yusuf": "Say: \"I tell you not that with me are the treasures of Allah, nor do I know what is hidden, nor do I tell you I am an angel. I but follow what is revealed to me.\" Say: \"can the blind be held equal to the seeing?\" Will ye then consider not?",
+  "en_tr_pickth": "Say (O Muhammad, to the disbelievers): I say not unto you (that) I possess the treasures of Allah, nor that I have knowledge of the Unseen; and I say not unto you: Lo! I am an angel. I follow only that which is inspired in me. Say: Are the blind man and the seer equal? Will ye not then take thought?",
+  "en_tr_shakir": "Say: I do not say to you, I have with me the treasures of Allah, nor do I know the unseen, nor do I say to you that I am an angel; I do not follow aught save that which is revealed to me. Say: Are the blind and the seeing one alike? Do you not then reflect?",
+  "en_tr_hilali": "Say (O Muhammad SAW): \"I don't tell you that with me are the treasures of Allah, nor (that) I know the unseen; nor I tell you that I am an angel. I but follow what is revealed to me by inspiration.\" Say: \"Are the blind and the one who sees equal? will you not then take thought?\"",
+  "en_tr_dbadi": "Say thou: I say not unto you, that with me are the treasures of Allah, nor I know the Unseen, nor say unto you that I am an angel; I but follow that which hath been revealed unto me. Say thou: are the blind and the seeing equal? Will ye not then consider?",
+  "en_tr_qarib": "Say: 'I do not tell you that I have the treasuries of Allah or know the unseen, nor do I claim to be an angel. I follow only that which is revealed to me. ' Say: 'Are the blind and the seeing alike? Will you not think? '",
+  "en_tr_ayubk": "Say, `I do not say to you, `I hold the treasures of God, nor I know the unseen, nor I say to you, `I am an angel'; I only follow what is revealed to me.' `Say, `are the blind and the seeing man equal? Will you not then ponder?'",
+  "en_tr_sher": "Say, 'I do not say to you: 'I possess the treasures of God, nor do I know the unseen; nor do I say to you: 'I am an angel, I follow only that which is revealed to me.' Say, 'Can a blind man and one who sees be alike?' Will you not then reflect.",
+  "en_tr_asad": "Say [O Prophet]: \"I do not say unto you, `God's treasures are with me'; nor [do I say], `I know the things that are beyond the reach of human perception'; nor do I say unto you, `Behold, I am an angel': I but follow what is revealed to me.\" \nSay: \"Can the blind and the seeing be deemed equal? Will you not, then, take thought?\"",
+  "en_tr_arberry": "Say: I do not say to you, \"I possess the treasuries of God\"; I know not the Unseen. And I say not to you, \"I am an angel\"; I only follow what is revealed to me. Say: Are the blind and the seeing man equal? Will you not reflect?",
+  "en_tr_maududi": "(O Muhammad!) Say: 'I do not say to you I have the treasures of Allah. Nor do I have knowledge of what is beyond the reach of human perception. Nor do I say to you: I am an angel. I only follow what is revealed to me.'{{31}} Then ask them: 'Are the blind and the seeing alike?'{{32}} Do you not then reflect?",
+  "en_ctr_yusuf": "Say: \"I tell you not that with me are the treasures of Allah,{{867}} nor do I know what is hidden, nor do I tell you I am an angel. I but follow what is revealed to me.\" Say: \"can the blind be held equal to the seeing?\"{{868}} Will ye then consider not?",
+  "en_ctr_asad": "Say [O Prophet]: \"I do not say unto you, 'God's treasures are with me,'; nor [do I say], 'I know the things that are beyond the reach of human perception'; nor do I say unto you, 'Behold, I am an angel': I but follow what is revealed to me.{{38}} Say: \"Can the blind and the seeing be deemed equal?{{39}} Will you not, then, take thought?\"",
+  "en_notes_yusuf": [
+    {
+      "note_no": "867",
+      "note": "Literally, it might mean that the men of Allah are not like vulgar soothsayers, who pretend to reveal hidden treasures, or peer into the future, or claim to be something of a different nature from men. But the meaning is wider: they deal out Allah's great treasures of truth, but the treasures are not theirs, but Allah's; they have greater insight into the higher things, but that insight is not due to their own wisdom, but to Allah's inspiration; they are of the same flesh and blood with us, and the sublimity of their words and teachings arises through Allah's grace-to them and to those who hear them."
+    },
+    {
+      "note_no": "868",
+      "note": "Therefore compare not the men of Allah (\"the seeing\") with ordinary men (\"the blind\"). The men of Allah, although they be but men, have the higher light with them; therefore do not exact of them petty ephemeral services. Though they are men, they are not as other men, and are entitled to reverence."
+    }
+  ],
+  "en_notes_asad": [
+    {
+      "note_no": "38",
+      "note": "This denial on the part of the Prophet of any claim to supernatural powers refers, primarily, to the demand of the unbelievers (mentioned in verse 37) that he should prove his prophetic mission by causing a \"miraculous sign\" to be bestowed on him. Beyond this specific reference, however, the above passage is meant to prevent any deification of the Prophet and to make it clear that he - like all other prophets before him - was but a mortal human being, a servant whom, God had chosen to convey His message to mankind. See also 7:188."
+    },
+    {
+      "note_no": "39",
+      "note": "I.e., \"Can those who remain blind and deaf to God's messages find their way through life equally well as those who have achieved a spiritual vision and guidance through God's revelation?\""
+    }
+  ],
+  "en_snotes_yusuf": "Literally, it might mean that the men of Allah are not like vulgar soothsayers, who pretend to reveal hidden treasures, or peer into the future, or claim to be something of a different nature from men. But the meaning is wider: they deal out Allah's great treasures of truth, but the treasures are not theirs, but Allah's; they have greater insight into the higher things, but that insight is not due to their own wisdom, but to Allah's inspiration; they are of the same flesh and blood with us, and the sublimity of their words and teachings arises through Allah's grace-to them and to those who hear them. Therefore compare not the men of Allah (\"the seeing\") with ordinary men (\"the blind\"). The men of Allah, although they be but men, have the higher light with them; therefore do not exact of them petty ephemeral services. Though they are men, they are not as other men, and are entitled to reverence.",
+  "en_snotes_asad": "This denial on the part of the Prophet of any claim to supernatural powers refers, primarily, to the demand of the unbelievers (mentioned in verse 37) that he should prove his prophetic mission by causing a \"miraculous sign\" to be bestowed on him. Beyond this specific reference, however, the above passage is meant to prevent any deification of the Prophet and to make it clear that he - like all other prophets before him - was but a mortal human being, a servant whom, God had chosen to convey His message to mankind. See also 7:188. I.e., \"Can those who remain blind and deaf to God's messages find their way through life equally well as those who have achieved a spiritual vision and guidance through God's revelation?\"",
+  "keywords": null
+}

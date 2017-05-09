@@ -1,0 +1,35 @@
+{
+  "type": "Verse",
+  "surah_no": 25,
+  "verse_no": 61,
+  "ar_text": "تَبَارَكَ الَّذِي جَعَلَ فِي السَّمَاءِ بُرُوجًا وَجَعَلَ فِيهَا سِرَاجًا وَقَمَرًا مُنِيرًا",
+  "ar_text_clean": "تبارك الذي جعل في السماء بروجا وجعل فيها سراجا وقمرا منيرا",
+  "en_tr_yusuf": "Blessed is He Who made constellations in the skies, and placed therein a Lamp and a Moon giving light;",
+  "en_tr_pickth": "Blessed be He Who hath placed in the heaven mansions of the stars, and hath placed therein a great lamp and a moon giving light!",
+  "en_tr_shakir": "Blessed is He Who made the constellations in the heavens and made therein a lamp and a shining moon.",
+  "en_tr_hilali": "Blessed be He Who has placed in the heaven big stars, and has placed therein a great lamp (sun), and a moon giving light.",
+  "en_tr_dbadi": "Blest be He Who hath placed big stars in the heaven, and hath placed therein a lamp and a moon enlightening.",
+  "en_tr_qarib": "Blessed be He who has set the constellations in the heaven, and set amongst them a sun, and an illuminating moon.",
+  "en_tr_ayubk": "Blessed be He who has set in the heaven constellations, and has set therein a lamp and an illuminating moon.",
+  "en_tr_sher": "Blessed is He Who has made in the heaven mansions of stars and has placed therein a Lamp producing light and a moon that reflects light.",
+  "en_tr_asad": "HALLOWED is He who has set up in the skies great constellations, and has placed among them a [radiant] lamp and a light-giving moon.",
+  "en_tr_arberry": "Blessed be He who has set in heaven constellations, and has set among them a lamp, and an illuminating moon.",
+  "en_tr_maududi": "Highly blessed is He, Who has made fortified spheres{{75}} in the heavens and has set in it a \"lamp\"{{76}} and a shining moon.",
+  "en_ctr_yusuf": "Blessed is He Who made constellations in the skies, and placed therein a Lamp{{3121}} and a Moon giving light;",
+  "en_ctr_asad": "HALLOWED is He who has set up in the skies great constellations, and has placed among them a [radiant] lamp and a light-giving moon.{{48}}",
+  "en_notes_yusuf": [
+    {
+      "note_no": "3121",
+      "note": "The glorious Lamp of the skies is the Sun; and next to him is the Moon, which gives borrowed light. The Constellations of course, include the Signs of the Zodiac, which mark the path of the planets in the heavens (Cf. 15:16)."
+    }
+  ],
+  "en_notes_asad": [
+    {
+      "note_no": "48",
+      "note": "See 10:5, where the sun if spoken of as \"a (source of) radiant light\", explained in the corresponding note 10. For my rendering of buruj as \"great constellations\", see note 15 on 15:16."
+    }
+  ],
+  "en_snotes_yusuf": "The glorious Lamp of the skies is the Sun; and next to him is the Moon, which gives borrowed light. The Constellations of course, include the Signs of the Zodiac, which mark the path of the planets in the heavens (Cf. 15:16).",
+  "en_snotes_asad": "See 10:5, where the sun if spoken of as \"a (source of) radiant light\", explained in the corresponding note 10. For my rendering of buruj as \"great constellations\", see note 15 on 15:16.",
+  "keywords": null
+}

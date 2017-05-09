@@ -1,0 +1,30 @@
+{
+  "type": "Verse",
+  "surah_no": 3,
+  "verse_no": 60,
+  "ar_text": "الْحَقُّ مِنْ رَبِّكَ فَلَا تَكُنْ مِنَ الْمُمْتَرِينَ",
+  "ar_text_clean": "الحق من ربك فلا تكن من الممترين",
+  "en_tr_yusuf": "The Truth (comes) from Allah alone; so be not of those who doubt.",
+  "en_tr_pickth": "(This is) the truth from thy Lord (O Muhammad), so be not thou of those who waver.",
+  "en_tr_shakir": "(This is) the truth from your Lord, so be not of the disputers.",
+  "en_tr_hilali": "(This is) the truth from your Lord, so be not of those who doubt.",
+  "en_tr_dbadi": "This is the truth from thy Lord, wherefore be thou not of those who dubitate.",
+  "en_tr_qarib": "The truth is from your Lord, therefore, do not be among the doubters.",
+  "en_tr_ayubk": "The truth is from thy Lord, so be not among the doubters.",
+  "en_tr_sher": "This is the truth from thy Lord, so be thou not of those who doubt.",
+  "en_tr_asad": "[This is] the truth from thy Sustainer; be not, then, among the doubters!",
+  "en_tr_arberry": "The truth is of God; be not of the doubters.",
+  "en_tr_maududi": "This is the truth from your Lord; be not, then, among those who doubt.{{54}}",
+  "en_ctr_yusuf": "The Truth (comes) from Allah alone; so be not of those who doubt{{399}}.",
+  "en_ctr_asad": "[This is] the truth from thy Sustainer; be not, then, among the doubters!",
+  "en_notes_yusuf": [
+    {
+      "note_no": "399",
+      "note": "The truth does not necessarily come from priests, or from the superstitions of whole peoples. It comes from Allah, and where there is a direct revelation, there is no room for doubt (Cf. 10:94)."
+    }
+  ],
+  "en_notes_asad": null,
+  "en_snotes_yusuf": "The truth does not necessarily come from priests, or from the superstitions of whole peoples. It comes from Allah, and where there is a direct revelation, there is no room for doubt (Cf. 10:94).",
+  "en_snotes_asad": null,
+  "keywords": null
+}

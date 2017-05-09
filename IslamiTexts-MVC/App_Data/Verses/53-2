@@ -1,0 +1,35 @@
+{
+  "type": "Verse",
+  "surah_no": 53,
+  "verse_no": 2,
+  "ar_text": "مَا ضَلَّ صَاحِبُكُمْ وَمَا غَوَىٰ",
+  "ar_text_clean": "ما ضل صاحبكم وما غوى",
+  "en_tr_yusuf": "Your Companion is neither astray nor being misled.",
+  "en_tr_pickth": "Your comrade erreth not, nor is deceived;",
+  "en_tr_shakir": "Your companion does not err, nor does he go astray;",
+  "en_tr_hilali": "Your companion (Muhammad SAW) has neither gone astray nor has erred.",
+  "en_tr_dbadi": "Your companion hath not gone astray, nor hath he erred.",
+  "en_tr_qarib": "your companion is neither astray, neither errs,",
+  "en_tr_ayubk": "your companion is not astray, nor perverted;",
+  "en_tr_sher": "You companion has neither erred, nor has he gone astray,",
+  "en_tr_asad": "This fellow-man of yours has not gone astray, nor is he deluded,",
+  "en_tr_arberry": "your comrade is not astray, neither errs,",
+  "en_tr_maududi": "your companion{{2}} has neither strayed nor is he deluded;{{3}}",
+  "en_ctr_yusuf": "Your Companion is neither{{5086}} astray nor being misled.",
+  "en_ctr_asad": "This fellow-man of yours has not gone astray, nor is he deluded,{{2}}",
+  "en_notes_yusuf": [
+    {
+      "note_no": "5086",
+      "note": "'Your Companion\" is the Prophet Muhammad, who had lived among the Quraysh all his life. He is defended from three kinds of charges that the Unbelievers brought against him: (1) that he was going astray, either through defect of intelligence or through carelessness; (2) that he was being misled or deceived by evil spirits; and (3) that he spoke out of a whim or impulse, or from a selfish desire to impress his own personality. None of these charges were true. On the contrary he had direct inspiration from Allah."
+    }
+  ],
+  "en_notes_asad": [
+    {
+      "note_no": "2",
+      "note": "See note 150 on 7:184."
+    }
+  ],
+  "en_snotes_yusuf": "'Your Companion\" is the Prophet Muhammad, who had lived among the Quraysh all his life. He is defended from three kinds of charges that the Unbelievers brought against him: (1) that he was going astray, either through defect of intelligence or through carelessness; (2) that he was being misled or deceived by evil spirits; and (3) that he spoke out of a whim or impulse, or from a selfish desire to impress his own personality. None of these charges were true. On the contrary he had direct inspiration from Allah.",
+  "en_snotes_asad": "See note 150 on 7:184.",
+  "keywords": null
+}

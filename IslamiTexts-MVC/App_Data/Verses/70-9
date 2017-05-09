@@ -1,0 +1,30 @@
+{
+  "type": "Verse",
+  "surah_no": 70,
+  "verse_no": 9,
+  "ar_text": "وَتَكُونُ الْجِبَالُ كَالْعِهْنِ",
+  "ar_text_clean": "وتكون الجبال كالعهن",
+  "en_tr_yusuf": "And the mountains will be like wool,",
+  "en_tr_pickth": "And the hills become as flakes of wool,",
+  "en_tr_shakir": "And the mountains shall be as tufts of wool",
+  "en_tr_hilali": "And the mountains will be like flakes of wool,",
+  "en_tr_dbadi": "And then the mountains shall become like Unto wool dyed.",
+  "en_tr_qarib": "and the mountains shall be like puffs of wool.",
+  "en_tr_ayubk": "and the mountains shall be as wool,",
+  "en_tr_sher": "And the mountains will become like flakes of wool,",
+  "en_tr_asad": "and the mountains will be like tufts of wool,",
+  "en_tr_arberry": "and the mountains shall be as plucked wool-tufts,",
+  "en_tr_maududi": "and the mountains will become like dyed tufts of wool,{{10}}",
+  "en_ctr_yusuf": "And the mountains will be like wool,{{5682}}",
+  "en_ctr_asad": "and the mountains will be like tufts of wool,",
+  "en_notes_yusuf": [
+    {
+      "note_no": "5682",
+      "note": "Cf. 101:5, where the metaphor of carded wool is used. The mountains which seem so solid will be like flakes of wool driven by the carder's hand."
+    }
+  ],
+  "en_notes_asad": null,
+  "en_snotes_yusuf": "Cf. 101:5, where the metaphor of carded wool is used. The mountains which seem so solid will be like flakes of wool driven by the carder's hand.",
+  "en_snotes_asad": null,
+  "keywords": null
+}

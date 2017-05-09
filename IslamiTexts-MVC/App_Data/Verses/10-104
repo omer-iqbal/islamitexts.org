@@ -1,0 +1,51 @@
+{
+  "type": "Verse",
+  "surah_no": 10,
+  "verse_no": 104,
+  "ar_text": "قُلْ يَا أَيُّهَا النَّاسُ إِنْ كُنْتُمْ فِي شَكٍّ مِنْ دِينِي فَلَا أَعْبُدُ الَّذِينَ تَعْبُدُونَ مِنْ دُونِ اللَّهِ وَلَٰكِنْ أَعْبُدُ اللَّهَ الَّذِي يَتَوَفَّاكُمْ وَأُمِرْتُ أَنْ أَكُونَ مِنَ الْمُؤْمِنِينَ",
+  "ar_text_clean": "قل يا أيها الناس إن كنتم في شك من ديني فلا أعبد الذين تعبدون من دون الله ولكن أعبد الله الذي يتوفاكم وأمرت أن أكون من المؤمنين",
+  "en_tr_yusuf": "Say: \"O ye men! If ye are in doubt as to my religion, (behold!) I worship not what ye worship, other than Allah! But I worship Allah - Who will take your souls (at death): I am commanded to be (in the ranks) of the Believers,",
+  "en_tr_pickth": "Say (O Muhammad): O mankind! If ye are in doubt of my religion, then (know that) I worship not those whom ye worship instead of Allah, but I worship Allah Who causeth you to die, and I have been commanded to be of the believers.",
+  "en_tr_shakir": "Say: O people! if you are in doubt as to my religion, then (know that) I do not serve those whom you serve besides Allah but I do serve Allah, Who will cause you to die, and I am commanded that I should be of the believers.",
+  "en_tr_hilali": "Say (O Muhammad SAW): \"O you mankind! If you are in doubt as to my religion (Islam), then (know that) I will never worship those whom you worship, besides Allah. But I worship Allah Who causes you to die, I am commanded to be one of the believers.",
+  "en_tr_dbadi": "Say thou: ye men! if ye are in doubt concerning my religion-- then worship not those ye worship beside Allah, but I worship Allah who causeth you to die; and I am commanded that I should be of the believers.",
+  "en_tr_qarib": "Say: 'O people! If you are in doubt concerning my religion, I worship none of those you worship, other than Allah but I worship Allah, who will cause you to die, for I am commanded to be among the believers,",
+  "en_tr_ayubk": "Say, `O men if you are in doubt regarding my religion, then I do not serve any apart from God; in stead, I serve God who takes your souls, and I have been commanded to be one of the Believers;",
+  "en_tr_sher": "Say, 'O ye men, if you are in doubt concerning my religion, then know that I worship not those whom you worship instead of God, but I worship God alone who causes you to die and I have been commanded to be of the believers;",
+  "en_tr_asad": "SAY [O Prophet]: \"O mankind! If you are in doubt as to what my faith is, then [know that] I do not worship those beings whom you worship beside God, but [that] I worship God alone, who shall cause you [all] to die: for I have been bidden to be among those who believe [in Him alone].\"",
+  "en_tr_arberry": "Say: O men, if you are in doubt regarding my religion, I serve not those you serve apart from God, but I serve God, who will gather you to Him, and I am commanded to be of the believers, and:",
+  "en_tr_maududi": "(O Prophet!) Tell them:{{106}} 'Men! If you are still in doubt concerning my religion, know that I do not serve those whom you serve beside Allah. I only serve Allah Who will cause (all of) you to die.{{107}} I have been commanded to be one of those who believe,",
+  "en_ctr_yusuf": "Say: \"O ye men! If ye are in doubt as to my religion, (behold!){{1485}} I worship not what ye worship, other than Allah. But I worship Allah - Who will take your souls{{1486}} (at death): I am commanded{{1487}} to be (in the ranks) of the Believers,{{1488}}",
+  "en_ctr_asad": "SAY [O Prophet]: \"O mankind! If you are in doubt as to what my faith is, then [know that] I do not worship those beings whom you worship beside God,{{127}} but [that] I worship God alone, who shall cause you [all] to die:{{128}} for I have been bidden to be among those who believe [in Him alone].\"",
+  "en_notes_yusuf": [
+    {
+      "note_no": "1485",
+      "note": "Other people may hesitate, or doubt, or wonder. But the righteous man has no doubt in his own mind, and he declares his Faith clearly and unambiguously to all, as did al Mustafa."
+    },
+    {
+      "note_no": "1486",
+      "note": "The worship of the One and True God is not a fancy worship, to be arrived at merely by reasoning and philosophy. It touches the vita! issues of life and death, which are in His hands and His alone."
+    },
+    {
+      "note_no": "1487",
+      "note": "Nor is the worship of One God an invention of the Prophet. It comes as a direct command through him and to all."
+    },
+    {
+      "note_no": "1488",
+      "note": "Individual Faith is good, but it is completed and strengthened by joining or forming a Righteous Society, in which the individual can develop and expand. Islam was never a religion of monks and anchorites. It laid great stress on social duties, which in many ways test and train the individual's character."
+    }
+  ],
+  "en_notes_asad": [
+    {
+      "note_no": "127",
+      "note": "Sc., \"and call you to account on Judgment Day\". The use of the pronoun alladhina in the phrase \"those whom you worship\" shows that it relates here to rational beings - like saints, etc. - and not to inanimate representations. As regards the term din (rendered here as \"faith\", see the first half of note 249 on 2:256."
+    },
+    {
+      "note_no": "128",
+      "note": "The specific reference, in this context, to God as the One who causes all living beings to die is meant to impress upon \"those who deny the truth\" the fact that after their death they will be placed before Him for judgment."
+    }
+  ],
+  "en_snotes_yusuf": "Other people may hesitate, or doubt, or wonder. But the righteous man has no doubt in his own mind, and he declares his Faith clearly and unambiguously to all, as did al Mustafa. The worship of the One and True God is not a fancy worship, to be arrived at merely by reasoning and philosophy. It touches the vita! issues of life and death, which are in His hands and His alone. Nor is the worship of One God an invention of the Prophet. It comes as a direct command through him and to all. Individual Faith is good, but it is completed and strengthened by joining or forming a Righteous Society, in which the individual can develop and expand. Islam was never a religion of monks and anchorites. It laid great stress on social duties, which in many ways test and train the individual's character.",
+  "en_snotes_asad": "Sc., \"and call you to account on Judgment Day\". The use of the pronoun alladhina in the phrase \"those whom you worship\" shows that it relates here to rational beings - like saints, etc. - and not to inanimate representations. As regards the term din (rendered here as \"faith\", see the first half of note 249 on 2:256. The specific reference, in this context, to God as the One who causes all living beings to die is meant to impress upon \"those who deny the truth\" the fact that after their death they will be placed before Him for judgment.",
+  "keywords": null
+}

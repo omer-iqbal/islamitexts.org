@@ -1,0 +1,39 @@
+{
+  "type": "Verse",
+  "surah_no": 26,
+  "verse_no": 155,
+  "ar_text": "قَالَ هَٰذِهِ نَاقَةٌ لَهَا شِرْبٌ وَلَكُمْ شِرْبُ يَوْمٍ مَعْلُومٍ",
+  "ar_text_clean": "قال هذه ناقة لها شرب ولكم شرب يوم معلوم",
+  "en_tr_yusuf": "He said: \"Here is a she-camel: she has a right of watering, and ye have a right of watering, (severally) on a day appointed.",
+  "en_tr_pickth": "He said: (Behold) this she-camel. She hath the right to drink (at the well), and ye have the right to drink, (each) on an appointed day.",
+  "en_tr_shakir": "He said: This is a she-camel; she shall have her portion of water, and you have your portion of water on an appointed time;",
+  "en_tr_hilali": "He said: \"Here is a she-camel; it has a right to drink (water), and you have a right to drink (water) (each) on a day, known.",
+  "en_tr_dbadi": "He said: yonder is a she-camel; to her a drink, and to you a drink, each on a day known.",
+  "en_tr_qarib": "He said: 'Here is a shecamel. She shall have her share of water as you have yours on an appointed day.",
+  "en_tr_ayubk": "He said, `here is a She-camel; for her a portion of drink, and for you a portion of drink, on a known day;",
+  "en_tr_sher": "He said, 'Here is a she-camel; she has her turn of drinking, and you have your turn of drinking on an appointed day;",
+  "en_tr_asad": "Replied he: \"This she-camel shall have a share of water, and you shall have a share of water, on the days appointed [therefor];",
+  "en_tr_arberry": "He said, This is a she-camel; to her a draught and to you a draught, on a day appointed,",
+  "en_tr_maududi": "Salih said, \"Here is a she-camel.{{103}} One day will be for her to drink, and one day for you all to take water.{{104}}",
+  "en_ctr_yusuf": "He said: \"Here is a she-camel: she has{{3207}} a right of watering, and ye have a right of watering, (severally) on a day appointed.",
+  "en_ctr_asad": "Replied he: \"This she-camel{{66}} shall have a share of water, and you shall have a share of water, on the days appointed [therefor];{{67}}",
+  "en_notes_yusuf": [
+    {
+      "note_no": "3207",
+      "note": "For this she-camel, see n. 1044 to 7:73. The she-camel was to be a Sign and a test case. Would they respect her rights of watering (and pasturage)?"
+    }
+  ],
+  "en_notes_asad": [
+    {
+      "note_no": "66",
+      "note": "Cf. the second paragraph of 7:73 - \"This she-camel belonging to God shall be a token for you - and the corresponding note 57, which explains that the \"token\" spoken of by Salih was to consist in the manner in which the tribe would treat the animal."
+    },
+    {
+      "note_no": "67",
+      "note": "Lit., \"on a day appointed\", which may mean either \"each on a day appointed\" (i.e., by turns), or, more probably - because more in consonance with the tribal customs of ancient Arabia - \"on the days appointed for the watering of camels\": implying that on those days the ownerless she-camel should receive a full share of water side by side with the herds and flocks belonging to the tribe."
+    }
+  ],
+  "en_snotes_yusuf": "For this she-camel, see n. 1044 to 7:73. The she-camel was to be a Sign and a test case. Would they respect her rights of watering (and pasturage)?",
+  "en_snotes_asad": "Cf. the second paragraph of 7:73 - \"This she-camel belonging to God shall be a token for you - and the corresponding note 57, which explains that the \"token\" spoken of by Salih was to consist in the manner in which the tribe would treat the animal. Lit., \"on a day appointed\", which may mean either \"each on a day appointed\" (i.e., by turns), or, more probably - because more in consonance with the tribal customs of ancient Arabia - \"on the days appointed for the watering of camels\": implying that on those days the ownerless she-camel should receive a full share of water side by side with the herds and flocks belonging to the tribe.",
+  "keywords": null
+}

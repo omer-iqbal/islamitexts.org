@@ -1,0 +1,30 @@
+{
+  "type": "Verse",
+  "surah_no": 70,
+  "verse_no": 6,
+  "ar_text": "إِنَّهُمْ يَرَوْنَهُ بَعِيدًا",
+  "ar_text_clean": "إنهم يرونه بعيدا",
+  "en_tr_yusuf": "They see the (Day) indeed as a far-off (event):",
+  "en_tr_pickth": "Lo! they behold it afar off",
+  "en_tr_shakir": "Surely they think it to be far off,",
+  "en_tr_hilali": "Verily! They see it (the torment) afar off,",
+  "en_tr_dbadi": "Verily they behold it afar off.",
+  "en_tr_qarib": "they see it as being far off;",
+  "en_tr_ayubk": "They see it far off,",
+  "en_tr_sher": "They see it to be far off,",
+  "en_tr_asad": "behold, men look upon that [reckoning] as something far away",
+  "en_tr_arberry": "behold, they see it as if far off;",
+  "en_tr_maududi": "Verily they think that the chastisement is far off,",
+  "en_ctr_yusuf": "They see the (Day) indeed as a far-off (event):",
+  "en_ctr_asad": "behold, men{{6}} look upon that [reckoning] as something far away",
+  "en_notes_yusuf": null,
+  "en_notes_asad": [
+    {
+      "note_no": "6",
+      "note": "Lit., \"they\"."
+    }
+  ],
+  "en_snotes_yusuf": null,
+  "en_snotes_asad": "Lit., \"they\".",
+  "keywords": null
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Verse",
+  "surah_no": 2,
+  "verse_no": 56,
+  "ar_text": "ثُمَّ بَعَثْنَاكُمْ مِنْ بَعْدِ مَوْتِكُمْ لَعَلَّكُمْ تَشْكُرُونَ",
+  "ar_text_clean": "ثم بعثناكم من بعد موتكم لعلكم تشكرون",
+  "en_tr_yusuf": "Then We raised you up after your death: Ye had the chance to be grateful.",
+  "en_tr_pickth": "Then We revived you after your extinction, that ye might give thanks.",
+  "en_tr_shakir": "Then We raised you up after your death that you may give thanks.",
+  "en_tr_hilali": "Then We raised you up after your death, so that you might be grateful.",
+  "en_tr_dbadi": "Then We raised you after your death that haply ye  may return thanks.",
+  "en_tr_qarib": "Then We raised you from your death, so that you might give thanks.",
+  "en_tr_ayubk": "Then We raised you up after your death that you may give thanks.",
+  "en_tr_sher": "The We raised you up after your death that you might be grateful.",
+  "en_tr_asad": "But We raised you again after you had been as dead, so that you might have cause to be grateful.",
+  "en_tr_arberry": "Then We raised you up after you were dead, that haply you should be thankful.",
+  "en_tr_maududi": "Then We raised you to life so that you might become grateful for this favour.{{71}}",
+  "en_ctr_yusuf": "Then We raised you up after your death: Ye had the chance to be grateful.",
+  "en_ctr_asad": "But We raised you again after you had been as dead,{{41}} so that you might have cause to be grateful.",
+  "en_notes_yusuf": null,
+  "en_notes_asad": [
+    {
+      "note_no": "41",
+      "note": "Lit., \"after your death\". The expression mawt does not always denote physical death. Arab philologists - e.g., Raghib - explain the verb mata (lit., \"he died\") as having, in certain contexts, the meaning of \"he became deprived of sensation, dead as to the senses\"; and occasionally as \"deprived of the intellectual faculty, intellectually dead\"; and sometimes even as \"he slept\" (see Lane VII, 2741)."
+    }
+  ],
+  "en_snotes_yusuf": null,
+  "en_snotes_asad": "Lit., \"after your death\". The expression mawt does not always denote physical death. Arab philologists - e.g., Raghib - explain the verb mata (lit., \"he died\") as having, in certain contexts, the meaning of \"he became deprived of sensation, dead as to the senses\"; and occasionally as \"deprived of the intellectual faculty, intellectually dead\"; and sometimes even as \"he slept\" (see Lane VII, 2741).",
+  "keywords": null
+}

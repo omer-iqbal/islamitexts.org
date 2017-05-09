@@ -1,0 +1,30 @@
+{
+  "type": "Verse",
+  "surah_no": 36,
+  "verse_no": 3,
+  "ar_text": "إِنَّكَ لَمِنَ الْمُرْسَلِينَ",
+  "ar_text_clean": "إنك لمن المرسلين",
+  "en_tr_yusuf": "Thou art indeed one of the messengers,",
+  "en_tr_pickth": "Lo! thou art of those sent",
+  "en_tr_shakir": "Most surely you are one of the messengers",
+  "en_tr_hilali": "Truly, you (O Muhammad SAW) are one of the Messengers,",
+  "en_tr_dbadi": "Verily thou art of the sent ones,",
+  "en_tr_qarib": "you (Prophet Muhammad) are truly among the Messengers sent",
+  "en_tr_ayubk": "thou art surely one of the Envoys,",
+  "en_tr_sher": "Thou art, indeed, one of the Messengers,",
+  "en_tr_asad": "verily, thou art indeed one of God's message-bearers,",
+  "en_tr_arberry": "thou art truly among the Envoys",
+  "en_tr_maududi": "you are truly among the Messengers,{{2}}",
+  "en_ctr_yusuf": "Thou art indeed one of the messengers,",
+  "en_ctr_asad": "verily, thou att indeed one of God's message-bearers,{{2}}",
+  "en_notes_yusuf": null,
+  "en_notes_asad": [
+    {
+      "note_no": "2",
+      "note": "This statement explains the adjurative particle wa (rendered by me as \"Consider\") at the beginning of the preceding verse - namely: \"Let the wisdom apparent in the Qur'an serve as an evidence of the fact that thou art an apostle of God\". As regards my rendering of al-qur'an al-hakim as \"this Qur'an full of wisdom\", see note 2 on 10:1."
+    }
+  ],
+  "en_snotes_yusuf": null,
+  "en_snotes_asad": "This statement explains the adjurative particle wa (rendered by me as \"Consider\") at the beginning of the preceding verse - namely: \"Let the wisdom apparent in the Qur'an serve as an evidence of the fact that thou art an apostle of God\". As regards my rendering of al-qur'an al-hakim as \"this Qur'an full of wisdom\", see note 2 on 10:1.",
+  "keywords": null
+}

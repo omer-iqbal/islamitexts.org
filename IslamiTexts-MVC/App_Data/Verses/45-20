@@ -1,0 +1,35 @@
+{
+  "type": "Verse",
+  "surah_no": 45,
+  "verse_no": 20,
+  "ar_text": "هَٰذَا بَصَائِرُ لِلنَّاسِ وَهُدًى وَرَحْمَةٌ لِقَوْمٍ يُوقِنُونَ",
+  "ar_text_clean": "هذا بصائر للناس وهدى ورحمة لقوم يوقنون",
+  "en_tr_yusuf": "These are clear evidences to men and a Guidance and Mercy to those of assured Faith.",
+  "en_tr_pickth": "This is clear indication for mankind, and a guidance and a mercy for a folk whose faith is sure.",
+  "en_tr_shakir": "These are clear proofs for men, and a guidance and a mercy for a people who are sure.",
+  "en_tr_hilali": "This (Qur'an) is a clear insight and evidence for mankind, and a guidance and a mercy for people who have Faith with certainty.",
+  "en_tr_dbadi": "This Book is an enlightenment Unto mankind and a guidance, and a mercy Unto a People who are convinced.",
+  "en_tr_qarib": "These are clear proofs for people, a guidance, and mercy for those who are certain (of the Resurrection) in belief.",
+  "en_tr_ayubk": "These are clear evidences for men, and a guidance and a mercy for a people who have firm faith.",
+  "en_tr_sher": "This Book contains clear evidences for mankind and is a guidance and a mercy for a people who possess firm faith.",
+  "en_tr_asad": "This [revelation, then,] is a means of insight for mankind, and a guidance and grace unto people who are endowed with inner certainty.",
+  "en_tr_arberry": "This is clear proofs for men, and a guidance, and a mercy to a people having sure faith.",
+  "en_tr_maududi": "These are the lights of discernment for people and guidance and mercy for those endowed with sure faith.{{25}}",
+  "en_ctr_yusuf": "These are clear evidences{{4758}} to men and a Guidance and Mercy to those of assured Faith.",
+  "en_ctr_asad": "This [revelation, then,]{{21}} is a means of insight for mankind, and a guidance and grace unto people who are endowed with inner certainty.",
+  "en_notes_yusuf": [
+    {
+      "note_no": "4758",
+      "note": "The evidences of Allah's Signs should be clear to all men: to men of Faith, who accept Allah's Grace, they are a Guide and a Mercy."
+    }
+  ],
+  "en_notes_asad": [
+    {
+      "note_no": "21",
+      "note": "I.e., the Qur'an, which unfolds to man the purpose of all faith."
+    }
+  ],
+  "en_snotes_yusuf": "The evidences of Allah's Signs should be clear to all men: to men of Faith, who accept Allah's Grace, they are a Guide and a Mercy.",
+  "en_snotes_asad": "I.e., the Qur'an, which unfolds to man the purpose of all faith.",
+  "keywords": null
+}

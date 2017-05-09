@@ -1,0 +1,35 @@
+{
+  "type": "Verse",
+  "surah_no": 51,
+  "verse_no": 8,
+  "ar_text": "إِنَّكُمْ لَفِي قَوْلٍ مُخْتَلِفٍ",
+  "ar_text_clean": "إنكم لفي قول مختلف",
+  "en_tr_yusuf": "Truly ye are in a doctrine discordant,",
+  "en_tr_pickth": "Lo! ye, forsooth, are of various opinion (concerning the truth).",
+  "en_tr_shakir": "Most surely you are at variance with each other in what you say,",
+  "en_tr_hilali": "Certainly, you have different ideas (about Muhammad SAW and the Qur'an).",
+  "en_tr_dbadi": "Verily ye are in a divided opinion.",
+  "en_tr_qarib": "surely, you are in different sayings,",
+  "en_tr_ayubk": "you are at variance in speech,",
+  "en_tr_sher": "Truly you at variance in what you say.",
+  "en_tr_asad": "Verily, [O men,] you are deeply at variance as to what to believe:",
+  "en_tr_arberry": "surely you speak at variance,",
+  "en_tr_maududi": "surely you are at variance (about the Hereafter);{{6}}",
+  "en_ctr_yusuf": "Truly ye are in a doctrine discordant,{{4994}}",
+  "en_ctr_asad": "Verily, [O men,] you are deeply at variance as to what to believe:{{4}}",
+  "en_notes_yusuf": [
+    {
+      "note_no": "4994",
+      "note": "Qawl = saying, word, theory, doctrine. Mukhtalif= differing, various, inconsistent with itself, discordant. No theory or doctrine based on a denial of a Hereafter can be consistent with spiritual facts as we know them, or with Allah's Goodness, Justice, and Mercy."
+    }
+  ],
+  "en_notes_asad": [
+    {
+      "note_no": "4",
+      "note": "Lit., \"you are indeed in a discordant opinion (qawl)\", i.e., as to whether or not there is life after death, whether God exists, whether there is any truth in divine revelation, and so forth."
+    }
+  ],
+  "en_snotes_yusuf": "Qawl = saying, word, theory, doctrine. Mukhtalif= differing, various, inconsistent with itself, discordant. No theory or doctrine based on a denial of a Hereafter can be consistent with spiritual facts as we know them, or with Allah's Goodness, Justice, and Mercy.",
+  "en_snotes_asad": "Lit., \"you are indeed in a discordant opinion (qawl)\", i.e., as to whether or not there is life after death, whether God exists, whether there is any truth in divine revelation, and so forth.",
+  "keywords": null
+}

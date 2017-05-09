@@ -1,0 +1,30 @@
+{
+  "type": "Verse",
+  "surah_no": 55,
+  "verse_no": 26,
+  "ar_text": "كُلُّ مَنْ عَلَيْهَا فَانٍ",
+  "ar_text_clean": "كل من عليها فان",
+  "en_tr_yusuf": "All that is on earth will perish:",
+  "en_tr_pickth": "Everyone that is thereon will pass away;",
+  "en_tr_shakir": "Everyone on it must pass away.",
+  "en_tr_hilali": "Whatsoever is on it (the earth) will perish.",
+  "en_tr_dbadi": "Everyone that is thereon will Pass away.",
+  "en_tr_qarib": "All that live on it will perish.",
+  "en_tr_ayubk": "Everyone on it will vanish,",
+  "en_tr_sher": "All that is on earth will pass away;",
+  "en_tr_asad": "All that lives on earth or in the heavens is bound to pass away:",
+  "en_tr_arberry": "All that dwells upon the earth is perishing,",
+  "en_tr_maududi": "All{{25}} that is on earth will perish,",
+  "en_ctr_yusuf": "All that is on earth will perish:",
+  "en_ctr_asad": "All that lives on earth or in the heavens{{10}} is bound to pass away:",
+  "en_notes_yusuf": null,
+  "en_notes_asad": [
+    {
+      "note_no": "10",
+      "note": "Lit., \"Everyone who is upon it\", i.e., on earth and/or, according to Ibn Kathir, in the heavens - since the pronoun in 'alayhd apparently relates to the whole universe."
+    }
+  ],
+  "en_snotes_yusuf": null,
+  "en_snotes_asad": "Lit., \"Everyone who is upon it\", i.e., on earth and/or, according to Ibn Kathir, in the heavens - since the pronoun in 'alayhd apparently relates to the whole universe.",
+  "keywords": null
+}

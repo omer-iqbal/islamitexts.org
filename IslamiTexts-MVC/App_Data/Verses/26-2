@@ -1,0 +1,35 @@
+{
+  "type": "Verse",
+  "surah_no": 26,
+  "verse_no": 2,
+  "ar_text": "تِلْكَ آيَاتُ الْكِتَابِ الْمُبِينِ",
+  "ar_text_clean": "تلك آيات الكتاب المبين",
+  "en_tr_yusuf": "These are verses of the Book that makes (things) clear.",
+  "en_tr_pickth": "These are revelations of the Scripture that maketh plain.",
+  "en_tr_shakir": "These are the verses of the Book that makes (things) clear.",
+  "en_tr_hilali": "These are the Verses of the manifest Book [this Qur'an, which was promised by Allah in the Taurat (Torah) and the Injeel (Gospel), makes things clear].",
+  "en_tr_dbadi": "These are the verses of a Book luminous.",
+  "en_tr_qarib": "Those are the verses of the clear Book.",
+  "en_tr_ayubk": "These are the signs of the Manifest Book.",
+  "en_tr_sher": "These are verses of the Book that makes things clear.",
+  "en_tr_asad": "THESE ARE MESSAGES of the divine writ, clear in itself and clearly showing the truth.",
+  "en_tr_arberry": "Those are the signs of the Manifest Book.",
+  "en_tr_maududi": "These are the verses of the lucid Book{{1}}",
+  "en_ctr_yusuf": "These are verses of the Book that makes (things) clear.{{3138}}",
+  "en_ctr_asad": "THESE ARE MESSAGES of the divine writ, clear in itself and clearly showing the truth.{{2}}",
+  "en_notes_yusuf": [
+    {
+      "note_no": "3138",
+      "note": "Cf. 5:15, and n. 716. The comparison of Allah's revelations with Light is continued."
+    }
+  ],
+  "en_notes_asad": [
+    {
+      "note_no": "2",
+      "note": "See surah 12, note 2."
+    }
+  ],
+  "en_snotes_yusuf": "Cf. 5:15, and n. 716. The comparison of Allah's revelations with Light is continued.",
+  "en_snotes_asad": "See surah 12, note 2.",
+  "keywords": null
+}

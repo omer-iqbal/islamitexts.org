@@ -1,0 +1,35 @@
+{
+  "type": "Verse",
+  "surah_no": 26,
+  "verse_no": 171,
+  "ar_text": "إِلَّا عَجُوزًا فِي الْغَابِرِينَ",
+  "ar_text_clean": "إلا عجوزا في الغابرين",
+  "en_tr_yusuf": "Except an old woman who lingered behind.",
+  "en_tr_pickth": "Save an old woman among those who stayed behind.",
+  "en_tr_shakir": "Except an old woman, among those who remained behind.",
+  "en_tr_hilali": "Except an old woman (his wife) among those who remained behind.",
+  "en_tr_dbadi": "Save an old woman among the lingerers.",
+  "en_tr_qarib": "except an old woman who stayed behind,",
+  "en_tr_ayubk": "except an old woman among those that stayed behind;",
+  "en_tr_sher": "Save an old woman, among those who stayed behind.",
+  "en_tr_asad": "all but an old woman, who was among those that stayed behind;",
+  "en_tr_arberry": "save an old woman among those that tarried;",
+  "en_tr_maududi": "except an old woman who was of those who were left behind.{{113}}",
+  "en_ctr_yusuf": "Except an old woman{{3212}} who lingered behind.",
+  "en_ctr_asad": "- all but an old woman, who was among those that stayed behind;{{71}}",
+  "en_notes_yusuf": [
+    {
+      "note_no": "3212",
+      "note": "This was Lut's wife, who lingered behind and was among those who perished. See n. 1051 to 7:83."
+    }
+  ],
+  "en_notes_asad": [
+    {
+      "note_no": "71",
+      "note": "As is evident from 7:83, 11:81, 27:57 and 29:32-33, the old woman was Lots' wife - a native of Sodom - who chose to remain with her own people instead of accompanying her husband, whom she thus betrayed (cf. also 66:10)."
+    }
+  ],
+  "en_snotes_yusuf": "This was Lut's wife, who lingered behind and was among those who perished. See n. 1051 to 7:83.",
+  "en_snotes_asad": "As is evident from 7:83, 11:81, 27:57 and 29:32-33, the old woman was Lots' wife - a native of Sodom - who chose to remain with her own people instead of accompanying her husband, whom she thus betrayed (cf. also 66:10).",
+  "keywords": null
+}

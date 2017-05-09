@@ -1,0 +1,30 @@
+{
+  "type": "Verse",
+  "surah_no": 51,
+  "verse_no": 13,
+  "ar_text": "يَوْمَ هُمْ عَلَى النَّارِ يُفْتَنُونَ",
+  "ar_text_clean": "يوم هم على النار يفتنون",
+  "en_tr_yusuf": "(It will be) a Day when they will be tried (and tested) over the Fire!",
+  "en_tr_pickth": "(It is) the day when they will be tormented at the Fire,",
+  "en_tr_shakir": "(It is) the day on which they shall be tried at the fire.",
+  "en_tr_hilali": "(It will be) a Day when they will be tried (i.e. burnt) over the Fire!",
+  "en_tr_dbadi": "It will be the Day whereon in the Fire they will be burned",
+  "en_tr_qarib": "On that Day they shall be tried at the Fire,",
+  "en_tr_ayubk": "`On the day when they shall be tried at the Fire: ",
+  "en_tr_sher": "Say, 'It will be the day when they will be tormented with the torment of the Fire.'",
+  "en_tr_asad": "[It will be] a Day when they will be sorely tried by the fire,",
+  "en_tr_arberry": "Upon the day when they shall be tried at the Fire:",
+  "en_tr_maududi": "It will be the Day when they shall be scourged by the Fire{{10}}",
+  "en_ctr_yusuf": "(It will be) a Day when they will be tried (and tested) over the Fire!",
+  "en_ctr_asad": "[It will be] a Day when they will be sorely tried by the fire,{{8}}",
+  "en_notes_yusuf": null,
+  "en_notes_asad": [
+    {
+      "note_no": "8",
+      "note": "This \"trial (fitnah) by the fire\" is in tune with several Qur'anic allusions to the effect that the otherworldly suffering described as \"hell\" is not to be eternal: see in this connection note 114 on 6:128, note 10 on 40:12 and note 53 on 43:74."
+    }
+  ],
+  "en_snotes_yusuf": null,
+  "en_snotes_asad": "This \"trial (fitnah) by the fire\" is in tune with several Qur'anic allusions to the effect that the otherworldly suffering described as \"hell\" is not to be eternal: see in this connection note 114 on 6:128, note 10 on 40:12 and note 53 on 43:74.",
+  "keywords": null
+}

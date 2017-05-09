@@ -1,0 +1,39 @@
+{
+  "type": "Verse",
+  "surah_no": 12,
+  "verse_no": 81,
+  "ar_text": "ارْجِعُوا إِلَىٰ أَبِيكُمْ فَقُولُوا يَا أَبَانَا إِنَّ ابْنَكَ سَرَقَ وَمَا شَهِدْنَا إِلَّا بِمَا عَلِمْنَا وَمَا كُنَّا لِلْغَيْبِ حَافِظِينَ",
+  "ar_text_clean": "ارجعوا إلى أبيكم فقولوا يا أبانا إن ابنك سرق وما شهدنا إلا بما علمنا وما كنا للغيب حافظين",
+  "en_tr_yusuf": "\"Turn ye back to your father, and say, 'O our father! behold! thy son committed theft! we bear witness only to what we know, and we could not well guard against the unseen!",
+  "en_tr_pickth": "Return unto your father and say: O our father! Lo! thy son hath stolen. We testify only to that which we know; we are not guardians of the Unseen.",
+  "en_tr_shakir": "Go back to your father and say: O our father! surely your son committed theft, and we do not bear witness except to what we have known, and we could not keep watch over the unseen:",
+  "en_tr_hilali": "\"Return to your father and say, 'O our father! Verily, your son (Benjamin) has stolen, and we testify not except according to what we know, and we could not know the unseen!",
+  "en_tr_dbadi": "Return unto your father, and say: our father! verily thy son hath stolen, and we testify not save according to that which we know; and of the unseen we could not be guards.",
+  "en_tr_qarib": "Return, all of you to your father and say to him: 'Father, your son has committed a theft. We testify only to what we know. How could we guard against the unforeseen?",
+  "en_tr_ayubk": "Return to your father and say, `father, thy son stole, and we only testified what we knew, and we were no guardians of the unseen.",
+  "en_tr_sher": "Go back to your father and say, 'O our father, thy son committed theft, and we have stated only what we know and we could not be guardians over the unseen;",
+  "en_tr_asad": "[And as for you others,] return to your father and say: `O our father! Behold, thy son has stolen &ndash; but we [can] bear witness to no more than what has become known to us; and [although we gave you our pledge,] we could not guard against something that [lay hidden in the future and, hence,] was beyond the reach of our perception.",
+  "en_tr_arberry": "Return you all to your father, and say, \"Father, thy son stole; we do not testify except that we know; we were no guardians of the Unseen.",
+  "en_tr_maududi": "So go back to your father and tell him: \"Father! Your son has certainly been guilty of stealing. We did not see him stealing but testify according to what we know, and obviously we had no power to keep watch over that what is altogether hidden from us.",
+  "en_ctr_yusuf": "\"Turn ye back to your father, and say, ?O our father! behold! thy son committed theft! we bear witness only to what we know, and we could not well guard against the unseen!{{1754}}",
+  "en_ctr_asad": "[And as for you others,] return to your father and say: 'O our father! Behold, thy son has stolen - but we [can] bear witness to no more than what has become known to us;{{83}} and [although we gave you our pledge,] we could not guard against something that [lay hidden in the future and, hence,] was beyond the reach of our perception.{{84}}",
+  "en_notes_yusuf": [
+    {
+      "note_no": "1754",
+      "note": "'He stole in secret and without our knowledge. How could we in the circumstances prevent it? 1 This may have been a good statement for the other nine brothers, but Judah was himself personally and specially pledged."
+    }
+  ],
+  "en_notes_asad": [
+    {
+      "note_no": "83",
+      "note": "I.e., the finding of the King's cup in Benjamin's bag (Baghawi and Zamakhshari)."
+    },
+    {
+      "note_no": "84",
+      "note": "Lit., \"We were not guardians over that which was beyond the reach of [our] perception\": i.e., \"at the time when we gave you our pledge regarding Benjamin; we did not know that he would steal\" (Zamakhshari)."
+    }
+  ],
+  "en_snotes_yusuf": "'He stole in secret and without our knowledge. How could we in the circumstances prevent it? 1 This may have been a good statement for the other nine brothers, but Judah was himself personally and specially pledged.",
+  "en_snotes_asad": "I.e., the finding of the King's cup in Benjamin's bag (Baghawi and Zamakhshari). Lit., \"We were not guardians over that which was beyond the reach of [our] perception\": i.e., \"at the time when we gave you our pledge regarding Benjamin; we did not know that he would steal\" (Zamakhshari).",
+  "keywords": null
+}

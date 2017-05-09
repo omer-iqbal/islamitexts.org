@@ -1,0 +1,51 @@
+{
+  "type": "Verse",
+  "surah_no": 16,
+  "verse_no": 36,
+  "ar_text": "وَلَقَدْ بَعَثْنَا فِي كُلِّ أُمَّةٍ رَسُولًا أَنِ اعْبُدُوا اللَّهَ وَاجْتَنِبُوا الطَّاغُوتَ فَمِنْهُمْ مَنْ هَدَى اللَّهُ وَمِنْهُمْ مَنْ حَقَّتْ عَلَيْهِ الضَّلَالَةُ فَسِيرُوا فِي الْأَرْضِ فَانْظُرُوا كَيْفَ كَانَ عَاقِبَةُ الْمُكَذِّبِينَ",
+  "ar_text_clean": "ولقد بعثنا في كل أمة رسولا أن اعبدوا الله واجتنبوا الطاغوت فمنهم من هدى الله ومنهم من حقت عليه الضلالة فسيروا في الأرض فانظروا كيف كان عاقبة المكذبين",
+  "en_tr_yusuf": "For We assuredly sent amongst every People a messenger, (with the Command), \"Serve Allah, and eschew Evil\": of the People were some whom Allah guided, and some on whom error became inevitably (established). So travel through the earth, and see what was the end of those who denied (the Truth).",
+  "en_tr_pickth": "And verily We have raised in every nation a messenger, (proclaiming): Serve Allah and shun false gods. Then some of them (there were) whom Allah guided, and some of them (there were) upon whom error had just hold. Do but travel in the land and see the nature of the consequence for the deniers!",
+  "en_tr_shakir": "And certainly We raised in every nation a messenger saying: Serve Allah and shun the Shaitan. So there were some of them whom Allah guided and there were others against whom error was due; therefore travel in the land, then see what was the end of the rejecters.",
+  "en_tr_hilali": "And verily, We have sent among every Ummah (community, nation) a Messenger (proclaiming): \"Worship Allah (Alone), and avoid (or keep away from) Taghut (all false deities, etc. i.e. do not worship Taghut besides Allah).\" Then of them were some whom Allah guided and of them were some upon whom the straying was justified. So travel through the land and see what was the end of those who denied (the truth).",
+  "en_tr_dbadi": "And assuredly We have raised in every community an apostle saying: worship Allah and avoid the devil. Then of them were some whom Allah guided, and of them were some upon whom the straying was justified. Wherefore travel about on the earth, and look on what wise hath been the end of the disbelievers.",
+  "en_tr_qarib": "We sent a Messenger to every nation, saying: 'Worship Allah and avoid the idols. ' Amongst them were some whom Allah guided, and some justly disposed to error. Travel in the land and see what was the end of those who belied (the Revelation and the prophets)!",
+  "en_tr_ayubk": "And We indeed raised a Messenger in every community, (saying) `Serve God and avoid the idol'; then some of them God guided and some of them were bound to go astray. Journey in the land and see how was the end of those who cried lies.",
+  "en_tr_sher": "And We did raise among every people a Messenger with the teaching, 'Worship God and shun the Evil one.' Then among them were some whom God guided and among them were some who became deserving of ruin. So travel through the earth and see what was the end of those who treated the prophets as liars!",
+  "en_tr_asad": "And indeed, within every community have We raised up an apostle [entrusted with this message]: \"Worship God, and shun the powers of evil!\"\nAnd among those [past generations] were people whom God graced with His guidance, just as there was among them [many a one] who inevitably fell prey to grievous error: go, then, about the earth and behold what happened in the end to those who gave the lie to the truth!",
+  "en_tr_arberry": "Indeed, We sent forth among every nation a Messenger,; saying: Serve you God, and eschew idols. Then some. of them God guided, and some were justly disposed to error. So journey in the land, and behold how was the end of them that cried lies.",
+  "en_tr_maududi": "We raised a Messenger in every community (to tell them): \"Serve Allah and shun the Evil One.\"{{32}} Thereafter Allah guided some of them while others were overtaken by error.{{33}} Go about the earth, then, and observe what was the end of those who rejected the Messengers,{{34}} calling them liars.",
+  "en_ctr_yusuf": "For We assuredly sent amongst every People a messengers,{{2060}} (with the Command), \"Serve Allah, and eschew Evil\": of the People were some whom Allah guided, and some on whom error became{{2061}} inevitably (established). So travel through the earth, and see what was the end of those who denied (the Truth).",
+  "en_ctr_asad": "And indeed, within every community{{33}} have We raised up an apostle [entrusted with this message]: \"Worship God, and shun the powers of evil!\"{{34}} And among those [past generations] were people whom God graced with His guidance,{{35}} just as there was among them [many a one] who inevitably fell prey to grievous error:{{36}} go, then, about the earth and behold what happened in the end to those who gave the lie to the truth!",
+  "en_notes_yusuf": [
+    {
+      "note_no": "2060",
+      "note": "Even though Allah's Signs are everywhere in Nature and in men's own conscience, yet in addition Allah has sent human Messengers to every People to call their attention to the Good and turn them from Evil. So they cannot pretend that Allah has abandoned them or that He does not care what they do. His divine Grace always invites their will to choose the right (Cf. 10:47 and 35:24)."
+    },
+    {
+      "note_no": "2061",
+      "note": "While some people accept the guidance of the divine Grace, others so surrender themselves to Evil that it must necessarily follow that evil obtains a grip over them. They have only to travel through time or space to see the end of those who abandoned their lights and surrendered to Evil and error. For haqqah and the meaning of haqq in this connection Cf. 15:64."
+    }
+  ],
+  "en_notes_asad": [
+    {
+      "note_no": "33",
+      "note": "Or \"at every period\", since the term ummah has this significance as well. In its wider sense, it may also be taken here to denote \"civilization\", thus comprising a human groupment as well as a period of time."
+    },
+    {
+      "note_no": "34",
+      "note": "For this rendering of the term at-taghat, see surah 2, note 250. It is to be borne in mind that, in Qur'anic terminology, \"worship of God\" invariably implies the concept of man's sense of responsibility before Him: hence, the above commandment comprises, in the most concise formulation imaginable, the sum-total of all ethical injunctions and prohibitions, and is the basis and source of all morality as well as the one unchanging message inherent in every true religion."
+    },
+    {
+      "note_no": "35",
+      "note": "I.e., who availed themselves of the guidance offered by Him to all human beings."
+    },
+    {
+      "note_no": "36",
+      "note": "Lit., \"upon whom error came to be inevitably established (haqqa 'alayhi)\" or \"against whom [a verdict of] error became inevitable\": i.e., one whose heart \"God has sealed\" in consequence of his persistent, conscious refusal to submit to His guidance (see surah 2, note 7, as well as surah 14, note 4)."
+    }
+  ],
+  "en_snotes_yusuf": "Even though Allah's Signs are everywhere in Nature and in men's own conscience, yet in addition Allah has sent human Messengers to every People to call their attention to the Good and turn them from Evil. So they cannot pretend that Allah has abandoned them or that He does not care what they do. His divine Grace always invites their will to choose the right (Cf. 10:47 and 35:24). While some people accept the guidance of the divine Grace, others so surrender themselves to Evil that it must necessarily follow that evil obtains a grip over them. They have only to travel through time or space to see the end of those who abandoned their lights and surrendered to Evil and error. For haqqah and the meaning of haqq in this connection Cf. 15:64.",
+  "en_snotes_asad": "Or \"at every period\", since the term ummah has this significance as well. In its wider sense, it may also be taken here to denote \"civilization\", thus comprising a human groupment as well as a period of time. For this rendering of the term at-taghat, see surah 2, note 250. It is to be borne in mind that, in Qur'anic terminology, \"worship of God\" invariably implies the concept of man's sense of responsibility before Him: hence, the above commandment comprises, in the most concise formulation imaginable, the sum-total of all ethical injunctions and prohibitions, and is the basis and source of all morality as well as the one unchanging message inherent in every true religion. I.e., who availed themselves of the guidance offered by Him to all human beings. Lit., \"upon whom error came to be inevitably established (haqqa 'alayhi)\" or \"against whom [a verdict of] error became inevitable\": i.e., one whose heart \"God has sealed\" in consequence of his persistent, conscious refusal to submit to His guidance (see surah 2, note 7, as well as surah 14, note 4).",
+  "keywords": null
+}

@@ -1,0 +1,35 @@
+{
+  "type": "Verse",
+  "surah_no": 51,
+  "verse_no": 36,
+  "ar_text": "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍ مِنَ الْمُسْلِمِينَ",
+  "ar_text_clean": "فما وجدنا فيها غير بيت من المسلمين",
+  "en_tr_yusuf": "But We found not there any just (Muslim) persons except in one house:",
+  "en_tr_pickth": "But We found there but one house of those surrendered (to Allah).",
+  "en_tr_shakir": "But We did not find therein save a (single) house of those who submitted (the Muslims).",
+  "en_tr_hilali": "But We found not there any household of the Muslims except one [i.e. Lout (Lot) and his two daughters].",
+  "en_tr_dbadi": "And We found not therein more than one house of the Muslims.",
+  "en_tr_qarib": "But We found in it only one household of those who had surrendered themselves,",
+  "en_tr_ayubk": "and We did not find in it another house of those that had surrendered.",
+  "en_tr_sher": "And We found there only one house of those who were obedient to Us.",
+  "en_tr_asad": "for apart from one [single] house We did not find there any who had surrendered themselves to Us.",
+  "en_tr_arberry": "but We found not therein except one house of those that have surrendered themselves.",
+  "en_tr_maududi": "- and We did not find there any, apart from a single house of Muslims {{34}} -",
+  "en_ctr_yusuf": "But We found not there any just (Muslim) persons except in one house:{{5014}}",
+  "en_ctr_asad": "for apart from one [single] house{{24}} We did not find there any who had surrendered themselves to Us.",
+  "en_notes_yusuf": [
+    {
+      "note_no": "5014",
+      "note": "That was the house of Lut; and even there, his wife had no faith: she disobeyed the Command and perished: 11:81, n. 1577."
+    }
+  ],
+  "en_notes_asad": [
+    {
+      "note_no": "24",
+      "note": "I.e., Lot's family."
+    }
+  ],
+  "en_snotes_yusuf": "That was the house of Lut; and even there, his wife had no faith: she disobeyed the Command and perished: 11:81, n. 1577.",
+  "en_snotes_asad": "I.e., Lot's family.",
+  "keywords": null
+}

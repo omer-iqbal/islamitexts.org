@@ -1,0 +1,30 @@
+{
+  "type": "Verse",
+  "surah_no": 56,
+  "verse_no": 30,
+  "ar_text": "وَظِلٍّ مَمْدُودٍ",
+  "ar_text_clean": "وظل ممدود",
+  "en_tr_yusuf": "In shade long-extended,",
+  "en_tr_pickth": "And spreading shade,",
+  "en_tr_shakir": "And extended shade,",
+  "en_tr_hilali": "In shade long-extended,",
+  "en_tr_dbadi": "And a shade ever-spread.",
+  "en_tr_qarib": "and continuous shade,",
+  "en_tr_ayubk": "spreading shade,",
+  "en_tr_sher": "And extended shade,",
+  "en_tr_asad": "and shade extended,",
+  "en_tr_arberry": "and spreading shade",
+  "en_tr_maududi": "and extended shade,",
+  "en_ctr_yusuf": "In shade long-extended,",
+  "en_ctr_asad": "and shade extended,{{12}}",
+  "en_notes_yusuf": null,
+  "en_notes_asad": [
+    {
+      "note_no": "12",
+      "note": "See note 74 on 4:57."
+    }
+  ],
+  "en_snotes_yusuf": null,
+  "en_snotes_asad": "See note 74 on 4:57.",
+  "keywords": null
+}

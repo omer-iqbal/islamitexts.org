@@ -1,0 +1,34 @@
+{
+  "type": "Verse",
+  "surah_no": 39,
+  "verse_no": 37,
+  "ar_text": "وَمَنْ يَهْدِ اللَّهُ فَمَا لَهُ مِنْ مُضِلٍّ أَلَيْسَ اللَّهُ بِعَزِيزٍ ذِي انْتِقَامٍ",
+  "ar_text_clean": "ومن يهد الله فما له من مضل أليس الله بعزيز ذي انتقام",
+  "en_tr_yusuf": "And such as Allah doth guide there can be none to lead astray. Is not Allah Exalted in Power, (Able to enforce His Will), Lord of Retribution?",
+  "en_tr_pickth": "And he whom Allah guideth, for him there can be no misleader. Is not Allah Mighty, Able to Requite (the wrong)?",
+  "en_tr_shakir": "And whom Allah guides, there is none that can lead him astray; is not Allah Mighty, the Lord of retribution?",
+  "en_tr_hilali": "And whomsoever Allah guides, for him there will be no misleader. Is not Allah All-Mighty, Possessor of Retribution?",
+  "en_tr_dbadi": "And whomsoever Allah guideth, for him there shall be no misleader. Is not Allah Mighty, and Lord of Retribution?",
+  "en_tr_qarib": "But he whom Allah guides, none can lead astray. Is not Allah the Almighty, capable of retribution?",
+  "en_tr_ayubk": "and he whom God guides, there is none that shall send him astray; is not God Mighty, Vengeful?",
+  "en_tr_sher": "And him whom God guides -- there is none to lead him astray. Is not God the Mighty, the Lord of retribution?",
+  "en_tr_asad": "whereas he whom God guides aright can never be led astray. \nIs not God almighty, an avenger of evil?",
+  "en_tr_arberry": "But whomso God guides, none shall lead him astray; is not God All-mighty, All-vengeful?",
+  "en_tr_maududi": "And he whom Allah guides to the Right Way, none can lead him astray. Is not Allah the Most Mighty, the Lord of Retribution?{{56}}",
+  "en_ctr_yusuf": "And such as Allah doth{{4297}} guide there can be none to lead astray. Is not Allah Exalted in Power, (Able to enforce His Will), Lord of Retribution?{{4298}}",
+  "en_ctr_asad": "whereas he whom God guides aright can never be led astray. Is not God almighty, an avenger of evil?",
+  "en_notes_yusuf": [
+    {
+      "note_no": "4297",
+      "note": "On the other hand if anyone holds fast to Allah's Truth, nothing can mislead or betray him."
+    },
+    {
+      "note_no": "4298",
+      "note": "Allah's Power can protect, and will defeat all plots against His Will, as well as punish Evil when it gets beyond bounds."
+    }
+  ],
+  "en_notes_asad": null,
+  "en_snotes_yusuf": "On the other hand if anyone holds fast to Allah's Truth, nothing can mislead or betray him. Allah's Power can protect, and will defeat all plots against His Will, as well as punish Evil when it gets beyond bounds.",
+  "en_snotes_asad": null,
+  "keywords": null
+}

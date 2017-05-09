@@ -1,0 +1,35 @@
+{
+  "type": "Verse",
+  "surah_no": 107,
+  "verse_no": 1,
+  "ar_text": "أَرَأَيْتَ الَّذِي يُكَذِّبُ بِالدِّينِ",
+  "ar_text_clean": "أرأيت الذي يكذب بالدين",
+  "en_tr_yusuf": "Seest thou one who denies the Judgment (to come)?",
+  "en_tr_pickth": "Hast thou observed him who belieth religion?",
+  "en_tr_shakir": "Have you considered him who calls the judgment a lie?",
+  "en_tr_hilali": "Have you seen him who denies the Recompense?",
+  "en_tr_dbadi": "Beholdest thou him who belieth the Requital?",
+  "en_tr_qarib": "Have you seen he who belied the Recompense?",
+  "en_tr_ayubk": "Hast thou seen him who gives lies to the Recompense?",
+  "en_tr_sher": "Hast thou seen him who denies the Judgment?",
+  "en_tr_asad": "HAST THOU ever considered [the kind of man] who gives the lie to all moral law?",
+  "en_tr_arberry": "Hast thou seen him who cries lies to the Doom?",
+  "en_tr_maududi": "Did you see him{{1}} who gives the lie to the Reward and Punishment{{2}} of the Hereafter?{{3}}",
+  "en_ctr_yusuf": "Seest thou one who denies the Judgment{{6281}} (to come)?",
+  "en_ctr_asad": "HAST THOU ever considered [the kind of man] who gives the lie to all moral law?{{1}}",
+  "en_notes_yusuf": [
+    {
+      "note_no": "6281",
+      "note": "Din may mean either (1) the Judgement to come, the responsibility in the moral and spiritual world, for all actions done by men, or (2) Faith, Religion, the principles of right and wrong in spiritual matters, which often conflict with selfish desires or predilections. It is men who deny Faith or future responsibility, that treat the helpless with contempt and lead arrogant selfish lives."
+    }
+  ],
+  "en_notes_asad": [
+    {
+      "note_no": "1",
+      "note": "I.e., who denies that there is any objective validity in religion as such and, thus, in the concept of moral law (which is one of the primary connotations of the term din - cf. note 3 on 109:6). Some commentators are of the opinion that in the above context din signifies \"judgment\", i.e., the Day of Judgment, and interpret this phrase as meaning \"who calls the Day of Judgment a lie\"."
+    }
+  ],
+  "en_snotes_yusuf": "Din may mean either (1) the Judgement to come, the responsibility in the moral and spiritual world, for all actions done by men, or (2) Faith, Religion, the principles of right and wrong in spiritual matters, which often conflict with selfish desires or predilections. It is men who deny Faith or future responsibility, that treat the helpless with contempt and lead arrogant selfish lives.",
+  "en_snotes_asad": "I.e., who denies that there is any objective validity in religion as such and, thus, in the concept of moral law (which is one of the primary connotations of the term din - cf. note 3 on 109:6). Some commentators are of the opinion that in the above context din signifies \"judgment\", i.e., the Day of Judgment, and interpret this phrase as meaning \"who calls the Day of Judgment a lie\".",
+  "keywords": null
+}

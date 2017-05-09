@@ -1,0 +1,30 @@
+{
+  "type": "Verse",
+  "surah_no": 87,
+  "verse_no": 1,
+  "ar_text": "سَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى",
+  "ar_text_clean": "سبح اسم ربك الأعلى",
+  "en_tr_yusuf": "Glorify the name of thy Guardian-Lord Most High,",
+  "en_tr_pickth": "Praise the name of thy Lord the Most High,",
+  "en_tr_shakir": "Glorify the name of your Lord, the Most High,",
+  "en_tr_hilali": "Glorify the Name of your Lord, the Most High,",
+  "en_tr_dbadi": "Hallow thou the name of thine Lord, the Most High,",
+  "en_tr_qarib": "Exalt the Name of your Lord, the Highest,",
+  "en_tr_ayubk": "Extol the Name of thy Lord, the Most High,",
+  "en_tr_sher": "Glorify the name of thy Lord, the Most High,",
+  "en_tr_asad": "EXTOL the limitless glory of thy Sustainer's name: [the glory of] the All-Highest,",
+  "en_tr_arberry": "Magnify the Name of thy Lord the Most High",
+  "en_tr_maududi": "Glorify the name of your Lord, the Most High,{{1}}",
+  "en_ctr_yusuf": "Glorify the name of thy Guardian-Lord{{6080}} Most High,",
+  "en_ctr_asad": "EXTOL the limitless glory of thy Sustainer's name: [the glory of] the Al-Highest,",
+  "en_notes_yusuf": [
+    {
+      "note_no": "6080",
+      "note": "The word \"Lord\" by itself is an inadequate rendering here for Rabb. For it implies cherishing, guarding from harm, sustaining, granting all the means and opportunities of development. See n. 20 to 1:2. For shortness, perhaps \"Guardian- Lord\" will be sufficient in the Text."
+    }
+  ],
+  "en_notes_asad": null,
+  "en_snotes_yusuf": "The word \"Lord\" by itself is an inadequate rendering here for Rabb. For it implies cherishing, guarding from harm, sustaining, granting all the means and opportunities of development. See n. 20 to 1:2. For shortness, perhaps \"Guardian- Lord\" will be sufficient in the Text.",
+  "en_snotes_asad": null,
+  "keywords": null
+}

@@ -1,0 +1,55 @@
+{
+  "type": "Verse",
+  "surah_no": 35,
+  "verse_no": 18,
+  "ar_text": "وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ وَإِنْ تَدْعُ مُثْقَلَةٌ إِلَىٰ حِمْلِهَا لَا يُحْمَلْ مِنْهُ شَيْءٌ وَلَوْ كَانَ ذَا قُرْبَىٰ إِنَّمَا تُنْذِرُ الَّذِينَ يَخْشَوْنَ رَبَّهُمْ بِالْغَيْبِ وَأَقَامُوا الصَّلَاةَ وَمَنْ تَزَكَّىٰ فَإِنَّمَا يَتَزَكَّىٰ لِنَفْسِهِ وَإِلَى اللَّهِ الْمَصِيرُ",
+  "ar_text_clean": "ولا تزر وازرة وزر أخرى وإن تدع مثقلة إلى حملها لا يحمل منه شيء ولو كان ذا قربى إنما تنذر الذين يخشون ربهم بالغيب وأقاموا الصلاة ومن تزكى فإنما يتزكى لنفسه وإلى الله المصير",
+  "en_tr_yusuf": "Nor can a bearer of burdens bear another's burdens if one heavily laden should call another to (bear) his load. Not the least portion of it can be carried (by the other). Even though he be nearly related. Thou canst but admonish such as fear their Lord unseen and establish regular Prayer. And whoever purifies himself does so for the benefit of his own soul; and the destination (of all) is to Allah.",
+  "en_tr_pickth": "And no burdened soul can bear another's burden, and if one heavy laden crieth for (help with) his load, naught of it will be lifted even though he (unto whom he crieth) be of kin. Thou warnest only those who fear their Lord in secret, and have established worship. He who groweth (in goodness), groweth only for himself, (he cannot by his merit redeem others). Unto Allah is the journeying.",
+  "en_tr_shakir": "And a burdened soul cannot bear the burden of another and if one weighed down by burden should cry for (another to carry) its burden, not aught of it shall be carried, even though he be near of kin. You warn only those who fear their Lord in secret and keep up prayer; and whoever purifies himself, he purifies himself only for (the good of) his own soul; and to Allah is the eventual coming.",
+  "en_tr_hilali": "And no bearer of burdens shall bear another's burden, and if one heavily laden calls another to (bear) his load, nothing of it will be lifted even though he be near of kin. You (O Muhammad SAW) can warn only those who fear their Lord unseen, and perform As-Salat (Iqamat-as-Salat). And he who purifies himself (from all kinds of sins), then he purifies only for the benefit of his ownself. And to Allah is the (final) Return (of all).",
+  "en_tr_dbadi": "And a bearer of burthen will not bear another's burthen, and if one heavy-laden calleth for his load, naught thereof will be borne although he be of kin. Thou canst warn only those who fear their Lord, unseen, and establish prayer. And whosoever becometh clean becometh clean only for himself; and Unto Allah is the return.",
+  "en_tr_qarib": "No laden soul shall bear another's load. If one is heavyburdened and calls for his load to be carried, nothing of it will be carried, not even if he is a close relative. You warn only those who fear their Lord in the Unseen, and establish the prayer. He who purifies himself, purifies himself for the good of his own soul. To Allah is the arrival.",
+  "en_tr_ayubk": "And no bearer of load bears the load of another; and if one heavily burdened calls for its load to be carried, not a thing of it will be carried, though he be a near kinsman. Thou warnest only those who fear their Lord, without seeing, and establish the Prayer; and whoso purifies himself, purifies himself for his own good; and to God is the destination.",
+  "en_tr_sher": "And no burdened soul can bear the burden of another; and if a heavily laden soul call another to bear its load, naught of it shall be carried by the other, even though he be a kinsman. Thou canst warn only those who fear their Lord in secret and observe Prayer, And whoso purifies himself, purifies himself only to his own good; and to God shall be the return.",
+  "en_tr_asad": "AND NO BEARER of burdens shall be made to hear another's burden; and if one weighed down by his load calls upon [another] to help him carry it, nothing thereof may be carried [by that other], even if it be one's near of kin. \nHence, thou canst [truly] warn only those who stand in awe of their Sustainer although He is beyond the reach of their perception, and are constant in prayer, and [know that] whoever grows in purity, attains to purity but for the good of his own self, and [that] with God is all journeys' end.",
+  "en_tr_arberry": "No soul laden bears the load of another; and if one heavy-burdened calls for its load to be carried, not a thing of it will be carried, though he be a near kinsman. Thou warnest only those who fear their Lord in the Unseen and perform the prayer; and whosoever purifies himself, purifies himself only for his own souls good. To God is the homecoming.",
+  "en_tr_maududi": "No one can bear another's burden.{{39}} If a heavily laden one should call another to carry his load, none of it shall be carried by the other, even though he be a near of kin.{{40}} (O Prophet), you can warn only those who fear their Lord without seeing Him and establish Prayer.{{41}} Whoever purifies himself does so to his own good. To Allah is the final return.",
+  "en_ctr_yusuf": "Nor can a bearer{{3900}} of burdens bear another?s burdens if one heavily laden should call another to (bear) his load. Not the least portion of it can be carried (by the other). Even though he be nearly{{3901}} related. Thou canst but admonish such as fear their Lord unseen{{3902}} and establish regular Prayer.{{3903}} And whoever purifies himself does so for the benefit of his own soul; and the destination (of all) is to Allah.",
+  "en_ctr_asad": "AND NO BEARER of burdens shall be made to bear another's burden;{{15}} and if one weighed down by his load calls upon [another] to help him carry it, nothing thereof may be carried [by that other], even if it he one's near of kin.{{16}} Hence, thou canst [truly] warn only those who stand in awe of their Sustainer although He is beyond the reach of their perception,{{17}} and are constant in prayer, and [know that] whoever grows in purity, attains to purity but for the good of his own self, and [that] with God is all journeys' end.",
+  "en_notes_yusuf": [
+    {
+      "note_no": "3900",
+      "note": "Bearer: waziratun: feminine in Arabic, as referring to the soul (nafs), as in 6:164 and 53:38."
+    },
+    {
+      "note_no": "3901",
+      "note": "Natural relationship may be considered as a reasonable cause or opportunity for bearing each other's burdens. For example, a mother or a father might offer to die for her or his child, and vice versa. But this does not apply to spiritual matters. There the responsibility is strictly personal and cannot be transferred to another. In 29:13 we are told that the misleaders \"will bear other burdens along with their own\": but the context shows that the \"other\" burdens are the burdens of deluding the others with their falsehoods. Both sins are their own, viz., their original sin, and the sin of deluding the others. But the responsibility will be doubled. (Cf. n. 1019. n. 1515. and n. 3773)."
+    },
+    {
+      "note_no": "3902",
+      "note": "B'il ghayb: unseen in the adverbial sense. The man, who, though he does not see Allah, so realises Allah's Presence in himself as if he saw Him, is the man of genuine Faith, and for him Allah's Revelation comes through many channels and is always fruitful. (Cf. 36:11)."
+    },
+    {
+      "note_no": "3903",
+      "note": "Prayer is one of the means of purifying ourselves of lower motives in life, for in prayer we seek the Presence of Allah; but the purity which we seek is for our own souls: we confer no favour on Allah or on any Power in the spiritual world, as some imagine who make \"gifts\" to Allah. In any case the destination of all is to Allah."
+    }
+  ],
+  "en_notes_asad": [
+    {
+      "note_no": "15",
+      "note": "I.e., on Judgment Day - for \"whatever [wrongj any human being commits rests upon him alone\" (6:164, which is followed by a sentence identical with the one above)."
+    },
+    {
+      "note_no": "16",
+      "note": "Thus, any transfer of moral responsibility from one person to another is shown to be impossible. Whereas the first part of the above statement implies a negation of the Christian doctrine of \"original sin\" with which mankind is supposedly burdened, the second part categorically refutes the doctrine of the \"vicarious atonement\" of that sin by Jesus. (See also 53:38 and the corresponding note 31.)"
+    },
+    {
+      "note_no": "17",
+      "note": "For an explanation of this rendering of bi'l-ghayb, see surah 2, note 3. The meaning is that only those \"who believe in the existence of that which is beyond the reach of human perception\" can really benefit by the \"warning\" inherent in the preceding statement. (See also 27:80-81 and 30:52-53.)"
+    }
+  ],
+  "en_snotes_yusuf": "Bearer: waziratun: feminine in Arabic, as referring to the soul (nafs), as in 6:164 and 53:38. Natural relationship may be considered as a reasonable cause or opportunity for bearing each other's burdens. For example, a mother or a father might offer to die for her or his child, and vice versa. But this does not apply to spiritual matters. There the responsibility is strictly personal and cannot be transferred to another. In 29:13 we are told that the misleaders \"will bear other burdens along with their own\": but the context shows that the \"other\" burdens are the burdens of deluding the others with their falsehoods. Both sins are their own, viz., their original sin, and the sin of deluding the others. But the responsibility will be doubled. (Cf. n. 1019. n. 1515. and n. 3773). B'il ghayb: unseen in the adverbial sense. The man, who, though he does not see Allah, so realises Allah's Presence in himself as if he saw Him, is the man of genuine Faith, and for him Allah's Revelation comes through many channels and is always fruitful. (Cf. 36:11). Prayer is one of the means of purifying ourselves of lower motives in life, for in prayer we seek the Presence of Allah; but the purity which we seek is for our own souls: we confer no favour on Allah or on any Power in the spiritual world, as some imagine who make \"gifts\" to Allah. In any case the destination of all is to Allah.",
+  "en_snotes_asad": "I.e., on Judgment Day - for \"whatever [wrongj any human being commits rests upon him alone\" (6:164, which is followed by a sentence identical with the one above). Thus, any transfer of moral responsibility from one person to another is shown to be impossible. Whereas the first part of the above statement implies a negation of the Christian doctrine of \"original sin\" with which mankind is supposedly burdened, the second part categorically refutes the doctrine of the \"vicarious atonement\" of that sin by Jesus. (See also 53:38 and the corresponding note 31.) For an explanation of this rendering of bi'l-ghayb, see surah 2, note 3. The meaning is that only those \"who believe in the existence of that which is beyond the reach of human perception\" can really benefit by the \"warning\" inherent in the preceding statement. (See also 27:80-81 and 30:52-53.)",
+  "keywords": null
+}

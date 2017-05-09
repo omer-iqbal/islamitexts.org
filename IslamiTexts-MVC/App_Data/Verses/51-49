@@ -1,0 +1,39 @@
+{
+  "type": "Verse",
+  "surah_no": 51,
+  "verse_no": 49,
+  "ar_text": "وَمِنْ كُلِّ شَيْءٍ خَلَقْنَا زَوْجَيْنِ لَعَلَّكُمْ تَذَكَّرُونَ",
+  "ar_text_clean": "ومن كل شيء خلقنا زوجين لعلكم تذكرون",
+  "en_tr_yusuf": "And of every thing We have created pairs: That ye may receive instruction.",
+  "en_tr_pickth": "And all things We have created by pairs, that haply ye may reflect.",
+  "en_tr_shakir": "And of everything We have created pairs that you may be mindful.",
+  "en_tr_hilali": "And of everything We have created pairs, that you may remember (the Grace of Allah).",
+  "en_tr_dbadi": "And of every thing We have created pairs, that haply ye may remember.",
+  "en_tr_qarib": "We created two kinds of all things, so that you will remember.",
+  "en_tr_ayubk": "And of everything We created two kinds that you may heed.",
+  "en_tr_sher": "And of everything have We created pairs that you may reflect.",
+  "en_tr_asad": "And in everything have We created opposites, so that you might bear in mind [that God alone is one].",
+  "en_tr_arberry": "And of everything created We two kinds; haply you will remember",
+  "en_tr_maududi": "And of everything We have created pairs;{{46}} perhaps you will take heed.{{47}}",
+  "en_ctr_yusuf": "And of every thing We have created pairs:{{5026}} That ye may receive instruction.",
+  "en_ctr_asad": "And in everything have We created opposites,{{33}} so that you might bear in mind [that God alone is One]{{34}}",
+  "en_notes_yusuf": [
+    {
+      "note_no": "5026",
+      "note": "See (3) in the last note. Cf. 36:36, n. 3981."
+    }
+  ],
+  "en_notes_asad": [
+    {
+      "note_no": "33",
+      "note": "Lit., \"of every thing have We created pairs\" - a phrase which is explained in note 18 on 36:36."
+    },
+    {
+      "note_no": "34",
+      "note": "Cf. 89:3 and the corresponding note 2."
+    }
+  ],
+  "en_snotes_yusuf": "See (3) in the last note. Cf. 36:36, n. 3981.",
+  "en_snotes_asad": "Lit., \"of every thing have We created pairs\" - a phrase which is explained in note 18 on 36:36. Cf. 89:3 and the corresponding note 2.",
+  "keywords": null
+}

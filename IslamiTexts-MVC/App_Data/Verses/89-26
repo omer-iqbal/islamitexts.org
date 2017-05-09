@@ -1,0 +1,30 @@
+{
+  "type": "Verse",
+  "surah_no": 89,
+  "verse_no": 26,
+  "ar_text": "وَلَا يُوثِقُ وَثَاقَهُ أَحَدٌ",
+  "ar_text_clean": "ولا يوثق وثاقه أحد",
+  "en_tr_yusuf": "And His bonds will be such as none (other) can bind.",
+  "en_tr_pickth": "None bindeth as He then will bind.",
+  "en_tr_shakir": "And no one shall bind with (anything like) His binding.",
+  "en_tr_hilali": "And none will bind as He will bind.",
+  "en_tr_dbadi": "Nor shall any bind with His bond.",
+  "en_tr_qarib": "nor will any bind as He binds.",
+  "en_tr_ayubk": "and none shall bind as He binds.",
+  "en_tr_sher": "And none can bind like unto His binding.",
+  "en_tr_asad": "and none can bind with bonds like His.",
+  "en_tr_arberry": "none shall bind as He binds.",
+  "en_tr_maududi": "and Allah will bind as none other can bind.",
+  "en_ctr_yusuf": "And His bonds will be such as none (other) can bind.",
+  "en_ctr_asad": "and none can bind with bonds like His.{{13}}",
+  "en_notes_yusuf": null,
+  "en_notes_asad": [
+    {
+      "note_no": "13",
+      "note": "See note 7 on 73:12-13."
+    }
+  ],
+  "en_snotes_yusuf": null,
+  "en_snotes_asad": "See note 7 on 73:12-13.",
+  "keywords": null
+}

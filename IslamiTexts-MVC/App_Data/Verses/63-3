@@ -1,0 +1,39 @@
+{
+  "type": "Verse",
+  "surah_no": 63,
+  "verse_no": 3,
+  "ar_text": "ذَٰلِكَ بِأَنَّهُمْ آمَنُوا ثُمَّ كَفَرُوا فَطُبِعَ عَلَىٰ قُلُوبِهِمْ فَهُمْ لَا يَفْقَهُونَ",
+  "ar_text_clean": "ذلك بأنهم آمنوا ثم كفروا فطبع على قلوبهم فهم لا يفقهون",
+  "en_tr_yusuf": "That is because they believed, then they rejected Faith: So a seal was set on their hearts: therefore they understand not.",
+  "en_tr_pickth": "That is because they believed, then disbelieved, therefore their hearts are sealed so that they understand not.",
+  "en_tr_shakir": "That is because they believe, then disbelieve, so a seal is set upon their hearts so that they do not understand.",
+  "en_tr_hilali": "That is because they believed, then disbelieved, therefore their hearts are sealed, so they understand not.",
+  "en_tr_dbadi": "That is, because they believed, and thereafter disbelieved, wherefore their hearts are sealed, so that they understand not.",
+  "en_tr_qarib": "That is because they believed, then disbelieved, because of this a seal has been set upon their hearts so they are unable to understand.",
+  "en_tr_ayubk": "That is because they believed, then disbelieved, then a seal was set on their hearts, so they do not understand.",
+  "en_tr_sher": "That is because they first believed and then disbelieved. So a seal was set upon their hearts and consequently they understand not.",
+  "en_tr_asad": "this, because [they profess that] they have attained to faith, whereas [inwardly] they deny the truth &ndash; and so, a seal has been set on their hearts, so that they can no longer understand [what is true and what false].",
+  "en_tr_arberry": "That is because they have believed, then they have disbelieved; therefore a seal has been set on their hearts, and they do not understand.",
+  "en_tr_maududi": "All that is because they first believed and then disbelieved, and therefore a seal was set on their hearts; as a result they understand nothing.{{4}}",
+  "en_ctr_yusuf": "That is because they believed, then they rejected Faith: So a seal was set{{5468}} on their hearts: therefore they understand not.",
+  "en_ctr_asad": "this, because [they profess that] they have attained to faith, whereas{{2}} [inwardly] they deny the truth - and so, a seal has been set on their hearts so that they can no longer understand [what is true and what false].{{3}}",
+  "en_notes_yusuf": [
+    {
+      "note_no": "5468",
+      "note": "Cf. 2:7. Their double-dealing has fogged their understanding. In Arabic the heart is taken to be the seat of understanding as well as of affection."
+    }
+  ],
+  "en_notes_asad": [
+    {
+      "note_no": "2",
+      "note": "The particle thumma (\"and then\") has often the same function as the simple conjunctive wa (\"and\"), which in this case may be properly rendered as \"whereas\"."
+    },
+    {
+      "note_no": "3",
+      "note": "See surah 2, note 7."
+    }
+  ],
+  "en_snotes_yusuf": "Cf. 2:7. Their double-dealing has fogged their understanding. In Arabic the heart is taken to be the seat of understanding as well as of affection.",
+  "en_snotes_asad": "The particle thumma (\"and then\") has often the same function as the simple conjunctive wa (\"and\"), which in this case may be properly rendered as \"whereas\". See surah 2, note 7.",
+  "keywords": null
+}

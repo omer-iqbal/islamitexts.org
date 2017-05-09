@@ -1,0 +1,35 @@
+{
+  "type": "Verse",
+  "surah_no": 19,
+  "verse_no": 34,
+  "ar_text": "ذَٰلِكَ عِيسَى ابْنُ مَرْيَمَ قَوْلَ الْحَقِّ الَّذِي فِيهِ يَمْتَرُونَ",
+  "ar_text_clean": "ذلك عيسى ابن مريم قول الحق الذي فيه يمترون",
+  "en_tr_yusuf": "Such (was) Jesus the son of Mary: (it is) a statement of truth, about which they (vainly) dispute.",
+  "en_tr_pickth": "Such was Jesus, son of Mary: (this is) a statement of the truth concerning which they doubt.",
+  "en_tr_shakir": "Such is Isa, son of Marium; (this is) the saying of truth about which they dispute.",
+  "en_tr_hilali": "Such is 'Iesa (Jesus), son of Maryam (Mary). (it is) a statement of truth, about which they doubt (or dispute).",
+  "en_tr_dbadi": "Such is 'lsa, son of Maryam: this Is the word of truth wherein they are doubting.",
+  "en_tr_qarib": "Such was (Prophet) Jesus, the son of Mary. A saying of truth, concerning what they doubt.",
+  "en_tr_ayubk": "That is Jesus, son of Mary, in word of truth in which they doubt.",
+  "en_tr_sher": "That was Jesus, son of Mary. This is a statement of the truth concerning which they entertain doubt.",
+  "en_tr_asad": "SUCH WAS, in the words of truth, Jesus the son of Mary, about whose nature they so deeply disagree.",
+  "en_tr_arberry": "That is Jesus, son of Mary, in word of truth, concerning which they are doubting.",
+  "en_tr_maududi": "This is Jesus, the son of Mary; and this is the truth about him concerning which they are in doubt.",
+  "en_ctr_yusuf": "Such (was) Jesus the son of Mary: (it is) a statement of truth, about which they (vainly) dispute.{{2486}}",
+  "en_ctr_asad": "SUCH WAS, in the words of truth, Jesus the son of Mary, about whose nature they so deeply disagree.{{25}}",
+  "en_notes_yusuf": [
+    {
+      "note_no": "2486",
+      "note": "The disputations about the nature of Jesus Christ were vain, but also persistent and sanguinary. The modern Christian churches have thrown them into the background, but they would do well to abandon irrational dogmas altogether."
+    }
+  ],
+  "en_notes_asad": [
+    {
+      "note_no": "25",
+      "note": "Lit., \"about whom they are in doubt\", or \"about whom they [vainly] dispute\": an allusion to the many conflicting views about the nature of Jesus and his origins, ranging from the blasphemous Jewish assertion that he was a \"false prophet\" and the product of a shameful, illicit union (cf. 4:156), to the Christian belief that he was \"the son of God\" and, therefore, God incarnate. In this connection, see also 3:59 and the corresponding note 47."
+    }
+  ],
+  "en_snotes_yusuf": "The disputations about the nature of Jesus Christ were vain, but also persistent and sanguinary. The modern Christian churches have thrown them into the background, but they would do well to abandon irrational dogmas altogether.",
+  "en_snotes_asad": "Lit., \"about whom they are in doubt\", or \"about whom they [vainly] dispute\": an allusion to the many conflicting views about the nature of Jesus and his origins, ranging from the blasphemous Jewish assertion that he was a \"false prophet\" and the product of a shameful, illicit union (cf. 4:156), to the Christian belief that he was \"the son of God\" and, therefore, God incarnate. In this connection, see also 3:59 and the corresponding note 47.",
+  "keywords": null
+}

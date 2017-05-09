@@ -1,0 +1,30 @@
+{
+  "type": "Verse",
+  "surah_no": 100,
+  "verse_no": 8,
+  "ar_text": "وَإِنَّهُ لِحُبِّ الْخَيْرِ لَشَدِيدٌ",
+  "ar_text_clean": "وإنه لحب الخير لشديد",
+  "en_tr_yusuf": "And violent is he in his love of wealth.",
+  "en_tr_pickth": "And lo! in the love of wealth he is violent.",
+  "en_tr_shakir": "And most surely he is tenacious in the love of wealth.",
+  "en_tr_hilali": "And verily, he is violent in the love of wealth.",
+  "en_tr_dbadi": "And verily in the love of wealth he is vehement,",
+  "en_tr_qarib": "And indeed he is ardent for the love of good (wealth, becoming greedy).",
+  "en_tr_ayubk": "and surely he is passionate in his love for good things.",
+  "en_tr_sher": "And, surely, he is passionate in his love for wealth.",
+  "en_tr_asad": "for, verily, to the love of wealth is he most ardently devoted.",
+  "en_tr_arberry": "Surely he is passionate in his love for good things.",
+  "en_tr_maududi": "and surely he loves riches with a passionate loving.{{6}}",
+  "en_ctr_yusuf": "And violent is he in his love of wealth.{{6248}}",
+  "en_ctr_asad": "for, verily, to the love of wealth is he most ardently devoted.",
+  "en_notes_yusuf": [
+    {
+      "note_no": "6248",
+      "note": "What an evil choice he makes in committing treason against his own Benefactor by going after the petty baubles of this world's wealth of fleeting gains?"
+    }
+  ],
+  "en_notes_asad": null,
+  "en_snotes_yusuf": "What an evil choice he makes in committing treason against his own Benefactor by going after the petty baubles of this world's wealth of fleeting gains?",
+  "en_snotes_asad": null,
+  "keywords": null
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Verse",
+  "surah_no": 68,
+  "verse_no": 36,
+  "ar_text": "مَا لَكُمْ كَيْفَ تَحْكُمُونَ",
+  "ar_text_clean": "ما لكم كيف تحكمون",
+  "en_tr_yusuf": "What is the matter with you? How judge ye?",
+  "en_tr_pickth": "What aileth you? How foolishly ye judge!",
+  "en_tr_shakir": "What has happened to you? How do you judge?",
+  "en_tr_hilali": "What is the matter with you? How judge you?",
+  "en_tr_dbadi": "What aileth you? How ill ye judge!",
+  "en_tr_qarib": "What is the matter with you then, how do you judge?",
+  "en_tr_ayubk": "What ails you, how you judge?",
+  "en_tr_sher": "What is the matter with you? How judge ye?",
+  "en_tr_asad": "What is amiss with you? On what do you base your judgment [of right and wrong]?",
+  "en_tr_arberry": "What ails you then, how you judge?",
+  "en_tr_maududi": "What is the matter with you? How ill do you judge!{{20}}",
+  "en_ctr_yusuf": "What is the matter with you? How judge ye?",
+  "en_ctr_asad": "What is amiss with you?{{18}} On what do you base your judgment [of right and wrong]?",
+  "en_notes_yusuf": null,
+  "en_notes_asad": [
+    {
+      "note_no": "18",
+      "note": "Sc., \"Oyou sinners\"."
+    }
+  ],
+  "en_snotes_yusuf": null,
+  "en_snotes_asad": "Sc., \"Oyou sinners\".",
+  "keywords": null
+}

@@ -1,0 +1,35 @@
+{
+  "type": "Verse",
+  "surah_no": 37,
+  "verse_no": 117,
+  "ar_text": "وَآتَيْنَاهُمَا الْكِتَابَ الْمُسْتَبِينَ",
+  "ar_text_clean": "وآتيناهما الكتاب المستبين",
+  "en_tr_yusuf": "And We gave them the Book which helps to make things clear;",
+  "en_tr_pickth": "And We gave them the clear Scripture",
+  "en_tr_shakir": "And We gave them both the Book that made (things) clear.",
+  "en_tr_hilali": "And We gave them the clear Scripture;",
+  "en_tr_dbadi": "And We vouchsafed Unto the twain a Book luminous.",
+  "en_tr_qarib": "and We gave them the Clear Book,",
+  "en_tr_ayubk": "And We gave them the Enlightening Book;",
+  "en_tr_sher": "And We gave them the Book that made everything clear;",
+  "en_tr_asad": "And We gave them the divine writ that made [right and wrong] distinct,",
+  "en_tr_arberry": "and We gave them the Manifesting Book,",
+  "en_tr_maududi": "We granted them a Clear Book,",
+  "en_ctr_yusuf": "And We gave them the Book which helps{{4110}} to make things clear;",
+  "en_ctr_asad": "And We gave them the divine writ that made [right and wrong] distinct,{{47}}",
+  "en_notes_yusuf": [
+    {
+      "note_no": "4110",
+      "note": "Mustabin has a slightly different force from Mubin. I have translated the former by \"which helps to make things clear\", and the latter by \"which makes things clear\"?apt descriptions as applied to the Tawrah and the Qur'an."
+    }
+  ],
+  "en_notes_asad": [
+    {
+      "note_no": "47",
+      "note": "I.e., \"the Torah, wherein there was guidance and light ... unto those who followed the Jewish faith\" (5:44)."
+    }
+  ],
+  "en_snotes_yusuf": "Mustabin has a slightly different force from Mubin. I have translated the former by \"which helps to make things clear\", and the latter by \"which makes things clear\"?apt descriptions as applied to the Tawrah and the Qur'an.",
+  "en_snotes_asad": "I.e., \"the Torah, wherein there was guidance and light ... unto those who followed the Jewish faith\" (5:44).",
+  "keywords": null
+}

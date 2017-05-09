@@ -1,0 +1,35 @@
+{
+  "type": "Verse",
+  "surah_no": 37,
+  "verse_no": 32,
+  "ar_text": "فَأَغْوَيْنَاكُمْ إِنَّا كُنَّا غَاوِينَ",
+  "ar_text_clean": "فأغويناكم إنا كنا غاوين",
+  "en_tr_yusuf": "\"We led you astray: for truly we were ourselves astray.\"",
+  "en_tr_pickth": "Thus we misled you. Lo! we were (ourselves) astray.",
+  "en_tr_shakir": "So we led you astray, for we ourselves were erring.",
+  "en_tr_hilali": "\"So we led you astray because we were ourselves astray.\"",
+  "en_tr_dbadi": "We seduced you astray; verily we were ourselves the seduced ones.",
+  "en_tr_qarib": "we perverted you, indeed, we were perverts. '",
+  "en_tr_ayubk": "We did pervert you, for we ourselves were perverts.'",
+  "en_tr_sher": "And we caused you to go astray for we ourselves had gone astray.'",
+  "en_tr_asad": "So then, [if it be true that] we have caused you to err grievously &ndash; behold, we ourselves had been lost in grievous error!\"",
+  "en_tr_arberry": "Therefore we perverted you, and we ourselves were perverts.",
+  "en_tr_maududi": "So we led you astray; we ourselves were strayed.\"{{19}}",
+  "en_ctr_yusuf": "\"We led you astray: for truly{{4055}} we were ourselves astray.\"",
+  "en_ctr_asad": "So then, [if it be true that] we have caused you to err grievously - behold, we ourselves had been lost in grievous error!\"{{13}}",
+  "en_notes_yusuf": [
+    {
+      "note_no": "4055",
+      "note": "Further, the misleaders can well urge against those who reproach them for misleading them: \"How could you expect anything better from us? You were warned by Allah's Message that we were astray.\""
+    }
+  ],
+  "en_notes_asad": [
+    {
+      "note_no": "13",
+      "note": "For an explanation see 28:62-64 and the corresponding notes."
+    }
+  ],
+  "en_snotes_yusuf": "Further, the misleaders can well urge against those who reproach them for misleading them: \"How could you expect anything better from us? You were warned by Allah's Message that we were astray.\"",
+  "en_snotes_asad": "For an explanation see 28:62-64 and the corresponding notes.",
+  "keywords": null
+}

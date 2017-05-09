@@ -1,0 +1,30 @@
+{
+  "type": "Verse",
+  "surah_no": 37,
+  "verse_no": 154,
+  "ar_text": "مَا لَكُمْ كَيْفَ تَحْكُمُونَ",
+  "ar_text_clean": "ما لكم كيف تحكمون",
+  "en_tr_yusuf": "What is the matter with you? How judge ye?",
+  "en_tr_pickth": "What aileth you? How judge ye?",
+  "en_tr_shakir": "What is the matter with you, how is it that you judge?",
+  "en_tr_hilali": "What is the matter with you? How do you decide?",
+  "en_tr_dbadi": "What aileth you?  How judge ye?",
+  "en_tr_qarib": "What is the matter with you? How do you judge?",
+  "en_tr_ayubk": "What ails you, how do you judge?",
+  "en_tr_sher": "What is the matter with you? How judge ye?",
+  "en_tr_asad": "What is amiss with you and your judgment?",
+  "en_tr_arberry": "What ails you then, how you judge?",
+  "en_tr_maududi": "What is the matter with you that you make such strange judgements?",
+  "en_ctr_yusuf": "What is the matter with you? How judge ye?",
+  "en_ctr_asad": "What is amiss with you and your judgment?{{65}}",
+  "en_notes_yusuf": null,
+  "en_notes_asad": [
+    {
+      "note_no": "65",
+      "note": "Lit., \"how do you judge?\""
+    }
+  ],
+  "en_snotes_yusuf": null,
+  "en_snotes_asad": "Lit., \"how do you judge?\"",
+  "keywords": null
+}

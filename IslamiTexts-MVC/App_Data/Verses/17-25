@@ -1,0 +1,35 @@
+{
+  "type": "Verse",
+  "surah_no": 17,
+  "verse_no": 25,
+  "ar_text": "رَبُّكُمْ أَعْلَمُ بِمَا فِي نُفُوسِكُمْ إِنْ تَكُونُوا صَالِحِينَ فَإِنَّهُ كَانَ لِلْأَوَّابِينَ غَفُورًا",
+  "ar_text_clean": "ربكم أعلم بما في نفوسكم إن تكونوا صالحين فإنه كان للأوابين غفورا",
+  "en_tr_yusuf": "Your Lord knoweth best what is in your hearts: If ye do deeds of righteousness, verily He is Most Forgiving to those who turn to Him again and again (in true penitence).",
+  "en_tr_pickth": "Your Lord is Best Aware of what is in your minds. If ye are righteous, then lo! He was ever Forgiving unto those who turn (unto Him).",
+  "en_tr_shakir": "Your Lord knows best what is in your minds; if you are good, then He is surely Forgiving to those who turn (to Him) frequently.",
+  "en_tr_hilali": "Your Lord knows best what is in your inner- selves. If you are righteous, then, verily, He is Ever Most Forgiving to those who turn unto Him again and again in obedience, and in repentance.",
+  "en_tr_dbadi": "Your Lord is the Best Knower of that which is in your souls;  if ye have been righteous, then He is unto thee Oftreturning, Forgiving.",
+  "en_tr_qarib": "Your Lord knows very well what is in your hearts. If you are good, He is forgiving to those who are penitent.",
+  "en_tr_ayubk": "Your Lord knows very well what is in your souls; if you are righteous, then surely He is Forgiving to those who turn to Him.",
+  "en_tr_sher": "Your Lord knows best what is in your minds, if you are righteous, then surely, He is Most Forgiving to those who turn to Him again and again.",
+  "en_tr_asad": "Your Sustainer is fully aware of what is in your hearts. If you are righteous, [He will forgive you your errors]: for, behold, He is much-forgiving to those who turn unto Him again and again.",
+  "en_tr_arberry": "Your Lord knows very well what is in your hearts if you are righteous, for He is All-forgiving to those who are penitent.",
+  "en_tr_maududi": "Your Lord is best aware of what is in your hearts. If you are righteous, He will indeed forgive those who relent and revert{{27}} (to serving Allah).",
+  "en_ctr_yusuf": "Your Lord knoweth best what is in your hearts: If ye do deeds of righteousness, verily He is Most Forgiving to those who turn to Him again and again (in true penitence).{{2207}}",
+  "en_ctr_asad": "Your Sustainer is fully aware of what is in your hearts. If you are righteous, [He will forgive you your errors]:{{29}} for, behold, He is much-forgiving to those who turn unto Him again and again.",
+  "en_notes_yusuf": [
+    {
+      "note_no": "2207",
+      "note": "It is the heart, and its hidden and secret motives, by which we are judged: for Allah knows them all."
+    }
+  ],
+  "en_notes_asad": [
+    {
+      "note_no": "29",
+      "note": "This interpolation gives the meaning of the above elliptic sentence (Tabari, Baghawi Zamakhshari, Razi)."
+    }
+  ],
+  "en_snotes_yusuf": "It is the heart, and its hidden and secret motives, by which we are judged: for Allah knows them all.",
+  "en_snotes_asad": "This interpolation gives the meaning of the above elliptic sentence (Tabari, Baghawi Zamakhshari, Razi).",
+  "keywords": null
+}

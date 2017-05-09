@@ -1,0 +1,30 @@
+{
+  "type": "Verse",
+  "surah_no": 44,
+  "verse_no": 42,
+  "ar_text": "إِلَّا مَنْ رَحِمَ اللَّهُ إِنَّهُ هُوَ الْعَزِيزُ الرَّحِيمُ",
+  "ar_text_clean": "إلا من رحم الله إنه هو العزيز الرحيم",
+  "en_tr_yusuf": "Except such as receive Allah's Mercy: for He is Exalted in Might, Most Merciful.",
+  "en_tr_pickth": "Save him on whom Allah hath mercy. Lo! He is the Mighty, the Merciful.",
+  "en_tr_shakir": "Save those on whom Allah shall have mercy; surely He is the Mighty the Merciful.",
+  "en_tr_hilali": "Except him on whom Allah has Mercy. Verily, He is the All-Mighty, the Most Merciful.",
+  "en_tr_dbadi": "Save those on whom Allah will have mercy. Verily He! He is the Mighty, the Merciful.",
+  "en_tr_qarib": "except those on whom Allah will have mercy. He is the Almighty, the Most Merciful.",
+  "en_tr_ayubk": "except him on whom God has mercy; surely He is the Mighty, the Merciful.",
+  "en_tr_sher": "Save those to whom God shows mercy. Surely, He is the Mighty, the Merciful.",
+  "en_tr_asad": "save those upon whom God will have bestowed His grace and mercy: for, verily, He alone is almighty, a dispenser of grace.",
+  "en_tr_arberry": "save him upon whom God has mercy; He is the All-mighty, the All-compassionate.",
+  "en_tr_maududi": "except those to whom Allah shows mercy. He is the Most Mighty, the Most Compassionate.{{37}}",
+  "en_ctr_yusuf": "Except such as receive{{4720}} Allah's Mercy: for He is Exalted in Might, Most Merciful.",
+  "en_ctr_asad": "save those upon whom God will have bestowed His grace and mercy: for, verily, He alone is almighty, a dispenser of grace.",
+  "en_notes_yusuf": [
+    {
+      "note_no": "4720",
+      "note": "Allah's Mercy will be the only thing of any efficacy: for He is both able to help (\"Exalted in Might\") and willing to forgive (\"Most Merciful\")."
+    }
+  ],
+  "en_notes_asad": null,
+  "en_snotes_yusuf": "Allah's Mercy will be the only thing of any efficacy: for He is both able to help (\"Exalted in Might\") and willing to forgive (\"Most Merciful\").",
+  "en_snotes_asad": null,
+  "keywords": null
+}

@@ -1,0 +1,35 @@
+{
+  "type": "Verse",
+  "surah_no": 51,
+  "verse_no": 22,
+  "ar_text": "وَفِي السَّمَاءِ رِزْقُكُمْ وَمَا تُوعَدُونَ",
+  "ar_text_clean": "وفي السماء رزقكم وما توعدون",
+  "en_tr_yusuf": "And in heaven is your Sustenance, as (also) that which ye are promised.",
+  "en_tr_pickth": "And in the heaven is your providence and that which ye are promised;",
+  "en_tr_shakir": "And in the heaven is your sustenance and what you are threatened with.",
+  "en_tr_hilali": "And in the heaven is your provision, and that which you are promised.",
+  "en_tr_dbadi": "And in the heaven is Your provision and that which ye are promised.",
+  "en_tr_qarib": "In the sky is your provision and that which you are promised.",
+  "en_tr_ayubk": "And in the heaven is your provision, and that which you are promised.",
+  "en_tr_sher": "And in heaven is your sustenance, and also that which you are promised.",
+  "en_tr_asad": "And in heaven is [the source of] your sustenance [on earth] and [of] all that you are promised [for your life after death]:",
+  "en_tr_arberry": "And in heaven is your provision, and that you are promised.",
+  "en_tr_maududi": "And in heaven is your provision and also what you are being promised. {{20}}",
+  "en_ctr_yusuf": "And in heaven is{{5003}} your Sustenance, as (also) that which ye are promised.",
+  "en_ctr_asad": "And in heaven is [the source of] your sustenance [on earth]{{14}} and [of] all that you are promised [for your life after death]:",
+  "en_notes_yusuf": [
+    {
+      "note_no": "5003",
+      "note": "\"Sustenance\", here as elsewhere, includes physical sustenance, as well as spiritual sustenance. Similarly heaven or sky has both the physical and the spiritual meaning. The physical sustenance grows from rain from the sky; the spiritual sustenance comes from divine aid, grace, and mercy, and includes the Good News and the Warning which come from Revelation about the Hereafter. (Cf. n. 4554)."
+    }
+  ],
+  "en_notes_asad": [
+    {
+      "note_no": "14",
+      "note": "I.e., both physical (rain) and spiritual (truth and guidance)."
+    }
+  ],
+  "en_snotes_yusuf": "\"Sustenance\", here as elsewhere, includes physical sustenance, as well as spiritual sustenance. Similarly heaven or sky has both the physical and the spiritual meaning. The physical sustenance grows from rain from the sky; the spiritual sustenance comes from divine aid, grace, and mercy, and includes the Good News and the Warning which come from Revelation about the Hereafter. (Cf. n. 4554).",
+  "en_snotes_asad": "I.e., both physical (rain) and spiritual (truth and guidance).",
+  "keywords": null
+}

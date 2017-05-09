@@ -1,0 +1,30 @@
+{
+  "type": "Verse",
+  "surah_no": 51,
+  "verse_no": 45,
+  "ar_text": "فَمَا اسْتَطَاعُوا مِنْ قِيَامٍ وَمَا كَانُوا مُنْتَصِرِينَ",
+  "ar_text_clean": "فما استطاعوا من قيام وما كانوا منتصرين",
+  "en_tr_yusuf": "Then they could not even stand (on their feet), nor could they help themselves.",
+  "en_tr_pickth": "And they were unable to rise up, nor could they help themselves.",
+  "en_tr_shakir": "So they were not able to rise up, nor could they defend themselves-",
+  "en_tr_hilali": "Then they were unable to rise up, nor could they help themselves.",
+  "en_tr_dbadi": "So they were not able to stand, nor could they help themselves.",
+  "en_tr_qarib": "they could neither stand up straight, nor were they helped.",
+  "en_tr_ayubk": "while they looked on. Then they could not stand up, nor could defend themselves.",
+  "en_tr_sher": "And they were not able to rise up, nor were they able to defend themselves.",
+  "en_tr_asad": "for they were unable even to rise, and could not defend themselves.",
+  "en_tr_arberry": "and they were not able to stand upright, and were not helped.",
+  "en_tr_maududi": "They were unable even to stand up or protect themselves.{{42}}",
+  "en_ctr_yusuf": "Then they could not even stand (on their feet),{{5023}} nor could they help themselves.",
+  "en_ctr_asad": "for they were unable even to rise, and could not defend themselves.",
+  "en_notes_yusuf": [
+    {
+      "note_no": "5023",
+      "note": "They were swept off in the earthquake."
+    }
+  ],
+  "en_notes_asad": null,
+  "en_snotes_yusuf": "They were swept off in the earthquake.",
+  "en_snotes_asad": null,
+  "keywords": null
+}

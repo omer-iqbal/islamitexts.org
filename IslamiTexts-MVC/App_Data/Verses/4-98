@@ -1,0 +1,35 @@
+{
+  "type": "Verse",
+  "surah_no": 4,
+  "verse_no": 98,
+  "ar_text": "إِلَّا الْمُسْتَضْعَفِينَ مِنَ الرِّجَالِ وَالنِّسَاءِ وَالْوِلْدَانِ لَا يَسْتَطِيعُونَ حِيلَةً وَلَا يَهْتَدُونَ سَبِيلًا",
+  "ar_text_clean": "إلا المستضعفين من الرجال والنساء والولدان لا يستطيعون حيلة ولا يهتدون سبيلا",
+  "en_tr_yusuf": "Except those who are (really) weak and oppressed - men, women, and children - who have no means in their power, nor (a guide-post) to their way.",
+  "en_tr_pickth": "Except the feeble among men, and the women, and the children, who are unable to devise a plan and are not shown a way.",
+  "en_tr_shakir": "Except the weak from among the men and the children who have not in their power the means nor can they find a way (to escape);",
+  "en_tr_hilali": "Except the weak ones among men, women and children who cannot devise a plan, nor are they able to direct their way.",
+  "en_tr_dbadi": "Excepting the weak ones among men, women and children, unable to find a stratagem and not guided to a way.",
+  "en_tr_qarib": "Except the men, women, and children, who, being abased have no means and they are unable to guide themselves to a way.",
+  "en_tr_ayubk": "except the abased men, women and children, who cannot find means nor do they find a way;",
+  "en_tr_sher": "Except such weak ones among men, women and children, as are incapable of adopting any plan or of finding any way to escape.",
+  "en_tr_asad": "But excepted shall be the truly helpless &ndash; be they men or women or children &ndash; who cannot bring forth any strength and have not been shown the right way:",
+  "en_tr_arberry": "except the men, women, and children who, being abased, can devise nothing and are not guided to a way;",
+  "en_tr_maududi": "except the men, women, and children who were indeed too feeble to be able to seek the means of escape and did not know where to go .-",
+  "en_ctr_yusuf": "Except those who are (really) weak and oppressed - men, women, and children - who have no means in their power, nor (a guide-post){{616}} to their way.",
+  "en_ctr_asad": "But excepted shall be the truly helpless - be they men or women or children - who cannot bring forth any strength and have not been shown the right way:{{125}}",
+  "en_notes_yusuf": [
+    {
+      "note_no": "616",
+      "note": "If through physical, mental, or moral incapacity, we are unable to fight the good fight, we must nevertheless guard ourselves from it. Allah's gracious Mercy will recognise and forgive our weakness if it is real weakness, and not merely an excuse. (R)."
+    }
+  ],
+  "en_notes_asad": [
+    {
+      "note_no": "125",
+      "note": "Or: \"cannot find the [right] way\" - implying that they are helplessly confused and cannot, therefore, grasp this basic demand of Islam; or, alternatively, that the message relating to this demand has not been adequately conveyed and explained to them."
+    }
+  ],
+  "en_snotes_yusuf": "If through physical, mental, or moral incapacity, we are unable to fight the good fight, we must nevertheless guard ourselves from it. Allah's gracious Mercy will recognise and forgive our weakness if it is real weakness, and not merely an excuse. (R).",
+  "en_snotes_asad": "Or: \"cannot find the [right] way\" - implying that they are helplessly confused and cannot, therefore, grasp this basic demand of Islam; or, alternatively, that the message relating to this demand has not been adequately conveyed and explained to them.",
+  "keywords": null
+}

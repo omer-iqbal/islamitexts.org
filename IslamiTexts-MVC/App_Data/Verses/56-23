@@ -1,0 +1,30 @@
+{
+  "type": "Verse",
+  "surah_no": 56,
+  "verse_no": 23,
+  "ar_text": "كَأَمْثَالِ اللُّؤْلُؤِ الْمَكْنُونِ",
+  "ar_text_clean": "كأمثال اللؤلؤ المكنون",
+  "en_tr_yusuf": "Like unto Pearls well-guarded.",
+  "en_tr_pickth": "Like unto hidden pearls,",
+  "en_tr_shakir": "The like of the hidden pearls:",
+  "en_tr_hilali": "Like unto preserved pearls.",
+  "en_tr_dbadi": "The likes Unto pearls hidden.",
+  "en_tr_qarib": "like hidden pearls,",
+  "en_tr_ayubk": "as the likeness of covered pearls __",
+  "en_tr_sher": "Like pearls well-preserved,",
+  "en_tr_asad": "like unto pearls [still] hidden in their shells.",
+  "en_tr_arberry": "as the likeness of hidden pearls,",
+  "en_tr_maududi": "beautiful as pearls hidden in their shells.{{12}}",
+  "en_ctr_yusuf": "Like unto Pearls{{5234}} well-guarded.",
+  "en_ctr_asad": "like unto pearls [still] hidden in their shells.",
+  "en_notes_yusuf": [
+    {
+      "note_no": "5234",
+      "note": "Cf. 52:24, where this description is applied to the youths who serve. See also n. 5058 there. In 56:78 below the adjective maknun is applied to the Qur'an, \"the well-guarded Book\"."
+    }
+  ],
+  "en_notes_asad": null,
+  "en_snotes_yusuf": "Cf. 52:24, where this description is applied to the youths who serve. See also n. 5058 there. In 56:78 below the adjective maknun is applied to the Qur'an, \"the well-guarded Book\".",
+  "en_snotes_asad": null,
+  "keywords": null
+}

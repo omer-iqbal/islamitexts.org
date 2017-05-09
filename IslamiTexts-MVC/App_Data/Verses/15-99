@@ -1,0 +1,35 @@
+{
+  "type": "Verse",
+  "surah_no": 15,
+  "verse_no": 99,
+  "ar_text": "وَاعْبُدْ رَبَّكَ حَتَّىٰ يَأْتِيَكَ الْيَقِينُ",
+  "ar_text_clean": "واعبد ربك حتى يأتيك اليقين",
+  "en_tr_yusuf": "And serve thy Lord until there come unto thee the Hour that is Certain.",
+  "en_tr_pickth": "And serve thy Lord till the Inevitable cometh unto thee.",
+  "en_tr_shakir": "And serve your Lord until there comes to you that which is certain.",
+  "en_tr_hilali": "And worship your Lord until there comes unto you the certainty (i.e. death).",
+  "en_tr_dbadi": "And worship thy Lord until there cometh unto thee the certainty.",
+  "en_tr_qarib": "Worship your Lord till the certainty (death) comes to you.",
+  "en_tr_ayubk": "and serve thy Lord, until the Certain comes to thee.",
+  "en_tr_sher": "And continue worshiping thy Lord till death comes to thee.",
+  "en_tr_asad": "and worship thy Sustainer till death comes to thee.",
+  "en_tr_arberry": "and serve thy Lord, until the Certain comes to thee.",
+  "en_tr_maududi": "and worship your Lord until the last moment (of your life) that will most certainly come.{{53}}",
+  "en_ctr_yusuf": "And serve thy Lord until there come unto thee the Hour that is Certain.{{2018}}",
+  "en_ctr_asad": "and worship thy Sustainer till death comes to thee.{{70}}",
+  "en_notes_yusuf": [
+    {
+      "note_no": "2018",
+      "note": "Yaqin: Certainty; the Hour that is Certain; death."
+    }
+  ],
+  "en_notes_asad": [
+    {
+      "note_no": "70",
+      "note": "Lit., \"till there comes unto thee that which is certain (al-yagin)\" - a term which in the Qur'an is often used as a metonym for \"death\" (Bukhari, Kitab-at-Tafsir). However, see also the earliest occurrence of this term in 74:47."
+    }
+  ],
+  "en_snotes_yusuf": "Yaqin: Certainty; the Hour that is Certain; death.",
+  "en_snotes_asad": "Lit., \"till there comes unto thee that which is certain (al-yagin)\" - a term which in the Qur'an is often used as a metonym for \"death\" (Bukhari, Kitab-at-Tafsir). However, see also the earliest occurrence of this term in 74:47.",
+  "keywords": null
+}

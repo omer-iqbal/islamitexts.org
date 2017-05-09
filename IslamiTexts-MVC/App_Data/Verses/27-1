@@ -1,0 +1,39 @@
+{
+  "type": "Verse",
+  "surah_no": 27,
+  "verse_no": 1,
+  "ar_text": "طس تِلْكَ آيَاتُ الْقُرْآنِ وَكِتَابٍ مُبِينٍ",
+  "ar_text_clean": "طس تلك آيات القرآن وكتاب مبين",
+  "en_tr_yusuf": "These are verses of the Qur'an,-a book that makes (things) clear;",
+  "en_tr_pickth": "Ta. Sin. These are revelations of the Qur'an and a Scripture that maketh plain;",
+  "en_tr_shakir": "Ta Sin! These are the verses of the Quran and the Book that makes (things) clear",
+  "en_tr_hilali": "Ta-Sin. [These letters are one of the miracles of the Qur'an, and none but Allah (Alone) knows their meanings]. These are the Verses of the Qur'an, and (it is) a Book (that makes things) clear;",
+  "en_tr_dbadi": "Ta. Sin. These are the verses of the Qur'an and a Book luminous.",
+  "en_tr_qarib": "TaSeen. Those are the verses of the Koran, a clear Book,",
+  "en_tr_ayubk": "Ta Sin (T.S); these are the Signs of the Qur'an (Reading) and a Manifest Book,",
+  "en_tr_sher": "T? S?n. These are the verses of the Qur'?n and an illuminating Book,",
+  "en_tr_asad": "T&#257;. S&#299;n.\nTHESE ARE MESSAGES of the Qur'&#257;n &ndash; a divine writ clear in itself and clearly showing the truth:",
+  "en_tr_arberry": "Ta Sin. Those are the signs of the Koran and a Manifest Book,",
+  "en_tr_maududi": "Ta. Sin.",
+  "en_ctr_yusuf": "Ta Sin.{{3240}} These are verses of the Qur?an,-a book that makes (things) clear;",
+  "en_ctr_asad": "Ta. Sin.{{1}} THESE ARE MESSAGES of the Qur'an - a divine writ clear in itself and clearly showing the truth:{{2}}",
+  "en_notes_yusuf": [
+    {
+      "note_no": "3240",
+      "note": "Seen. 3137 to 26:1."
+    }
+  ],
+  "en_notes_asad": [
+    {
+      "note_no": "1",
+      "note": "See Appendix II."
+    },
+    {
+      "note_no": "2",
+      "note": "For an explanation of this composite rendering of the adjective mubin, see note 2 on 12:1. In the present instance, the term kitab (\"divine writ\") is preceded by the conjunction wa, which primarily signifies \"and\", but in this case has a function more or less similar to the expression \"namely\"; hence, it may be replaced in translation by a dash without affecting the meaning of the sentence."
+    }
+  ],
+  "en_snotes_yusuf": "Seen. 3137 to 26:1.",
+  "en_snotes_asad": "See Appendix II. For an explanation of this composite rendering of the adjective mubin, see note 2 on 12:1. In the present instance, the term kitab (\"divine writ\") is preceded by the conjunction wa, which primarily signifies \"and\", but in this case has a function more or less similar to the expression \"namely\"; hence, it may be replaced in translation by a dash without affecting the meaning of the sentence.",
+  "keywords": null
+}

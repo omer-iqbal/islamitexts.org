@@ -1,0 +1,30 @@
+{
+  "type": "Verse",
+  "surah_no": 26,
+  "verse_no": 151,
+  "ar_text": "وَلَا تُطِيعُوا أَمْرَ الْمُسْرِفِينَ",
+  "ar_text_clean": "ولا تطيعوا أمر المسرفين",
+  "en_tr_yusuf": "\"And follow not the bidding of those who are extravagant,-",
+  "en_tr_pickth": "And obey not the command of the prodigal,",
+  "en_tr_shakir": "And do not obey the bidding of the extravagant,",
+  "en_tr_hilali": "\"And follow not the command of Al-Musrifun [i.e. their chiefs, leaders who were polytheists, criminals and sinners],",
+  "en_tr_dbadi": "And obey not the command of the extravagant.",
+  "en_tr_qarib": "Do not obey the order of the wasteful,",
+  "en_tr_ayubk": "and do not obey the bidding of the extravagant,",
+  "en_tr_sher": "And obey not the bidding of those who exceed the bounds,",
+  "en_tr_asad": "and pay no heed to the counsel of those who are given to excesses",
+  "en_tr_arberry": "and obey not the commandment of the prodigal",
+  "en_tr_maududi": "and do not follow the transgressors",
+  "en_ctr_yusuf": "\"And follow not the bidding of those who are extravagant,-{{3205}}",
+  "en_ctr_asad": "and pay no heed to the counsel of those who are given to excesses",
+  "en_notes_yusuf": [
+    {
+      "note_no": "3205",
+      "note": "They are told: \"All your skill is very well; but cultivate virtue and do not follow the ways of those who put forward extravagant claims for men's powers and material resources, or who lead lives of extravagance in luxury and self-indulgence; that makes mischief: but the door to repentance is open: will you repent?\""
+    }
+  ],
+  "en_notes_asad": null,
+  "en_snotes_yusuf": "They are told: \"All your skill is very well; but cultivate virtue and do not follow the ways of those who put forward extravagant claims for men's powers and material resources, or who lead lives of extravagance in luxury and self-indulgence; that makes mischief: but the door to repentance is open: will you repent?\"",
+  "en_snotes_asad": null,
+  "keywords": null
+}

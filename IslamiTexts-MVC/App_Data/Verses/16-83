@@ -1,0 +1,35 @@
+{
+  "type": "Verse",
+  "surah_no": 16,
+  "verse_no": 83,
+  "ar_text": "يَعْرِفُونَ نِعْمَتَ اللَّهِ ثُمَّ يُنْكِرُونَهَا وَأَكْثَرُهُمُ الْكَافِرُونَ",
+  "ar_text_clean": "يعرفون نعمت الله ثم ينكرونها وأكثرهم الكافرون",
+  "en_tr_yusuf": "They recognise the favours of Allah; then they deny them; and most of them are (creatures) ungrateful.",
+  "en_tr_pickth": "They know the favour of Allah and then deny it. Most of them are ingrates.",
+  "en_tr_shakir": "They recognize the favor of Allah, yet they deny it, and most of them are ungrateful.",
+  "en_tr_hilali": "They recognise the Grace of Allah, yet they deny it (by worshipping others besides Allah) and most of them are disbelievers (deny the Prophethood of Muhammad SAW).",
+  "en_tr_dbadi": "They recognize the favour of Allah, then they deny it, and most of them are infidels.",
+  "en_tr_qarib": "They recognize the favors of Allah, then they disbelieve them; most of them are unbelievers.",
+  "en_tr_ayubk": "They recognise God's blessing yet deny it, and most of them are unthankful.",
+  "en_tr_sher": "They recognize the favour of God, yet they deny it; and most of them are confirmed disbelievers.",
+  "en_tr_asad": "They [who turn away from it] are fully aware of God's blessings, but none the less they refuse to acknowledge them [as such], since most of them are given to denying the truth.",
+  "en_tr_arberry": "They recognize the blessing of God, then they deny it, and the most of them are the unthankful.",
+  "en_tr_maududi": "They are aware of the favours of Allah, and yet refuse to acknowledge them.{{79}} Most of them are determined not to accept the Truth.",
+  "en_ctr_yusuf": "They recognise the favours{{2121}} of Allah. then they deny them; and most of them are (creatures) ungrateful.",
+  "en_ctr_asad": "They [who turn away from it] are fully aware of God's blessings, but none the less they refuse to acknowledge them [as such], since most of them are given to denying the truth.{{99}}",
+  "en_notes_yusuf": [
+    {
+      "note_no": "2121",
+      "note": "'Arafa distinguished from 'alima'm implying a specific discernment (or recognition) of various qualities and uses. All mankind recognises the value of the blessings they enjoy, but in forgetting or disobeying their Author, the wicked show gross ingratitude: for in practice they deny their obligation to Him for those blessing."
+    }
+  ],
+  "en_notes_asad": [
+    {
+      "note_no": "99",
+      "note": "I.e., although they are aware of the many blessings which man enjoys, they refuse to attribute them to God's creative activity, thus implicitly denying the truth of His existence. My rendering of al-kafirun as \"[such as] are given to denying the truth\" is conditioned by the definite article al which, in the above construction, is meant to stress the quality of deliberate intent."
+    }
+  ],
+  "en_snotes_yusuf": "'Arafa distinguished from 'alima'm implying a specific discernment (or recognition) of various qualities and uses. All mankind recognises the value of the blessings they enjoy, but in forgetting or disobeying their Author, the wicked show gross ingratitude: for in practice they deny their obligation to Him for those blessing.",
+  "en_snotes_asad": "I.e., although they are aware of the many blessings which man enjoys, they refuse to attribute them to God's creative activity, thus implicitly denying the truth of His existence. My rendering of al-kafirun as \"[such as] are given to denying the truth\" is conditioned by the definite article al which, in the above construction, is meant to stress the quality of deliberate intent.",
+  "keywords": null
+}

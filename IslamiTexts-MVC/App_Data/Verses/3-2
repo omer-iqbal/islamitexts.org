@@ -1,0 +1,30 @@
+{
+  "type": "Verse",
+  "surah_no": 3,
+  "verse_no": 2,
+  "ar_text": "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ",
+  "ar_text_clean": "الله لا إله إلا هو الحي القيوم",
+  "en_tr_yusuf": "Allah! There is no god but He,-the Living, the Self-Subsisting, Eternal.",
+  "en_tr_pickth": "Allah! There is no god save Him, the Alive, the Eternal.",
+  "en_tr_shakir": "Allah, (there is) no god but He, the Everliving, the Self-subsisting by Whom all things subsist",
+  "en_tr_hilali": "Allah! La ilaha illa Huwa (none has the right to be worshipped but He), the Ever Living, the One Who sustains and protects all that exists.",
+  "en_tr_dbadi": "Allah There is no god but He, the Living, the Sustainer.",
+  "en_tr_qarib": "Allah! There is no god except He, the Living, the Everlasting.",
+  "en_tr_ayubk": "God, there is no god but He, the Living, the Everlasting; ",
+  "en_tr_sher": "God is He besides Whom there is none worthy of worship, the Living, the Self-Subsisting and All-Sustaining.",
+  "en_tr_asad": "GOD &ndash; there is no deity save Him, the Ever-Living, the Self-Subsistent Fount of All Being!",
+  "en_tr_arberry": "God, there is no god but He, the Living, the Everlasting.",
+  "en_tr_maududi": "Allah, the Ever-Living, the Self-Subsisting, Who sustains the entire order of the universe - there is no God but He.{{1}}",
+  "en_ctr_yusuf": "Allah. There is no god but He,-the Living, the Self- Subsisting, Eternal{{343}}.",
+  "en_ctr_asad": "GOD - there is no deity save Him, the Ever-Living, the Self-Subsistent Fount of All Being!",
+  "en_notes_yusuf": [
+    {
+      "note_no": "343",
+      "note": "Cf. 2:255."
+    }
+  ],
+  "en_notes_asad": null,
+  "en_snotes_yusuf": "Cf. 2:255.",
+  "en_snotes_asad": null,
+  "keywords": null
+}

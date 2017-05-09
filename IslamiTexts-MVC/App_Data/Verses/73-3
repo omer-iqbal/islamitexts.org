@@ -1,0 +1,30 @@
+{
+  "type": "Verse",
+  "surah_no": 73,
+  "verse_no": 3,
+  "ar_text": "نِصْفَهُ أَوِ انْقُصْ مِنْهُ قَلِيلًا",
+  "ar_text_clean": "نصفه أو انقص منه قليلا",
+  "en_tr_yusuf": "Half of it,- or a little less,",
+  "en_tr_pickth": "A half thereof, or abate a little thereof",
+  "en_tr_shakir": "Half of it, or lessen it a little,",
+  "en_tr_hilali": "Half of it, or a little less than that,",
+  "en_tr_dbadi": "A half thereof, or abate a little thereof,",
+  "en_tr_qarib": "half the night, or a little less",
+  "en_tr_ayubk": "a half of it, or diminish thereof a little,",
+  "en_tr_sher": "Half of it, or reduce from it a little,",
+  "en_tr_asad": "of one-half thereof &ndash; or make it a little less than that,",
+  "en_tr_arberry": "(a half of it, or diminish a little,",
+  "en_tr_maududi": "half of it, or reduce it a little;",
+  "en_ctr_yusuf": "Half of it,- or a little less,",
+  "en_ctr_asad": "of one-half thereof{{2}} - or make it a little less than that,",
+  "en_notes_yusuf": null,
+  "en_notes_asad": [
+    {
+      "note_no": "2",
+      "note": "Thus Zamakhshari, relating the phrase ilia qalilan (\"all but a small part\") to the subsequent word nisfahu (\"one-half thereof, i.e., of the night)."
+    }
+  ],
+  "en_snotes_yusuf": null,
+  "en_snotes_asad": "Thus Zamakhshari, relating the phrase ilia qalilan (\"all but a small part\") to the subsequent word nisfahu (\"one-half thereof, i.e., of the night).",
+  "keywords": null
+}

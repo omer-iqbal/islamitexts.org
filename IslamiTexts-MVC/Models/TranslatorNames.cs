@@ -13,11 +13,11 @@ namespace IslamiTexts.Models
             { Translator.Asad,       "Muhammad Asad" },
             { Translator.AyubKhan,   "Ayub Khan" },
             { Translator.Daryabadi,  "Abdul-Majid Daryabadi" },
-            { Translator.Hilali,     "Hilali" },
+            { Translator.Hilali,     "Taqiuddin Hilali and M. Mohsin Khan" },
             { Translator.Maududi,    "Abu'l Ala Maududi" },
             { Translator.Pickthall,  "Marmaduke Pickthall" },
-            { Translator.Qaribullah, "Qaribullah" },
-            { Translator.Shakir,     "M. H. Shakir" },
+            { Translator.Qaribullah, "Hasan Qaribullah and Ahmed Darwish" },
+            { Translator.Shakir,     "M. Habib Shakir" },
             { Translator.SherAli,    "Sher Ali" },
             { Translator.YusufAli,   "Abdullah Yusuf Ali" }
         };

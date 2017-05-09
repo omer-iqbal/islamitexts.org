@@ -1,0 +1,30 @@
+{
+  "type": "Verse",
+  "surah_no": 23,
+  "verse_no": 4,
+  "ar_text": "وَالَّذِينَ هُمْ لِلزَّكَاةِ فَاعِلُونَ",
+  "ar_text_clean": "والذين هم للزكاة فاعلون",
+  "en_tr_yusuf": "Who are active in deeds of charity;",
+  "en_tr_pickth": "And who are payers of the poor-due;",
+  "en_tr_shakir": "And who are givers of poor-rate,",
+  "en_tr_hilali": "And those who pay the Zakat.",
+  "en_tr_dbadi": "And those who for the sake of purification are doers.",
+  "en_tr_qarib": "who give charity,",
+  "en_tr_ayubk": "and who are active at Alms-giving,",
+  "en_tr_sher": "And who are prompt and regular in paying the Zak?t,",
+  "en_tr_asad": "and who are intent on inner purity;",
+  "en_tr_arberry": "and at almsgiving are active",
+  "en_tr_maududi": "who spend their Zakat dues in appropriate ways:{{5}}",
+  "en_ctr_yusuf": "Who are active in deeds of charity;",
+  "en_ctr_asad": "and who are intent on inner purity;{{1}}",
+  "en_notes_yusuf": null,
+  "en_notes_asad": [
+    {
+      "note_no": "1",
+      "note": "Lit., \"working for\" or \"active in behalf of [inner] purity\", which is the meaning of zakah in this context (Zamakhshari; the same interpretation has been advanced by Abu Muslim)."
+    }
+  ],
+  "en_snotes_yusuf": null,
+  "en_snotes_asad": "Lit., \"working for\" or \"active in behalf of [inner] purity\", which is the meaning of zakah in this context (Zamakhshari; the same interpretation has been advanced by Abu Muslim).",
+  "keywords": null
+}

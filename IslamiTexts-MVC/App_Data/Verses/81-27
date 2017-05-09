@@ -1,0 +1,30 @@
+{
+  "type": "Verse",
+  "surah_no": 81,
+  "verse_no": 27,
+  "ar_text": "إِنْ هُوَ إِلَّا ذِكْرٌ لِلْعَالَمِينَ",
+  "ar_text_clean": "إن هو إلا ذكر للعالمين",
+  "en_tr_yusuf": "Verily this is no less than a Message to (all) the Worlds:",
+  "en_tr_pickth": "This is naught else than a reminder unto creation,",
+  "en_tr_shakir": "It is naught but a reminder for the nations,",
+  "en_tr_hilali": "Verily, this (the Qur'an) is no less than a Reminder to (all) the 'Alamin (mankind and jinns).",
+  "en_tr_dbadi": "This is naught but an Admonition Unto the worlds-",
+  "en_tr_qarib": "This is nothing but a Reminder to the worlds,",
+  "en_tr_ayubk": "It is naught but a reminder for all people,",
+  "en_tr_sher": "It is nothing but a Reminder unto all the worlds,",
+  "en_tr_asad": "This [message] is no less than a reminder to all mankind &ndash;",
+  "en_tr_arberry": "It is naught but a Reminder unto all beings,",
+  "en_tr_maududi": "It is nothing but Good Counsel for everyone in the world,",
+  "en_ctr_yusuf": "Verily this is no less than a Message to (all) the Worlds:{{5995}}",
+  "en_ctr_asad": "This [message] is no less than a reminder to all mankind",
+  "en_notes_yusuf": [
+    {
+      "note_no": "5995",
+      "note": "It is not meant for one class or race; it is universal, and is addressed to all the Worlds. For the meaning of \"Worlds\", see n. 20 to 1:2."
+    }
+  ],
+  "en_notes_asad": null,
+  "en_snotes_yusuf": "It is not meant for one class or race; it is universal, and is addressed to all the Worlds. For the meaning of \"Worlds\", see n. 20 to 1:2.",
+  "en_snotes_asad": null,
+  "keywords": null
+}

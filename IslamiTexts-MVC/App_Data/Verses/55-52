@@ -1,0 +1,35 @@
+{
+  "type": "Verse",
+  "surah_no": 55,
+  "verse_no": 52,
+  "ar_text": "فِيهِمَا مِنْ كُلِّ فَاكِهَةٍ زَوْجَانِ",
+  "ar_text_clean": "فيهما من كل فاكهة زوجان",
+  "en_tr_yusuf": "In them will be Fruits of every kind, two and two.",
+  "en_tr_pickth": "Wherein is every kind of fruit in pairs.",
+  "en_tr_shakir": "In both of them are two pairs of every fruit.",
+  "en_tr_hilali": "In them (both) will be every kind of fruit in pairs.",
+  "en_tr_dbadi": "In which will be of every fruit two kinds.",
+  "en_tr_qarib": "Therein are two kinds of every fruit.",
+  "en_tr_ayubk": "Therein shall be two kinds of every fruit __",
+  "en_tr_sher": "Therein will be every kind of fruit in pairs.",
+  "en_tr_asad": "In [each of] these two will two kinds of every fruit be [found].",
+  "en_tr_arberry": "therein of every fruit two kinds --",
+  "en_tr_maududi": "In both these is a pair of every fruit.{{43}}",
+  "en_ctr_yusuf": "In them will be Fruits of every kind, two and two.{{5207}}",
+  "en_ctr_asad": "In [each of] these two will two kinds of every fruit be [found].{{25}}",
+  "en_notes_yusuf": [
+    {
+      "note_no": "5207",
+      "note": "The Duality of Fruits is for the same reason as the Duality of the Gardens. See n. 5205."
+    }
+  ],
+  "en_notes_asad": [
+    {
+      "note_no": "25",
+      "note": "Zamakhshari: \"a kind that is known and a kind that is strange (gharrb)\" - i.e., cognitions or sensations that are imaginable on the basis of our experiences in the present life, and such as are, as yet, unimaginable to us, and can, therefore, be only hinted at by means of symbols or allegories, Regarding the concept of \"allegory\" as such, see 3:7 and the corresponding note 8."
+    }
+  ],
+  "en_snotes_yusuf": "The Duality of Fruits is for the same reason as the Duality of the Gardens. See n. 5205.",
+  "en_snotes_asad": "Zamakhshari: \"a kind that is known and a kind that is strange (gharrb)\" - i.e., cognitions or sensations that are imaginable on the basis of our experiences in the present life, and such as are, as yet, unimaginable to us, and can, therefore, be only hinted at by means of symbols or allegories, Regarding the concept of \"allegory\" as such, see 3:7 and the corresponding note 8.",
+  "keywords": null
+}

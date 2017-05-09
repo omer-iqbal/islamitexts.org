@@ -1,0 +1,35 @@
+{
+  "type": "Verse",
+  "surah_no": 68,
+  "verse_no": 2,
+  "ar_text": "مَا أَنْتَ بِنِعْمَةِ رَبِّكَ بِمَجْنُونٍ",
+  "ar_text_clean": "ما أنت بنعمة ربك بمجنون",
+  "en_tr_yusuf": "Thou art not, by the Grace of thy Lord, mad or possessed.",
+  "en_tr_pickth": "Thou art not, for thy Lord's favour unto thee, a madman.",
+  "en_tr_shakir": "By the grace of your Lord you are not mad.",
+  "en_tr_hilali": "You (O Muhammad SAW) are not, by the Grace of your Lord, a madman.",
+  "en_tr_dbadi": "Thou art nor, through the grace of thy Lord, mad.",
+  "en_tr_qarib": "you are not, because of the favor of your Lord, mad.",
+  "en_tr_ayubk": "thou art not, by the blessing of thy Lord, a man possessed;",
+  "en_tr_sher": "Thou art not, by the grace of thy Lord, a madman.",
+  "en_tr_asad": "Thou art not, by thy Sustainer's grace, a madman!",
+  "en_tr_arberry": "thou art not, by the blessing of thy Lord, a man possessed.",
+  "en_tr_maududi": "By your Lord's Grace, you are not afflicted with madness,{{2}}",
+  "en_ctr_yusuf": "Thou art not, by the Grace of thy Lord, mad or possessed.{{5594}}",
+  "en_ctr_asad": "Thou art not, by thy Sustainer's grace, a madman!{{3}}",
+  "en_notes_yusuf": [
+    {
+      "note_no": "5594",
+      "note": "People usually call anyone mad whose standards are different from their own. And madness is believed by superstitious people to be due to demoniacal possession, an idea distinctly in the minds of the New Testament writers: for Luke speaks of a man from whom the \"devils\" were cast out, as being then \"clothed, and in his right mind.\" (Luke, 8:35). (R)."
+    }
+  ],
+  "en_notes_asad": [
+    {
+      "note_no": "3",
+      "note": "This is an allusion to the taunt with which most of Muhammad's contemporaries greeted the beginning of his preaching, and with which they continued to deride him for many years. In its wider sense, the above passage relates - as is so often the case in the Qur'an - not merely to the Prophet but also to all who followed or will follow him: in this particular instance, to all who base their moral valuations on their belief in God and in life after death."
+    }
+  ],
+  "en_snotes_yusuf": "People usually call anyone mad whose standards are different from their own. And madness is believed by superstitious people to be due to demoniacal possession, an idea distinctly in the minds of the New Testament writers: for Luke speaks of a man from whom the \"devils\" were cast out, as being then \"clothed, and in his right mind.\" (Luke, 8:35). (R).",
+  "en_snotes_asad": "This is an allusion to the taunt with which most of Muhammad's contemporaries greeted the beginning of his preaching, and with which they continued to deride him for many years. In its wider sense, the above passage relates - as is so often the case in the Qur'an - not merely to the Prophet but also to all who followed or will follow him: in this particular instance, to all who base their moral valuations on their belief in God and in life after death.",
+  "keywords": null
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Verse",
+  "surah_no": 69,
+  "verse_no": 36,
+  "ar_text": "وَلَا طَعَامٌ إِلَّا مِنْ غِسْلِينٍ",
+  "ar_text_clean": "ولا طعام إلا من غسلين",
+  "en_tr_yusuf": "\"Nor hath he any food except the corruption from the washing of wounds,",
+  "en_tr_pickth": "Nor any food save filth",
+  "en_tr_shakir": "Nor any food except refuse,",
+  "en_tr_hilali": "Nor any food except filth from the washing of wounds,",
+  "en_tr_dbadi": "Nor any food save filthy corruption.",
+  "en_tr_qarib": "nor any food except foul pus",
+  "en_tr_ayubk": "nor any food except foul pus,",
+  "en_tr_sher": "Nor any food save the washing of wounds,",
+  "en_tr_asad": "nor any food save the filth",
+  "en_tr_arberry": "neither any food saving foul pus,",
+  "en_tr_maududi": "and has no food except the filth from the washing of wounds,",
+  "en_ctr_yusuf": "\"Nor hath he any food except the corruption{{5664}} from the washing of wounds,",
+  "en_ctr_asad": "nor any food save the filth",
+  "en_notes_yusuf": [
+    {
+      "note_no": "5664",
+      "note": "They wounded many people by their cruelty and injustice in this life, and it is befitting that they should have no food other than \"the corruption from the washing of wounds\". (R)."
+    }
+  ],
+  "en_notes_asad": null,
+  "en_snotes_yusuf": "They wounded many people by their cruelty and injustice in this life, and it is befitting that they should have no food other than \"the corruption from the washing of wounds\". (R).",
+  "en_snotes_asad": null,
+  "keywords": null
+}

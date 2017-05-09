@@ -1,0 +1,30 @@
+{
+  "type": "Verse",
+  "surah_no": 70,
+  "verse_no": 20,
+  "ar_text": "إِذَا مَسَّهُ الشَّرُّ جَزُوعًا",
+  "ar_text_clean": "إذا مسه الشر جزوعا",
+  "en_tr_yusuf": "Fretful when evil touches him;",
+  "en_tr_pickth": "Fretful when evil befalleth him",
+  "en_tr_shakir": "Being greatly grieved when evil afflicts him",
+  "en_tr_hilali": "Irritable (discontented) when evil touches him;",
+  "en_tr_dbadi": "When evil toucheth him, he is bewailing.",
+  "en_tr_qarib": "When evil comes upon him he is impatient;",
+  "en_tr_ayubk": "when evil visits him, fretful;",
+  "en_tr_sher": "When evil touches him, he is full of lamentations,",
+  "en_tr_asad": "[As a rule,] whenever misfortune touches him, he is filled with self-pity;",
+  "en_tr_arberry": "when evil visits him, impatient,",
+  "en_tr_maududi": "bewailing when evil befalls him,",
+  "en_ctr_yusuf": "Fretful when evil touches him;",
+  "en_ctr_asad": "[As a rule,] whenever misfortune touches him, he is filled with self-pity;{{8}}",
+  "en_notes_yusuf": null,
+  "en_notes_asad": [
+    {
+      "note_no": "8",
+      "note": "The participle jazu - derived from the verb jazi'a - combines the concepts of \"lacking patience\" and \"lamenting over one's misfortune\", and is therefore the contrary of sabr (Jawhari)."
+    }
+  ],
+  "en_snotes_yusuf": null,
+  "en_snotes_asad": "The participle jazu - derived from the verb jazi'a - combines the concepts of \"lacking patience\" and \"lamenting over one's misfortune\", and is therefore the contrary of sabr (Jawhari).",
+  "keywords": null
+}

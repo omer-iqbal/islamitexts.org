@@ -1,0 +1,35 @@
+{
+  "type": "Verse",
+  "surah_no": 90,
+  "verse_no": 9,
+  "ar_text": "وَلِسَانًا وَشَفَتَيْنِ",
+  "ar_text_clean": "ولسانا وشفتين",
+  "en_tr_yusuf": "And a tongue, and a pair of lips?-",
+  "en_tr_pickth": "And a tongue and two lips,",
+  "en_tr_shakir": "And a tongue and two lips,",
+  "en_tr_hilali": "And a tongue and a pair of lips?",
+  "en_tr_dbadi": "And a tongue and two lips,",
+  "en_tr_qarib": "a tongue, and two lips,",
+  "en_tr_ayubk": "and a tongue, and two lips,",
+  "en_tr_sher": "And a tongue and two lips?",
+  "en_tr_asad": "and a tongue, and a pair of lips,",
+  "en_tr_arberry": "and a tongue, and two lips,",
+  "en_tr_maududi": "and a tongue and two lips?{{9}}",
+  "en_ctr_yusuf": "And a tongue,{{6137}} and a pair of lips?-",
+  "en_ctr_asad": "and a tongue, and a pair of lips,{{6}}",
+  "en_notes_yusuf": [
+    {
+      "note_no": "6137",
+      "note": "The eyes give us the faculty of seeing, and may be taken in both the literal and the metaphorical sense. In the same way the tongue gives us the faculty of tasting in both senses. Along with the lips, it also enables us to speak, to ask for information and seek guidance, and to celebrate the praises of Allah."
+    }
+  ],
+  "en_notes_asad": [
+    {
+      "note_no": "6",
+      "note": "I.e., to recognize and to voice the truth of God's existence or, at least to ask for guidance."
+    }
+  ],
+  "en_snotes_yusuf": "The eyes give us the faculty of seeing, and may be taken in both the literal and the metaphorical sense. In the same way the tongue gives us the faculty of tasting in both senses. Along with the lips, it also enables us to speak, to ask for information and seek guidance, and to celebrate the praises of Allah.",
+  "en_snotes_asad": "I.e., to recognize and to voice the truth of God's existence or, at least to ask for guidance.",
+  "keywords": null
+}

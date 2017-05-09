@@ -10,7 +10,7 @@ using System.Diagnostics;
 
 namespace IslamiTexts.Data
 {
-    public class AzureSearchService
+    public class AzureSearchService : ISearcher
     {
         private static readonly string[] VerseSearchFields = new[]
         {
@@ -72,7 +72,7 @@ namespace IslamiTexts.Data
             DocumentSearchResult<VerseDocument> results = 
                 searchClient.Documents.Search<VerseDocument>(searchString, parameters);
 
-            SearchResults searchResults = new SearchResults(start, 10, (int)results.Count.Value);
+            SearchResults searchResults = new SearchResults(start, resultsToFetch, (int)results.Count.Value);
 
             foreach (SearchResult<VerseDocument> result in results.Results)
             {
