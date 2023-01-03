@@ -1,0 +1,11 @@
+<IslamiTextsProcessorConfig>
+    <Operation>Convert-Verses</Operation>
+    <Input>
+        <Format>islamicissues.info-text</Format>
+        <Path>C:\Users\oiqba\source\repos\IslamiTextsNet\App_Data\maududi-towards-understanding-quran-islamicissues.info</Path>
+    </Input>
+    <Output>
+        <Format>one-translation-per-file</Format>
+        <Path>C:\Users\oiqba\GitHub\Islamitexts-Corpus\Verses</Path>
+    </Output>
+</IslamiTextsProcessorConfig>

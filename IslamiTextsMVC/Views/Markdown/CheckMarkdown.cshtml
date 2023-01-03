@@ -1,0 +1,78 @@
+﻿@model IslamiTexts.Models.Markdown
+@using Markdig;
+@using Markdig.Extensions.Footnotes;
+
+@{
+    ViewData["Title"] = "Check Markdown";
+    string result = "";
+    if (Model?.Text != null)
+    {
+        FootnoteOptions options = new FootnoteOptions
+        {
+            LabelType = FootnoteLabelType.PreserveMarkdownLabel,
+            CreateBackLinks = false
+        };
+
+        var pipeline = new MarkdownPipelineBuilder().UseFootnotes(options).UseGridTables().Build();
+        result = Markdown.ToHtml(Model.Text, pipeline);
+    }
+}
+
+<table style="table-layout: fixed; width: 100%;">
+    <tr>
+        <th style="min-width: 50%;">Markdown</th>
+        <th style="min-width: 50%;">Formatted</th>
+    </tr>
+    <tr>
+        <td style="vertical-align: top;">
+            <form asp-action="Check">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <textarea asp-for="Text" rows="15" Font-Name="Consolas" class="form-control font-monospace"></textarea>
+                    <span asp-validation-for="Text" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Check" class="btn btn-primary" />
+                </div>
+
+            </form>
+        </td>
+        <td style="vertical-align: top;">
+            <div class="formattedText">@Html.Raw(result)</div>
+        </td>
+    </tr>
+</table>
+
+<hr/>
+@{
+    //if (Model?.Text != null)
+    //{
+    //    <hr/>
+    //    IslamiTextsNet.Content.DocumentProcessor processor = new IslamiTextsNet.Content.DocumentProcessor(Model.Text);
+    //    string[] nodes = processor.GetVerseExplanations();
+    //    foreach (string node in nodes)
+    //    {
+    //        <p>@node</p>
+    //    }
+    //}
+}
+@{
+    if (Model?.Text != null)
+    {
+        <hr />
+        <h4>Html</h4>
+        <div class="htmlText">
+            @{
+                using (System.IO.StringReader reader = new System.IO.StringReader(result))
+                {
+                    string line;
+                    while ((line = reader.ReadLine()) != null)
+                    {
+                        @line
+                        <br/>
+                    }
+                }
+            }
+        </div>
+    }
+}

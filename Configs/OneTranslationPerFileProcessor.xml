@@ -1,0 +1,18 @@
+<IslamiTextsProcessorConfig>
+    <Operation>Convert-Verses</Operation>
+    <Input>
+        <Format>one-translation-per-file</Format>
+        <Path>C:\Users\oiqba\GitHub\Islamitexts-Corpus\Verses</Path>
+    </Input>
+    <Transformations>
+        <Transformation Id="replace-br-with-backslash" ApplyTo="yusuf-ali-commentary-1938" />
+        <!--Transformation Id="Quran-to-Qur'an" ApplyTo="commentary-yusuf-ali-1938" />
+        <Transformation Id="Allah-to-God" ApplyTo="commentary-yusuf-ali-1938" />
+        <Transformation Id="Single-Quotes-to-Smart" />
+        <Transformation Id="Double-Quotes-to-Smart" /-->
+    </Transformations>
+    <Output>
+        <Format>one-translation-per-file</Format>
+        <Path>C:\Users\oiqba\GitHub\Islamitexts-Corpus\Verses</Path>
+    </Output>
+</IslamiTextsProcessorConfig>

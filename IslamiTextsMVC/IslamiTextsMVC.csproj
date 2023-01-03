@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\markdig\src\Markdig\Markdig.csproj" />
+    <ProjectReference Include="..\DocumentModel\DocumentModel.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Views\Tools\" />
+  </ItemGroup>
+
+</Project>

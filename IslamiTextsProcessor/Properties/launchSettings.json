@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "IslamiTextsProcessor": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\oiqba\\source\\repos\\IslamiTexts\\Configs\\OneTranslationPerFileProcessor.xml",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:54962;http://localhost:54963"
+    }
+  }
+}
